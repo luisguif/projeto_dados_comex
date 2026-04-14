@@ -22,7 +22,7 @@ Este projeto simula operações reais de uma empresa de importação brasileira,
 ## 🏗️ Arquitetura do Projeto
 
 ```
-importacoes-brasileiras/
+projeto-dados-comex/
 │
 ├── dados_brutos/                  # CSVs gerados (dataset sintético)
 │   ├── dim_clientes.csv
@@ -54,7 +54,6 @@ importacoes-brasileiras/
 │
 ├── powerbi/
 │   ├── dashboard_importacoes.pbix  # Arquivo Power BI
-│   └── tema_corporativo.json       # Tema dark corporativo customizado
 │
 ├── docs/
 │   ├── dicionario_de_dados.csv
@@ -189,8 +188,8 @@ Power BI Desktop (Windows)
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/importacoes-brasileiras.git
-cd importacoes-brasileiras
+git clone https://github.com/luisguif/projeto_dados_comex
+cd projeto-dados-comex
 
 # Instale as dependências
 pip install pandas numpy jupyter
@@ -207,7 +206,7 @@ jupyter notebook notebook/pipeline_importacao.ipynb
 
 ### Power BI
 
-1. Abra `powerbi/dashboard_importacoes.pbix`
+1. Abra `powerbi/relatorio_dados_comex.pbix`
 2. Atualize o caminho dos dados em **Transformar Dados → Configurações da Fonte**
 3. Aplique e feche — os dashboards serão carregados automaticamente
 
