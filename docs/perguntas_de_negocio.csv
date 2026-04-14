@@ -1,0 +1,11 @@
+﻿ID,Pergunta de Negócio,Tabelas Envolvidas,Métrica Principal
+1,Qual é o lead time médio (dias entre embarque e chegada real) por fornecedor? Quais fornecedores estão consistentemente acima da média?,fato_processos_importacao + dim_fornecedores,AVG(data_chegada_real - data_embarque) GROUP BY fornecedor
+2,Qual o impacto da variação cambial (USD/BRL) no custo total de importação? Processos com câmbio acima de 5.50 têm custo significativamente maior?,fato_processos_importacao + fato_custos,SUM(valor_brl) GROUP BY faixa_cambio
+3,Quais fornecedores têm maior taxa de atraso? Existe correlação com o nível de confiabilidade cadastrado?,fato_processos_importacao + dim_fornecedores,COUNT(status='Atrasado')/COUNT(*) GROUP BY fornecedor
+4,"Qual o custo logístico médio por modal (Marítimo vs Aéreo) e por incoterm (FOB, CIF, EXW)?",fato_processos_importacao + fato_custos,"SUM(valor_brl) GROUP BY tipo_custo, modal, incoterm"
+5,Qual segmento de cliente gera maior volume de importações (em USD) e qual tem o maior custo médio por processo?,fato_processos_importacao + fato_itens_processo + dim_clientes,SUM(valor_total_usd) e AVG(custo_total) GROUP BY segmento
+6,Quais produtos (NCM/categoria) representam maior valor importado? Existe concentração em poucos NCMs?,fato_itens_processo + dim_produtos,"SUM(valor_total_usd) GROUP BY ncm, categoria"
+7,"Qual a distribuição de custos por tipo (Frete, Imposto, ICMS, Demurrage)? O Demurrage está correlacionado com fornecedores de baixa confiabilidade?",fato_custos + fato_processos_importacao + dim_fornecedores,SUM(valor_brl) GROUP BY tipo_custo
+8,Como evoluiu o custo total de importação trimestre a trimestre (2022-2024)? Existe sazonalidade?,fato_custos + fato_processos_importacao + dim_tempo,"SUM(valor_brl) GROUP BY ano, trimestre"
+9,Qual o custo de oportunidade dos processos atrasados? (Demurrage + Armazenagem extra nos processos com status Atrasado),fato_custos + fato_processos_importacao,"SUM(valor_brl) WHERE tipo_custo IN ('Demurrage','Armazenagem') AND status='Atrasado'"
+10,"Quais são os 10 fornecedores mais eficientes? (combinando: menor lead time real, menor taxa de atraso e menor custo de frete)",fato_processos_importacao + fato_custos + dim_fornecedores,Índice composto: peso lead_time + peso taxa_atraso + peso custo_frete

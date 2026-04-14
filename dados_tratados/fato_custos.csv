@@ -1,0 +1,4064 @@
+﻿id_custo,id_processo,tipo_custo,valor_brl
+1,1,Frete Internacional,708.47
+2,1,Seguro,317.28
+3,1,Imposto Importação,6004.15
+4,1,ICMS,5992.21
+5,1,Armazenagem,828.38
+6,1,Despachante,1230.56
+26,5,Frete Internacional,2487865.46
+27,5,Seguro,51770.06
+28,5,Imposto Importação,504749.54
+29,5,ICMS,637591.4
+30,5,Armazenagem,3095.18
+31,5,Despachante,2063.28
+39,7,Frete Internacional,1665237.12
+40,7,Seguro,143397.26
+41,7,Imposto Importação,1367334.53
+42,7,ICMS,2336127.7
+43,7,Armazenagem,3256.13
+44,7,Demurrage,6935.53
+45,7,Despachante,3594.03
+46,8,Frete Internacional,44760.81
+47,8,Seguro,1449.64
+48,8,Imposto Importação,17017.35
+49,8,ICMS,20818.04
+50,8,Armazenagem,1674.61
+51,8,Despachante,2643.94
+52,9,Frete Internacional,27581.3
+53,9,Seguro,1302.26
+54,9,Imposto Importação,43877.69
+55,9,ICMS,30681.89
+56,9,Armazenagem,1806.44
+57,9,Despachante,1735.4
+58,10,Frete Internacional,1529.06
+59,10,Seguro,483.61
+60,10,Imposto Importação,15703.3
+61,10,ICMS,13255.94
+62,10,Armazenagem,930.7
+63,10,Despachante,1737.58
+64,11,Frete Internacional,20289.96
+65,11,Seguro,3130.24
+66,11,Imposto Importação,50059.2
+67,11,ICMS,47665.73
+68,11,Armazenagem,3374.56
+69,11,Despachante,1641.43
+70,12,Frete Internacional,33333.42
+71,12,Seguro,13116.18
+72,12,Imposto Importação,166221.32
+73,12,ICMS,176456.63
+74,12,Armazenagem,4249.74
+75,12,Despachante,2903.62
+76,13,Frete Internacional,26049.6
+77,13,Seguro,779.24
+78,13,Imposto Importação,15278.29
+79,13,ICMS,18391.66
+80,13,Armazenagem,625.52
+81,13,Despachante,2107.86
+82,14,Frete Internacional,94697.77
+83,14,Seguro,10087.11
+84,14,Imposto Importação,200959.65
+85,14,ICMS,181811.35
+86,14,Armazenagem,3336.57
+87,14,Despachante,1678.45
+94,16,Frete Internacional,36179.78
+95,16,Seguro,6129.36
+96,16,Imposto Importação,116139.77
+97,16,ICMS,86544.77
+98,16,Armazenagem,2447.58
+99,16,Despachante,1733.4
+100,17,Frete Internacional,14555.43
+101,17,Seguro,2359.13
+102,17,Imposto Importação,60757.84
+103,17,ICMS,70701.39
+104,17,Armazenagem,4129.23
+105,17,Despachante,2704.33
+113,19,Frete Internacional,118312.31
+114,19,Seguro,6724.4
+115,19,Imposto Importação,141736.89
+116,19,ICMS,188569.27
+117,19,Armazenagem,3446.18
+118,19,Despachante,3111.13
+119,20,Frete Internacional,455928.06
+120,20,Seguro,41534.15
+121,20,Imposto Importação,533541.4
+122,20,ICMS,544795.85
+123,20,Armazenagem,2239.75
+124,20,Despachante,4081.01
+125,21,Frete Internacional,49579.09
+126,21,Seguro,2921.76
+127,21,Imposto Importação,43635.28
+128,21,ICMS,45634.3
+129,21,Armazenagem,5284.64
+130,21,Demurrage,3194.76
+131,21,Despachante,3466.33
+132,22,Frete Internacional,677192.94
+133,22,Seguro,63529.17
+134,22,Imposto Importação,841806.01
+135,22,ICMS,1061579.25
+136,22,Armazenagem,4216.19
+137,22,Despachante,3391.54
+138,23,Frete Internacional,15556.87
+139,23,Seguro,5993.09
+140,23,Imposto Importação,138681.14
+141,23,ICMS,135050.28
+142,23,Armazenagem,1701.13
+143,23,Despachante,1339.36
+144,24,Frete Internacional,69022.97
+145,24,Seguro,9896.6
+146,24,Imposto Importação,97333.39
+147,24,ICMS,119729.41
+148,24,Armazenagem,2622.97
+149,24,Demurrage,7654.46
+150,24,Despachante,2817.3
+151,25,Frete Internacional,130615.12
+152,25,Seguro,6085.16
+153,25,Imposto Importação,159518.04
+154,25,ICMS,137522.56
+155,25,Armazenagem,2391.81
+156,25,Despachante,4117.83
+157,26,Frete Internacional,233060.32
+158,26,Seguro,29643.31
+159,26,Imposto Importação,718746.07
+160,26,ICMS,620229.08
+161,26,Armazenagem,3060.08
+162,26,Despachante,3360.88
+163,27,Frete Internacional,66815.37
+164,27,Seguro,12416.35
+165,27,Imposto Importação,110090.99
+166,27,ICMS,166452.76
+167,27,Armazenagem,1650.23
+168,27,Demurrage,2490.8
+169,27,Despachante,4761.4
+170,28,Frete Internacional,60974.74
+171,28,Seguro,15068.73
+172,28,Imposto Importação,330548.73
+173,28,ICMS,300104.91
+174,28,Armazenagem,3240.34
+175,28,Demurrage,5457.27
+176,28,Despachante,4607.68
+183,30,Frete Internacional,412.0
+184,30,Seguro,62.42
+185,30,Imposto Importação,1104.5
+186,30,ICMS,1394.71
+187,30,Armazenagem,4226.97
+188,30,Despachante,3152.35
+189,31,Frete Internacional,2186.65
+190,31,Seguro,95.74
+191,31,Imposto Importação,4165.96
+192,31,ICMS,3628.33
+193,31,Armazenagem,3912.12
+194,31,Demurrage,823.96
+195,31,Despachante,2062.39
+196,32,Frete Internacional,286923.01
+197,32,Seguro,24295.76
+198,32,Imposto Importação,453573.98
+199,32,ICMS,417407.36
+200,32,Armazenagem,953.48
+201,32,Despachante,1637.18
+208,34,Frete Internacional,210148.76
+209,34,Seguro,42603.47
+210,34,Imposto Importação,789825.28
+211,34,ICMS,819861.06
+212,34,Armazenagem,4279.76
+213,34,Despachante,4479.31
+226,37,Frete Internacional,112058.73
+227,37,Seguro,2765.2
+228,37,Imposto Importação,81028.13
+229,37,ICMS,96615.34
+230,37,Armazenagem,2024.16
+231,37,Despachante,4543.45
+232,38,Frete Internacional,437511.19
+233,38,Seguro,35832.68
+234,38,Imposto Importação,316000.91
+235,38,ICMS,644656.48
+236,38,Armazenagem,1407.0
+237,38,Despachante,4486.38
+245,40,Frete Internacional,591.24
+246,40,Seguro,340.55
+247,40,Imposto Importação,5495.93
+248,40,ICMS,4547.45
+249,40,Armazenagem,2162.13
+250,40,Despachante,4690.5
+258,42,Frete Internacional,46234.9
+259,42,Seguro,4060.31
+260,42,Imposto Importação,50047.53
+261,42,ICMS,65205.48
+262,42,Armazenagem,629.92
+263,42,Despachante,2341.44
+264,43,Frete Internacional,96360.46
+265,43,Seguro,11995.99
+266,43,Imposto Importação,130667.15
+267,43,ICMS,194524.29
+268,43,Armazenagem,719.65
+269,43,Despachante,4670.68
+270,44,Frete Internacional,17724.41
+271,44,Seguro,7621.48
+272,44,Imposto Importação,157737.45
+273,44,ICMS,162301.19
+274,44,Armazenagem,1859.76
+275,44,Despachante,1467.83
+282,46,Frete Internacional,21415.71
+283,46,Seguro,2006.36
+284,46,Imposto Importação,35118.3
+285,46,ICMS,28599.89
+286,46,Armazenagem,3906.28
+287,46,Despachante,1542.57
+288,47,Frete Internacional,94893.07
+289,47,Seguro,12610.65
+290,47,Imposto Importação,352797.73
+291,47,ICMS,247583.87
+292,47,Armazenagem,1349.24
+293,47,Despachante,2033.47
+300,49,Frete Internacional,19926.84
+301,49,Seguro,6946.36
+302,49,Imposto Importação,84361.69
+303,49,ICMS,111696.22
+304,49,Armazenagem,1690.18
+305,49,Despachante,3908.29
+306,50,Frete Internacional,2745941.44
+307,50,Seguro,89717.31
+308,50,Imposto Importação,1030859.19
+309,50,ICMS,1260499.96
+310,50,Armazenagem,2364.29
+311,50,Demurrage,1294.98
+312,50,Despachante,6001.24
+313,51,Frete Internacional,18002.02
+314,51,Seguro,816.27
+315,51,Imposto Importação,23075.36
+316,51,ICMS,24910.82
+317,51,Armazenagem,1944.51
+318,51,Despachante,2151.42
+319,52,Frete Internacional,1057577.16
+320,52,Seguro,50134.33
+321,52,Imposto Importação,1035180.61
+322,52,ICMS,737710.12
+323,52,Armazenagem,1760.28
+324,52,Despachante,4222.99
+325,53,Frete Internacional,84594.56
+326,53,Seguro,7592.13
+327,53,Imposto Importação,68833.55
+328,53,ICMS,111703.62
+329,53,Armazenagem,3332.65
+330,53,Despachante,4646.25
+331,54,Frete Internacional,4746.87
+332,54,Seguro,381.29
+333,54,Imposto Importação,9382.1
+334,54,ICMS,5679.42
+335,54,Armazenagem,2591.9
+336,54,Despachante,4060.78
+337,55,Frete Internacional,56062.0
+338,55,Seguro,3308.41
+339,55,Imposto Importação,87640.92
+340,55,ICMS,74320.83
+341,55,Armazenagem,1344.03
+342,55,Despachante,1892.9
+343,56,Frete Internacional,42546.94
+344,56,Seguro,11123.88
+345,56,Imposto Importação,211705.84
+346,56,ICMS,256015.54
+347,56,Armazenagem,4142.98
+348,56,Demurrage,2871.17
+349,56,Despachante,2096.51
+356,58,Frete Internacional,1090981.34
+357,58,Seguro,47237.5
+358,58,Imposto Importação,748013.32
+359,58,ICMS,1027812.16
+360,58,Armazenagem,4594.92
+361,58,Demurrage,5631.37
+362,58,Despachante,2179.86
+370,60,Frete Internacional,311370.19
+371,60,Seguro,37622.09
+372,60,Imposto Importação,678020.51
+373,60,ICMS,693248.71
+374,60,Armazenagem,555.04
+375,60,Demurrage,2285.6
+376,60,Despachante,1719.78
+377,61,Frete Internacional,113186.78
+378,61,Seguro,13102.99
+379,61,Imposto Importação,234745.57
+380,61,ICMS,177733.99
+381,61,Armazenagem,2144.51
+382,61,Despachante,3649.13
+383,62,Frete Internacional,150712.3
+384,62,Seguro,8859.65
+385,62,Imposto Importação,246584.98
+386,62,ICMS,209015.73
+387,62,Armazenagem,1912.71
+388,62,Despachante,4289.21
+389,63,Frete Internacional,2189156.48
+390,63,Seguro,93092.24
+391,63,Imposto Importação,2279280.55
+392,63,ICMS,1719148.71
+393,63,Armazenagem,2262.67
+394,63,Despachante,2302.27
+395,64,Frete Internacional,1221330.85
+396,64,Seguro,37987.75
+397,64,Imposto Importação,604551.84
+398,64,ICMS,539247.01
+399,64,Armazenagem,1315.36
+400,64,Demurrage,2867.91
+401,64,Despachante,2220.41
+402,65,Frete Internacional,30622.2
+403,65,Seguro,4191.88
+404,65,Imposto Importação,56478.96
+405,65,ICMS,68440.47
+406,65,Armazenagem,761.18
+407,65,Despachante,2291.5
+420,68,Frete Internacional,10332.46
+421,68,Seguro,1821.47
+422,68,Imposto Importação,39597.38
+423,68,ICMS,50237.91
+424,68,Armazenagem,1519.24
+425,68,Demurrage,7006.42
+426,68,Despachante,3059.33
+433,70,Frete Internacional,29736.05
+434,70,Seguro,1556.94
+435,70,Imposto Importação,25602.88
+436,70,ICMS,22877.42
+437,70,Armazenagem,2797.65
+438,70,Despachante,4518.58
+445,72,Frete Internacional,5246.39
+446,72,Seguro,199.62
+447,72,Imposto Importação,5135.63
+448,72,ICMS,6294.9
+449,72,Armazenagem,1725.35
+450,72,Despachante,2104.2
+451,73,Frete Internacional,3981.04
+452,73,Seguro,1013.35
+453,73,Imposto Importação,18129.43
+454,73,ICMS,18680.85
+455,73,Armazenagem,4342.62
+456,73,Despachante,2484.8
+457,74,Frete Internacional,130509.92
+458,74,Seguro,12989.75
+459,74,Imposto Importação,269745.28
+460,74,ICMS,201384.6
+461,74,Armazenagem,3931.19
+462,74,Despachante,3932.14
+463,75,Frete Internacional,13663.42
+464,75,Seguro,4179.42
+465,75,Imposto Importação,69277.58
+466,75,ICMS,80875.15
+467,75,Armazenagem,3258.92
+468,75,Demurrage,7250.66
+469,75,Despachante,2032.7
+470,76,Frete Internacional,24860.64
+471,76,Seguro,387.19
+472,76,Imposto Importação,8889.72
+473,76,ICMS,12341.31
+474,76,Armazenagem,790.42
+475,76,Despachante,4713.34
+476,77,Frete Internacional,45407.38
+477,77,Seguro,1407.02
+478,77,Imposto Importação,46634.31
+479,77,ICMS,36825.47
+480,77,Armazenagem,1331.14
+481,77,Despachante,5857.19
+482,78,Frete Internacional,1740393.9
+483,78,Seguro,223914.33
+484,78,Imposto Importação,2949651.79
+485,78,ICMS,3254180.41
+486,78,Armazenagem,4072.41
+487,78,Demurrage,7449.68
+488,78,Despachante,3402.39
+489,79,Frete Internacional,37952.92
+490,79,Seguro,1761.2
+491,79,Imposto Importação,44539.33
+492,79,ICMS,48349.63
+493,79,Armazenagem,6379.63
+494,79,Despachante,3787.74
+501,81,Frete Internacional,320849.7
+502,81,Seguro,105142.45
+503,81,Imposto Importação,871577.21
+504,81,ICMS,1422979.58
+505,81,Armazenagem,1417.32
+506,81,Despachante,1200.33
+513,83,Frete Internacional,22961.02
+514,83,Seguro,2027.86
+515,83,Imposto Importação,22389.69
+516,83,ICMS,36772.53
+517,83,Armazenagem,1436.88
+518,83,Demurrage,2091.62
+519,83,Despachante,4178.2
+527,85,Frete Internacional,74398.61
+528,85,Seguro,4773.96
+529,85,Imposto Importação,81363.8
+530,85,ICMS,80771.92
+531,85,Armazenagem,3340.94
+532,85,Demurrage,5753.0
+533,85,Despachante,5461.34
+564,91,Frete Internacional,591369.86
+565,91,Seguro,66473.33
+566,91,Imposto Importação,644218.74
+567,91,ICMS,856857.06
+568,91,Armazenagem,3590.23
+569,91,Despachante,1527.69
+570,92,Frete Internacional,14934.71
+571,92,Seguro,869.62
+572,92,Imposto Importação,7982.4
+573,92,ICMS,10331.01
+574,92,Armazenagem,5172.02
+575,92,Despachante,5571.58
+576,93,Frete Internacional,695726.49
+577,93,Seguro,10103.55
+578,93,Imposto Importação,222995.04
+579,93,ICMS,229754.84
+580,93,Armazenagem,5650.23
+581,93,Demurrage,2094.51
+582,93,Despachante,5658.74
+583,94,Frete Internacional,47060.68
+584,94,Seguro,2249.77
+585,94,Imposto Importação,32695.68
+586,94,ICMS,65131.69
+587,94,Armazenagem,2674.68
+588,94,Demurrage,4680.82
+589,94,Despachante,1500.84
+590,95,Frete Internacional,2620.25
+591,95,Seguro,483.13
+592,95,Imposto Importação,11328.35
+593,95,ICMS,15560.85
+594,95,Armazenagem,3812.44
+595,95,Demurrage,4331.66
+596,95,Despachante,4216.45
+597,96,Frete Internacional,34996.96
+598,96,Seguro,9089.44
+599,96,Imposto Importação,144311.98
+600,96,ICMS,110412.22
+601,96,Armazenagem,1091.29
+602,96,Despachante,2719.64
+609,98,Frete Internacional,20380.63
+610,98,Seguro,1331.27
+611,98,Imposto Importação,27091.96
+612,98,ICMS,52015.91
+613,98,Armazenagem,596.83
+614,98,Despachante,1309.25
+633,102,Frete Internacional,110285.33
+634,102,Seguro,6976.84
+635,102,Imposto Importação,192461.89
+636,102,ICMS,170481.28
+637,102,Armazenagem,3172.57
+638,102,Despachante,2233.86
+645,104,Frete Internacional,6333.92
+646,104,Seguro,1280.53
+647,104,Imposto Importação,39147.64
+648,104,ICMS,36011.48
+649,104,Armazenagem,2896.85
+650,104,Demurrage,2681.25
+651,104,Despachante,2084.21
+652,105,Frete Internacional,65180.29
+653,105,Seguro,2839.4
+654,105,Imposto Importação,52037.87
+655,105,ICMS,63669.56
+656,105,Armazenagem,3930.21
+657,105,Despachante,4194.85
+658,106,Frete Internacional,37139.17
+659,106,Seguro,1343.55
+660,106,Imposto Importação,29055.62
+661,106,ICMS,34575.93
+662,106,Armazenagem,2679.84
+663,106,Despachante,3273.87
+664,107,Frete Internacional,169971.07
+665,107,Seguro,4964.0
+666,107,Imposto Importação,60372.16
+667,107,ICMS,59152.21
+668,107,Armazenagem,3357.15
+669,107,Despachante,1390.93
+683,110,Frete Internacional,31057.84
+684,110,Seguro,1675.34
+685,110,Imposto Importação,42318.5
+686,110,ICMS,29934.0
+687,110,Armazenagem,4084.76
+688,110,Despachante,1583.27
+689,111,Frete Internacional,734800.14
+690,111,Seguro,14473.51
+691,111,Imposto Importação,436005.14
+692,111,ICMS,311554.71
+693,111,Armazenagem,4293.78
+694,111,Despachante,4551.24
+695,112,Frete Internacional,20140.73
+696,112,Seguro,1397.32
+697,112,Imposto Importação,34146.18
+698,112,ICMS,30175.23
+699,112,Armazenagem,756.66
+700,112,Despachante,1757.5
+701,113,Frete Internacional,17096.96
+702,113,Seguro,2508.67
+703,113,Imposto Importação,40431.83
+704,113,ICMS,36087.03
+705,113,Armazenagem,1183.48
+706,113,Despachante,3610.18
+707,114,Frete Internacional,244635.99
+708,114,Seguro,14997.23
+709,114,Imposto Importação,204540.15
+710,114,ICMS,277928.03
+711,114,Armazenagem,2179.2
+712,114,Despachante,2525.72
+720,116,Frete Internacional,559575.57
+721,116,Seguro,28437.96
+722,116,Imposto Importação,304067.13
+723,116,ICMS,338829.81
+724,116,Armazenagem,3501.17
+725,116,Despachante,4318.58
+726,117,Frete Internacional,7767.67
+727,117,Seguro,885.55
+728,117,Imposto Importação,13172.45
+729,117,ICMS,19674.21
+730,117,Armazenagem,1859.72
+731,117,Despachante,2257.8
+750,121,Frete Internacional,1231907.17
+751,121,Seguro,48197.39
+752,121,Imposto Importação,395311.74
+753,121,ICMS,729678.95
+754,121,Armazenagem,650.16
+755,121,Despachante,1407.08
+756,122,Frete Internacional,7383517.4
+757,122,Seguro,75919.02
+758,122,Imposto Importação,2440212.58
+759,122,ICMS,1702386.86
+760,122,Armazenagem,5340.28
+761,122,Despachante,5437.5
+775,125,Frete Internacional,6386.21
+776,125,Seguro,742.25
+777,125,Imposto Importação,8512.81
+778,125,ICMS,10912.44
+779,125,Armazenagem,2119.98
+780,125,Despachante,2012.58
+799,129,Frete Internacional,335995.24
+800,129,Seguro,26301.34
+801,129,Imposto Importação,240260.85
+802,129,ICMS,328281.12
+803,129,Armazenagem,4333.18
+804,129,Despachante,2703.73
+823,133,Frete Internacional,45076.75
+824,133,Seguro,4518.08
+825,133,Imposto Importação,58203.24
+826,133,ICMS,78157.76
+827,133,Armazenagem,2409.39
+828,133,Despachante,3311.61
+829,134,Frete Internacional,2630449.78
+830,134,Seguro,158414.76
+831,134,Imposto Importação,2192856.37
+832,134,ICMS,3565794.79
+833,134,Armazenagem,4266.4
+834,134,Despachante,3021.07
+835,135,Frete Internacional,38988.59
+836,135,Seguro,4503.88
+837,135,Imposto Importação,71149.28
+838,135,ICMS,85869.5
+839,135,Armazenagem,868.9
+840,135,Despachante,3703.5
+853,138,Frete Internacional,284996.63
+854,138,Seguro,4346.61
+855,138,Imposto Importação,84122.99
+856,138,ICMS,147015.4
+857,138,Armazenagem,571.88
+858,138,Demurrage,2189.16
+859,138,Despachante,4764.93
+860,139,Frete Internacional,106843.21
+861,139,Seguro,23471.15
+862,139,Imposto Importação,529343.99
+863,139,ICMS,722111.35
+864,139,Armazenagem,853.52
+865,139,Despachante,1298.17
+866,140,Frete Internacional,10318.74
+867,140,Seguro,5395.92
+868,140,Imposto Importação,83599.68
+869,140,ICMS,116253.38
+870,140,Armazenagem,899.78
+871,140,Despachante,1986.97
+878,142,Frete Internacional,99149.49
+879,142,Seguro,5738.03
+880,142,Imposto Importação,114332.87
+881,142,ICMS,135110.59
+882,142,Armazenagem,2984.71
+883,142,Despachante,4193.01
+884,143,Frete Internacional,84880.29
+885,143,Seguro,11936.82
+886,143,Imposto Importação,95758.9
+887,143,ICMS,140977.91
+888,143,Armazenagem,2718.12
+889,143,Despachante,4746.53
+903,146,Frete Internacional,99097.57
+904,146,Seguro,8606.02
+905,146,Imposto Importação,114622.59
+906,146,ICMS,146110.7
+907,146,Armazenagem,4235.06
+908,146,Demurrage,2883.32
+909,146,Despachante,4246.73
+910,147,Frete Internacional,37085.0
+911,147,Seguro,9471.07
+912,147,Imposto Importação,130969.04
+913,147,ICMS,131886.87
+914,147,Armazenagem,3729.3
+915,147,Demurrage,3700.56
+916,147,Despachante,3352.26
+917,148,Frete Internacional,118523.72
+918,148,Seguro,7715.82
+919,148,Imposto Importação,87241.08
+920,148,ICMS,105279.49
+921,148,Armazenagem,5598.42
+922,148,Despachante,4633.69
+929,150,Frete Internacional,1015328.58
+930,150,Seguro,123608.13
+931,150,Imposto Importação,1472555.69
+932,150,ICMS,2524429.14
+933,150,Armazenagem,2817.12
+934,150,Despachante,3247.54
+935,151,Frete Internacional,460976.69
+936,151,Seguro,19554.63
+937,151,Imposto Importação,264612.07
+938,151,ICMS,381647.92
+939,151,Armazenagem,4049.35
+940,151,Despachante,4052.27
+947,153,Frete Internacional,356861.64
+948,153,Seguro,6570.42
+949,153,Imposto Importação,84677.31
+950,153,ICMS,98995.56
+951,153,Armazenagem,6513.77
+952,153,Demurrage,5279.97
+953,153,Despachante,1667.46
+954,154,Frete Internacional,9189.69
+955,154,Seguro,460.22
+956,154,Imposto Importação,13773.96
+957,154,ICMS,12948.57
+958,154,Armazenagem,2170.81
+959,154,Despachante,3510.97
+960,155,Frete Internacional,147709.37
+961,155,Seguro,6157.36
+962,155,Imposto Importação,158468.63
+963,155,ICMS,193175.35
+964,155,Armazenagem,2118.66
+965,155,Despachante,3084.64
+966,156,Frete Internacional,251286.79
+967,156,Seguro,8944.77
+968,156,Imposto Importação,125498.77
+969,156,ICMS,138117.18
+970,156,Armazenagem,2580.83
+971,156,Despachante,3220.15
+972,157,Frete Internacional,63236.55
+973,157,Seguro,5479.73
+974,157,Imposto Importação,59296.53
+975,157,ICMS,62423.39
+976,157,Armazenagem,2818.1
+977,157,Despachante,4665.57
+978,158,Frete Internacional,12192.76
+979,158,Seguro,352.63
+980,158,Imposto Importação,4650.81
+981,158,ICMS,4590.98
+982,158,Armazenagem,619.76
+983,158,Despachante,4022.67
+984,159,Frete Internacional,1889793.64
+985,159,Seguro,73731.2
+986,159,Imposto Importação,1060491.25
+987,159,ICMS,939780.95
+988,159,Armazenagem,3143.67
+989,159,Demurrage,4764.42
+990,159,Despachante,3262.49
+991,160,Frete Internacional,101268.75
+992,160,Seguro,10456.53
+993,160,Imposto Importação,220646.37
+994,160,ICMS,153790.07
+995,160,Armazenagem,2747.18
+996,160,Demurrage,6622.94
+997,160,Despachante,1553.71
+998,161,Frete Internacional,8701.75
+999,161,Seguro,271.78
+1000,161,Imposto Importação,4226.76
+1001,161,ICMS,4139.64
+1002,161,Armazenagem,1754.78
+1003,161,Despachante,4525.77
+1004,162,Frete Internacional,17953.87
+1005,162,Seguro,2771.54
+1006,162,Imposto Importação,44685.85
+1007,162,ICMS,37117.43
+1008,162,Armazenagem,1095.81
+1009,162,Despachante,3983.32
+1016,164,Frete Internacional,4368.61
+1017,164,Seguro,1453.25
+1018,164,Imposto Importação,22038.61
+1019,164,ICMS,24271.86
+1020,164,Armazenagem,4129.36
+1021,164,Despachante,4794.4
+1022,165,Frete Internacional,2034.73
+1023,165,Seguro,347.34
+1024,165,Imposto Importação,3710.8
+1025,165,ICMS,3876.91
+1026,165,Armazenagem,824.86
+1027,165,Despachante,3402.8
+1028,166,Frete Internacional,71746.13
+1029,166,Seguro,6033.67
+1030,166,Imposto Importação,47337.76
+1031,166,ICMS,100719.19
+1032,166,Armazenagem,2000.77
+1033,166,Demurrage,5467.65
+1034,166,Despachante,1488.38
+1041,168,Frete Internacional,108754.71
+1042,168,Seguro,4444.86
+1043,168,Imposto Importação,68367.8
+1044,168,ICMS,74255.36
+1045,168,Armazenagem,1074.59
+1046,168,Despachante,1993.84
+1047,169,Frete Internacional,784901.6
+1048,169,Seguro,39391.25
+1049,169,Imposto Importação,1328420.29
+1050,169,ICMS,1396344.99
+1051,169,Armazenagem,1626.0
+1052,169,Despachante,3771.54
+1053,170,Frete Internacional,58650.27
+1054,170,Seguro,1820.24
+1055,170,Imposto Importação,45662.69
+1056,170,ICMS,61096.71
+1057,170,Armazenagem,4778.36
+1058,170,Despachante,3172.5
+1059,171,Frete Internacional,274553.65
+1060,171,Seguro,48771.45
+1061,171,Imposto Importação,1901758.22
+1062,171,ICMS,1683522.23
+1063,171,Armazenagem,3804.02
+1064,171,Despachante,4523.12
+1065,172,Frete Internacional,612633.28
+1066,172,Seguro,23930.99
+1067,172,Imposto Importação,538790.93
+1068,172,ICMS,348175.17
+1069,172,Armazenagem,5416.44
+1070,172,Demurrage,7543.34
+1071,172,Despachante,4717.28
+1072,173,Frete Internacional,278779.75
+1073,173,Seguro,8005.96
+1074,173,Imposto Importação,70659.25
+1075,173,ICMS,100212.22
+1076,173,Armazenagem,1285.12
+1077,173,Demurrage,7505.98
+1078,173,Despachante,3234.87
+1079,174,Frete Internacional,101742.02
+1080,174,Seguro,2684.14
+1081,174,Imposto Importação,90681.21
+1082,174,ICMS,68801.21
+1083,174,Armazenagem,3553.16
+1084,174,Despachante,3732.71
+1085,175,Frete Internacional,15455.89
+1086,175,Seguro,11456.24
+1087,175,Imposto Importação,180824.93
+1088,175,ICMS,153799.67
+1089,175,Armazenagem,814.38
+1090,175,Despachante,2567.39
+1091,176,Frete Internacional,12608.68
+1092,176,Seguro,5613.35
+1093,176,Imposto Importação,136254.32
+1094,176,ICMS,136066.0
+1095,176,Armazenagem,1771.02
+1096,176,Despachante,3166.01
+1103,178,Frete Internacional,44020.65
+1104,178,Seguro,2408.57
+1105,178,Imposto Importação,24617.22
+1106,178,ICMS,37997.4
+1107,178,Armazenagem,1036.71
+1108,178,Despachante,2936.0
+1109,179,Frete Internacional,1340.96
+1110,179,Seguro,1251.84
+1111,179,Imposto Importação,15647.14
+1112,179,ICMS,16282.16
+1113,179,Armazenagem,711.6
+1114,179,Despachante,3655.38
+1121,181,Frete Internacional,29560.61
+1122,181,Seguro,13174.95
+1123,181,Imposto Importação,103596.43
+1124,181,ICMS,197876.8
+1125,181,Armazenagem,3056.25
+1126,181,Despachante,4419.36
+1127,182,Frete Internacional,128399.3
+1128,182,Seguro,12728.02
+1129,182,Imposto Importação,110612.58
+1130,182,ICMS,157746.79
+1131,182,Armazenagem,2577.7
+1132,182,Despachante,1817.83
+1145,185,Frete Internacional,94575.69
+1146,185,Seguro,4683.96
+1147,185,Imposto Importação,118910.97
+1148,185,ICMS,182585.17
+1149,185,Armazenagem,4339.07
+1150,185,Demurrage,6456.38
+1151,185,Despachante,3319.0
+1152,186,Frete Internacional,115523.43
+1153,186,Seguro,4472.13
+1154,186,Imposto Importação,97327.45
+1155,186,ICMS,108149.52
+1156,186,Armazenagem,3471.44
+1157,186,Despachante,3444.45
+1158,187,Frete Internacional,53550.13
+1159,187,Seguro,8265.17
+1160,187,Imposto Importação,180546.36
+1161,187,ICMS,234148.65
+1162,187,Armazenagem,1086.18
+1163,187,Despachante,2514.31
+1176,190,Frete Internacional,1164591.82
+1177,190,Seguro,51737.52
+1178,190,Imposto Importação,700763.98
+1179,190,ICMS,703097.84
+1180,190,Armazenagem,1187.17
+1181,190,Despachante,5945.47
+1182,191,Frete Internacional,44499.48
+1183,191,Seguro,5790.55
+1184,191,Imposto Importação,80647.11
+1185,191,ICMS,97270.94
+1186,191,Armazenagem,2326.9
+1187,191,Despachante,1341.97
+1194,193,Frete Internacional,22394.59
+1195,193,Seguro,1924.28
+1196,193,Imposto Importação,68346.12
+1197,193,ICMS,44672.52
+1198,193,Armazenagem,1823.53
+1199,193,Demurrage,5157.2
+1200,193,Despachante,3826.69
+1219,197,Frete Internacional,230286.57
+1220,197,Seguro,3435.06
+1221,197,Imposto Importação,50850.69
+1222,197,ICMS,87041.01
+1223,197,Armazenagem,3159.92
+1224,197,Despachante,2477.23
+1225,198,Frete Internacional,367667.15
+1226,198,Seguro,36740.16
+1227,198,Imposto Importação,330112.87
+1228,198,ICMS,623074.62
+1229,198,Armazenagem,1599.6
+1230,198,Despachante,4668.69
+1231,199,Frete Internacional,635302.2
+1232,199,Seguro,16202.54
+1233,199,Imposto Importação,353415.06
+1234,199,ICMS,268817.58
+1235,199,Armazenagem,3943.18
+1236,199,Despachante,2261.61
+1237,200,Frete Internacional,173985.75
+1238,200,Seguro,10802.35
+1239,200,Imposto Importação,134232.62
+1240,200,ICMS,155618.5
+1241,200,Armazenagem,1673.49
+1242,200,Despachante,3058.14
+1255,203,Frete Internacional,114218.88
+1256,203,Seguro,5548.33
+1257,203,Imposto Importação,70051.06
+1258,203,ICMS,90402.0
+1259,203,Armazenagem,2741.26
+1260,203,Despachante,1739.32
+1261,204,Frete Internacional,221918.76
+1262,204,Seguro,6330.93
+1263,204,Imposto Importação,222713.64
+1264,204,ICMS,154683.95
+1265,204,Armazenagem,5228.84
+1266,204,Despachante,2815.75
+1273,206,Frete Internacional,245171.58
+1274,206,Seguro,6986.88
+1275,206,Imposto Importação,227160.42
+1276,206,ICMS,188342.19
+1277,206,Armazenagem,3457.44
+1278,206,Despachante,4042.33
+1285,208,Frete Internacional,27386.93
+1286,208,Seguro,1803.97
+1287,208,Imposto Importação,48060.56
+1288,208,ICMS,51861.72
+1289,208,Armazenagem,1246.41
+1290,208,Despachante,3800.72
+1291,209,Frete Internacional,5633.97
+1292,209,Seguro,804.8
+1293,209,Imposto Importação,28700.93
+1294,209,ICMS,21272.29
+1295,209,Armazenagem,4374.51
+1296,209,Despachante,4605.83
+1297,210,Frete Internacional,872.17
+1298,210,Seguro,500.62
+1299,210,Imposto Importação,6348.88
+1300,210,ICMS,8196.84
+1301,210,Armazenagem,3245.75
+1302,210,Demurrage,6995.24
+1303,210,Despachante,4582.49
+1316,213,Frete Internacional,181516.51
+1317,213,Seguro,4619.19
+1318,213,Imposto Importação,129240.63
+1319,213,ICMS,105803.38
+1320,213,Armazenagem,3201.71
+1321,213,Despachante,3277.07
+1322,214,Frete Internacional,46141.89
+1323,214,Seguro,1687.87
+1324,214,Imposto Importação,47394.51
+1325,214,ICMS,51285.57
+1326,214,Armazenagem,687.56
+1327,214,Despachante,3736.87
+1334,216,Frete Internacional,41579.76
+1335,216,Seguro,2855.98
+1336,216,Imposto Importação,51527.48
+1337,216,ICMS,54593.86
+1338,216,Armazenagem,3415.73
+1339,216,Despachante,4389.96
+1346,218,Frete Internacional,5413.51
+1347,218,Seguro,5558.5
+1348,218,Imposto Importação,53255.92
+1349,218,ICMS,81292.98
+1350,218,Armazenagem,3288.5
+1351,218,Despachante,1592.78
+1352,219,Frete Internacional,1212372.99
+1353,219,Seguro,58294.13
+1354,219,Imposto Importação,474843.72
+1355,219,ICMS,796253.69
+1356,219,Armazenagem,3489.8
+1357,219,Despachante,5996.52
+1358,220,Frete Internacional,386567.56
+1359,220,Seguro,88269.52
+1360,220,Imposto Importação,1382037.76
+1361,220,ICMS,1249257.84
+1362,220,Armazenagem,3430.01
+1363,220,Demurrage,4241.7
+1364,220,Despachante,2178.06
+1365,221,Frete Internacional,44712.79
+1366,221,Seguro,2440.78
+1367,221,Imposto Importação,32493.54
+1368,221,ICMS,38885.72
+1369,221,Armazenagem,1893.27
+1370,221,Despachante,1692.66
+1389,225,Frete Internacional,168036.74
+1390,225,Seguro,44766.08
+1391,225,Imposto Importação,509595.87
+1392,225,ICMS,702427.37
+1393,225,Armazenagem,2954.59
+1394,225,Despachante,1664.03
+1395,226,Frete Internacional,91048.29
+1396,226,Seguro,9471.34
+1397,226,Imposto Importação,164613.61
+1398,226,ICMS,141639.22
+1399,226,Armazenagem,2212.43
+1400,226,Despachante,1690.05
+1401,227,Frete Internacional,1152.17
+1402,227,Seguro,99.49
+1403,227,Imposto Importação,765.93
+1404,227,ICMS,1512.14
+1405,227,Armazenagem,1990.01
+1406,227,Despachante,3530.42
+1407,228,Frete Internacional,132829.05
+1408,228,Seguro,10822.01
+1409,228,Imposto Importação,88796.37
+1410,228,ICMS,160129.05
+1411,228,Armazenagem,6048.5
+1412,228,Despachante,5300.78
+1419,230,Frete Internacional,149508.5
+1420,230,Seguro,7811.83
+1421,230,Imposto Importação,131759.13
+1422,230,ICMS,197823.73
+1423,230,Armazenagem,3904.49
+1424,230,Despachante,2579.04
+1444,234,Frete Internacional,14489.48
+1445,234,Seguro,2283.17
+1446,234,Imposto Importação,61587.6
+1447,234,ICMS,71672.78
+1448,234,Armazenagem,3448.18
+1449,234,Despachante,1426.5
+1457,236,Frete Internacional,49673.47
+1458,236,Seguro,4404.86
+1459,236,Imposto Importação,82424.42
+1460,236,ICMS,95822.53
+1461,236,Armazenagem,3370.18
+1462,236,Despachante,1287.21
+1463,237,Frete Internacional,4234.52
+1464,237,Seguro,786.25
+1465,237,Imposto Importação,14387.34
+1466,237,ICMS,12666.19
+1467,237,Armazenagem,2324.11
+1468,237,Despachante,4439.47
+1469,238,Frete Internacional,9352.29
+1470,238,Seguro,624.09
+1471,238,Imposto Importação,16120.18
+1472,238,ICMS,13475.48
+1473,238,Armazenagem,3010.94
+1474,238,Despachante,2564.07
+1475,239,Frete Internacional,42319.08
+1476,239,Seguro,13606.76
+1477,239,Imposto Importação,140409.02
+1478,239,ICMS,185302.06
+1479,239,Armazenagem,2543.71
+1480,239,Despachante,3611.22
+1487,241,Frete Internacional,116851.81
+1488,241,Seguro,8940.92
+1489,241,Imposto Importação,245242.03
+1490,241,ICMS,222827.12
+1491,241,Armazenagem,3249.93
+1492,241,Despachante,4033.96
+1493,242,Frete Internacional,115966.0
+1494,242,Seguro,3994.53
+1495,242,Imposto Importação,55558.74
+1496,242,ICMS,62335.04
+1497,242,Armazenagem,4326.76
+1498,242,Despachante,2372.96
+1499,243,Frete Internacional,1209030.86
+1500,243,Seguro,141099.06
+1501,243,Imposto Importação,2424908.24
+1502,243,ICMS,2570109.51
+1503,243,Armazenagem,3463.98
+1504,243,Despachante,4639.23
+1505,244,Frete Internacional,143057.86
+1506,244,Seguro,12536.36
+1507,244,Imposto Importação,191592.54
+1508,244,ICMS,187059.23
+1509,244,Armazenagem,3061.43
+1510,244,Despachante,3182.37
+1511,245,Frete Internacional,26137.16
+1512,245,Seguro,1766.13
+1513,245,Imposto Importação,52461.65
+1514,245,ICMS,53703.6
+1515,245,Armazenagem,1478.08
+1516,245,Despachante,4420.28
+1517,246,Frete Internacional,137679.21
+1518,246,Seguro,5447.2
+1519,246,Imposto Importação,75423.59
+1520,246,ICMS,93546.52
+1521,246,Armazenagem,2456.41
+1522,246,Despachante,3853.61
+1523,247,Frete Internacional,1732251.41
+1524,247,Seguro,27242.44
+1525,247,Imposto Importação,838405.95
+1526,247,ICMS,650826.08
+1527,247,Armazenagem,4267.59
+1528,247,Despachante,2139.74
+1535,249,Frete Internacional,17402.29
+1536,249,Seguro,1503.48
+1537,249,Imposto Importação,18323.03
+1538,249,ICMS,18123.05
+1539,249,Armazenagem,1197.32
+1540,249,Demurrage,1199.15
+1541,249,Despachante,2087.36
+1542,250,Frete Internacional,162254.1
+1543,250,Seguro,5983.42
+1544,250,Imposto Importação,110616.26
+1545,250,ICMS,115730.09
+1546,250,Armazenagem,1425.08
+1547,250,Despachante,5750.39
+1555,252,Frete Internacional,8649.38
+1556,252,Seguro,1318.2
+1557,252,Imposto Importação,16265.02
+1558,252,ICMS,21333.43
+1559,252,Armazenagem,3951.91
+1560,252,Despachante,1823.76
+1573,255,Frete Internacional,30182.06
+1574,255,Seguro,6500.76
+1575,255,Imposto Importação,185734.22
+1576,255,ICMS,170506.12
+1577,255,Armazenagem,743.52
+1578,255,Despachante,3902.18
+1579,256,Frete Internacional,14896.72
+1580,256,Seguro,1081.37
+1581,256,Imposto Importação,11107.18
+1582,256,ICMS,14564.71
+1583,256,Armazenagem,1708.41
+1584,256,Despachante,3523.46
+1585,257,Frete Internacional,49333.57
+1586,257,Seguro,2654.77
+1587,257,Imposto Importação,36452.11
+1588,257,ICMS,30993.09
+1589,257,Armazenagem,1148.45
+1590,257,Despachante,2322.86
+1591,258,Frete Internacional,884.16
+1592,258,Seguro,532.82
+1593,258,Imposto Importação,10187.25
+1594,258,ICMS,9331.96
+1595,258,Armazenagem,591.36
+1596,258,Demurrage,4955.76
+1597,258,Despachante,4005.19
+1598,259,Frete Internacional,28044.05
+1599,259,Seguro,1263.59
+1600,259,Imposto Importação,17698.91
+1601,259,ICMS,17648.35
+1602,259,Armazenagem,2566.74
+1603,259,Despachante,4619.57
+1604,260,Frete Internacional,148476.02
+1605,260,Seguro,6927.76
+1606,260,Imposto Importação,191791.11
+1607,260,ICMS,164706.98
+1608,260,Armazenagem,519.65
+1609,260,Despachante,2892.35
+1610,261,Frete Internacional,223792.88
+1611,261,Seguro,4957.28
+1612,261,Imposto Importação,51654.07
+1613,261,ICMS,100895.12
+1614,261,Armazenagem,1621.1
+1615,261,Demurrage,1886.71
+1616,261,Despachante,2270.36
+1617,262,Frete Internacional,89604.83
+1618,262,Seguro,5785.65
+1619,262,Imposto Importação,190038.83
+1620,262,ICMS,189582.27
+1621,262,Armazenagem,2341.38
+1622,262,Despachante,3576.66
+1623,263,Frete Internacional,19325.62
+1624,263,Seguro,14732.13
+1625,263,Imposto Importação,282300.62
+1626,263,ICMS,208748.46
+1627,263,Armazenagem,950.84
+1628,263,Despachante,1666.21
+1629,264,Frete Internacional,44980.28
+1630,264,Seguro,14489.55
+1631,264,Imposto Importação,485936.96
+1632,264,ICMS,428152.57
+1633,264,Armazenagem,3392.0
+1634,264,Despachante,4531.91
+1635,265,Frete Internacional,15241.16
+1636,265,Seguro,1445.84
+1637,265,Imposto Importação,13090.93
+1638,265,ICMS,19856.84
+1639,265,Armazenagem,3418.72
+1640,265,Demurrage,4917.56
+1641,265,Despachante,2753.21
+1642,266,Frete Internacional,32199.7
+1643,266,Seguro,13266.27
+1644,266,Imposto Importação,254853.35
+1645,266,ICMS,235776.42
+1646,266,Armazenagem,4007.49
+1647,266,Despachante,3995.94
+1648,267,Frete Internacional,7381.36
+1649,267,Seguro,5695.49
+1650,267,Imposto Importação,64104.12
+1651,267,ICMS,70963.63
+1652,267,Armazenagem,1637.8
+1653,267,Despachante,3658.95
+1660,269,Frete Internacional,127055.45
+1661,269,Seguro,7706.42
+1662,269,Imposto Importação,276975.11
+1663,269,ICMS,238193.94
+1664,269,Armazenagem,3302.5
+1665,269,Despachante,4683.63
+1672,271,Frete Internacional,18668.62
+1673,271,Seguro,5455.68
+1674,271,Imposto Importação,59339.67
+1675,271,ICMS,100578.93
+1676,271,Armazenagem,2486.23
+1677,271,Demurrage,1499.61
+1678,271,Despachante,4687.99
+1691,274,Frete Internacional,51035.55
+1692,274,Seguro,4194.6
+1693,274,Imposto Importação,47914.64
+1694,274,ICMS,51952.58
+1695,274,Armazenagem,1147.82
+1696,274,Despachante,2981.49
+1697,275,Frete Internacional,261429.89
+1698,275,Seguro,12663.99
+1699,275,Imposto Importação,125857.67
+1700,275,ICMS,234958.76
+1701,275,Armazenagem,4355.98
+1702,275,Despachante,4303.07
+1703,276,Frete Internacional,17866.07
+1704,276,Seguro,3483.3
+1705,276,Imposto Importação,56909.58
+1706,276,ICMS,81846.78
+1707,276,Armazenagem,3100.38
+1708,276,Despachante,2432.61
+1715,278,Frete Internacional,121053.49
+1716,278,Seguro,4887.58
+1717,278,Imposto Importação,77388.0
+1718,278,ICMS,127917.31
+1719,278,Armazenagem,6197.88
+1720,278,Despachante,3883.09
+1734,281,Frete Internacional,8685.51
+1735,281,Seguro,1486.75
+1736,281,Imposto Importação,32685.84
+1737,281,ICMS,31332.76
+1738,281,Armazenagem,2719.77
+1739,281,Despachante,4070.13
+1746,283,Frete Internacional,826.34
+1747,283,Seguro,90.89
+1748,283,Imposto Importação,816.51
+1749,283,ICMS,1166.45
+1750,283,Armazenagem,2565.12
+1751,283,Despachante,3060.67
+1752,284,Frete Internacional,4206555.8
+1753,284,Seguro,195692.49
+1754,284,Imposto Importação,2795498.96
+1755,284,ICMS,2694252.94
+1756,284,Armazenagem,932.89
+1757,284,Despachante,6119.26
+1758,285,Frete Internacional,97265.79
+1759,285,Seguro,2301.33
+1760,285,Imposto Importação,30890.31
+1761,285,ICMS,36589.78
+1762,285,Armazenagem,2311.85
+1763,285,Despachante,2863.01
+1764,286,Frete Internacional,53747.19
+1765,286,Seguro,14770.45
+1766,286,Imposto Importação,273059.31
+1767,286,ICMS,548482.24
+1768,286,Armazenagem,1944.48
+1769,286,Despachante,2191.97
+1770,287,Frete Internacional,15061.77
+1771,287,Seguro,1865.84
+1772,287,Imposto Importação,18105.49
+1773,287,ICMS,29084.87
+1774,287,Armazenagem,599.16
+1775,287,Despachante,1854.21
+1776,288,Frete Internacional,15479.3
+1777,288,Seguro,1752.18
+1778,288,Imposto Importação,26126.16
+1779,288,ICMS,31007.66
+1780,288,Armazenagem,2217.94
+1781,288,Despachante,1306.86
+1782,289,Frete Internacional,36689.6
+1783,289,Seguro,2130.44
+1784,289,Imposto Importação,54726.84
+1785,289,ICMS,84434.41
+1786,289,Armazenagem,3988.67
+1787,289,Despachante,2649.29
+1788,290,Frete Internacional,1829.36
+1789,290,Seguro,165.12
+1790,290,Imposto Importação,1930.13
+1791,290,ICMS,1966.72
+1792,290,Armazenagem,2249.9
+1793,290,Despachante,4163.5
+1794,291,Frete Internacional,86128.54
+1795,291,Seguro,5846.26
+1796,291,Imposto Importação,96270.93
+1797,291,ICMS,114378.17
+1798,291,Armazenagem,4946.86
+1799,291,Despachante,1710.16
+1800,292,Frete Internacional,180828.15
+1801,292,Seguro,11842.42
+1802,292,Imposto Importação,214865.06
+1803,292,ICMS,227272.37
+1804,292,Armazenagem,1821.33
+1805,292,Despachante,3918.35
+1806,293,Frete Internacional,57004.56
+1807,293,Seguro,7416.85
+1808,293,Imposto Importação,253628.9
+1809,293,ICMS,269407.66
+1810,293,Armazenagem,997.29
+1811,293,Despachante,1270.73
+1812,294,Frete Internacional,36909.79
+1813,294,Seguro,10809.79
+1814,294,Imposto Importação,180814.62
+1815,294,ICMS,219678.79
+1816,294,Armazenagem,771.78
+1817,294,Despachante,3926.23
+1824,296,Frete Internacional,72513.5
+1825,296,Seguro,9381.32
+1826,296,Imposto Importação,331425.33
+1827,296,ICMS,324598.95
+1828,296,Armazenagem,3731.33
+1829,296,Despachante,4188.47
+1830,297,Frete Internacional,172258.98
+1831,297,Seguro,15664.64
+1832,297,Imposto Importação,174537.41
+1833,297,ICMS,214221.4
+1834,297,Armazenagem,4458.79
+1835,297,Despachante,3532.9
+1842,299,Frete Internacional,6796.23
+1843,299,Seguro,2147.86
+1844,299,Imposto Importação,27989.37
+1845,299,ICMS,40478.25
+1846,299,Armazenagem,1646.62
+1847,299,Demurrage,4255.22
+1848,299,Despachante,2158.23
+1855,301,Frete Internacional,62879.46
+1856,301,Seguro,5061.99
+1857,301,Imposto Importação,110693.13
+1858,301,ICMS,105027.4
+1859,301,Armazenagem,2284.27
+1860,301,Demurrage,5922.71
+1861,301,Despachante,4479.86
+1862,302,Frete Internacional,92451.11
+1863,302,Seguro,3358.27
+1864,302,Imposto Importação,89552.74
+1865,302,ICMS,71988.11
+1866,302,Armazenagem,605.23
+1867,302,Despachante,3056.06
+1868,303,Frete Internacional,11177.96
+1869,303,Seguro,740.93
+1870,303,Imposto Importação,8952.63
+1871,303,ICMS,11156.27
+1872,303,Armazenagem,719.69
+1873,303,Demurrage,1940.18
+1874,303,Despachante,3595.29
+1881,305,Frete Internacional,223770.61
+1882,305,Seguro,6583.42
+1883,305,Imposto Importação,181464.05
+1884,305,ICMS,184748.1
+1885,305,Armazenagem,4179.37
+1886,305,Despachante,5701.57
+1893,307,Frete Internacional,50042.21
+1894,307,Seguro,1562.98
+1895,307,Imposto Importação,33965.82
+1896,307,ICMS,30481.32
+1897,307,Armazenagem,2532.87
+1898,307,Despachante,4265.04
+1905,309,Frete Internacional,13427.77
+1906,309,Seguro,442.07
+1907,309,Imposto Importação,9138.98
+1908,309,ICMS,11336.86
+1909,309,Armazenagem,4176.53
+1910,309,Despachante,3932.05
+1911,310,Frete Internacional,43918.6
+1912,310,Seguro,1891.59
+1913,310,Imposto Importação,46551.3
+1914,310,ICMS,77984.81
+1915,310,Armazenagem,1538.0
+1916,310,Demurrage,4215.01
+1917,310,Despachante,2903.79
+1918,311,Frete Internacional,239210.19
+1919,311,Seguro,7092.89
+1920,311,Imposto Importação,119563.27
+1921,311,ICMS,94311.11
+1922,311,Armazenagem,1260.77
+1923,311,Despachante,1988.24
+1924,312,Frete Internacional,22282.04
+1925,312,Seguro,1263.01
+1926,312,Imposto Importação,26745.52
+1927,312,ICMS,46889.78
+1928,312,Armazenagem,3197.36
+1929,312,Despachante,4049.27
+1930,313,Frete Internacional,946231.14
+1931,313,Seguro,38838.58
+1932,313,Imposto Importação,990744.41
+1933,313,ICMS,678307.2
+1934,313,Armazenagem,5107.23
+1935,313,Despachante,5974.5
+1936,314,Frete Internacional,17755.19
+1937,314,Seguro,2271.12
+1938,314,Imposto Importação,33645.13
+1939,314,ICMS,25905.49
+1940,314,Armazenagem,672.54
+1941,314,Despachante,3768.18
+1942,315,Frete Internacional,1500618.38
+1943,315,Seguro,106207.92
+1944,315,Imposto Importação,1798435.74
+1945,315,ICMS,1495950.06
+1946,315,Armazenagem,2877.66
+1947,315,Demurrage,7277.03
+1948,315,Despachante,4566.09
+1949,316,Frete Internacional,136620.87
+1950,316,Seguro,4127.12
+1951,316,Imposto Importação,123197.23
+1952,316,ICMS,106225.62
+1953,316,Armazenagem,2732.75
+1954,316,Despachante,2558.59
+1955,317,Frete Internacional,33175.6
+1956,317,Seguro,2905.85
+1957,317,Imposto Importação,38004.22
+1958,317,ICMS,43541.63
+1959,317,Armazenagem,4701.79
+1960,317,Despachante,2410.47
+1961,318,Frete Internacional,421446.84
+1962,318,Seguro,14995.03
+1963,318,Imposto Importação,258731.01
+1964,318,ICMS,219441.51
+1965,318,Armazenagem,1632.16
+1966,318,Despachante,2581.43
+1967,319,Frete Internacional,200007.92
+1968,319,Seguro,8447.69
+1969,319,Imposto Importação,211813.79
+1970,319,ICMS,167799.9
+1971,319,Armazenagem,3468.36
+1972,319,Despachante,1863.08
+1979,321,Frete Internacional,1320570.53
+1980,321,Seguro,75992.07
+1981,321,Imposto Importação,1520400.96
+1982,321,ICMS,1335887.0
+1983,321,Armazenagem,2510.13
+1984,321,Demurrage,4931.87
+1985,321,Despachante,4041.64
+1992,323,Frete Internacional,14864.62
+1993,323,Seguro,1443.71
+1994,323,Imposto Importação,36639.26
+1995,323,ICMS,30430.93
+1996,323,Armazenagem,2280.7
+1997,323,Despachante,2729.69
+1998,324,Frete Internacional,105259.07
+1999,324,Seguro,4318.55
+2000,324,Imposto Importação,111131.27
+2001,324,ICMS,127303.65
+2002,324,Armazenagem,3818.79
+2003,324,Despachante,3924.08
+2016,327,Frete Internacional,447368.4
+2017,327,Seguro,21710.73
+2018,327,Imposto Importação,527851.3
+2019,327,ICMS,451989.03
+2020,327,Armazenagem,2744.7
+2021,327,Demurrage,6776.42
+2022,327,Despachante,1662.64
+2036,330,Frete Internacional,3180203.56
+2037,330,Seguro,128045.55
+2038,330,Imposto Importação,3079801.03
+2039,330,ICMS,2680810.19
+2040,330,Armazenagem,5384.4
+2041,330,Demurrage,2662.58
+2042,330,Despachante,4078.96
+2055,333,Frete Internacional,308954.92
+2056,333,Seguro,21816.0
+2057,333,Imposto Importação,462280.53
+2058,333,ICMS,382845.94
+2059,333,Armazenagem,4288.74
+2060,333,Despachante,3419.29
+2061,334,Frete Internacional,140123.34
+2062,334,Seguro,5067.96
+2063,334,Imposto Importação,53347.94
+2064,334,ICMS,86673.44
+2065,334,Armazenagem,2083.31
+2066,334,Despachante,2785.25
+2067,335,Frete Internacional,98649.76
+2068,335,Seguro,5173.24
+2069,335,Imposto Importação,86216.06
+2070,335,ICMS,127363.45
+2071,335,Armazenagem,861.18
+2072,335,Despachante,2140.39
+2079,337,Frete Internacional,27800.15
+2080,337,Seguro,7100.88
+2081,337,Imposto Importação,111984.61
+2082,337,ICMS,146900.07
+2083,337,Armazenagem,2025.96
+2084,337,Despachante,2464.54
+2091,339,Frete Internacional,202801.37
+2092,339,Seguro,9207.63
+2093,339,Imposto Importação,191613.55
+2094,339,ICMS,235430.28
+2095,339,Armazenagem,3337.43
+2096,339,Demurrage,4505.61
+2097,339,Despachante,2135.66
+2104,341,Frete Internacional,2222.12
+2105,341,Seguro,1301.21
+2106,341,Imposto Importação,23622.64
+2107,341,ICMS,20637.83
+2108,341,Armazenagem,1673.27
+2109,341,Despachante,2550.16
+2110,342,Frete Internacional,11906.24
+2111,342,Seguro,3405.47
+2112,342,Imposto Importação,55918.37
+2113,342,ICMS,50798.29
+2114,342,Armazenagem,2239.63
+2115,342,Despachante,1380.01
+2128,345,Frete Internacional,547599.81
+2129,345,Seguro,14109.77
+2130,345,Imposto Importação,243142.94
+2131,345,ICMS,167572.57
+2132,345,Armazenagem,1535.13
+2133,345,Despachante,3289.4
+2134,346,Frete Internacional,43914.17
+2135,346,Seguro,14230.11
+2136,346,Imposto Importação,224941.21
+2137,346,ICMS,221403.82
+2138,346,Armazenagem,1237.3
+2139,346,Despachante,3722.15
+2140,347,Frete Internacional,9337.15
+2141,347,Seguro,5760.07
+2142,347,Imposto Importação,96441.51
+2143,347,ICMS,125687.26
+2144,347,Armazenagem,1415.61
+2145,347,Demurrage,5802.51
+2146,347,Despachante,3630.96
+2147,348,Frete Internacional,5893.13
+2148,348,Seguro,2186.42
+2149,348,Imposto Importação,40190.69
+2150,348,ICMS,54779.43
+2151,348,Armazenagem,4353.12
+2152,348,Despachante,2741.46
+2153,349,Frete Internacional,16183.63
+2154,349,Seguro,742.69
+2155,349,Imposto Importação,10642.66
+2156,349,ICMS,11202.53
+2157,349,Armazenagem,5332.85
+2158,349,Despachante,3385.87
+2159,350,Frete Internacional,2579.99
+2160,350,Seguro,1065.68
+2161,350,Imposto Importação,32491.07
+2162,350,ICMS,24795.79
+2163,350,Armazenagem,1990.04
+2164,350,Despachante,3012.1
+2177,353,Frete Internacional,10885.43
+2178,353,Seguro,100.87
+2179,353,Imposto Importação,2838.28
+2180,353,ICMS,3307.57
+2181,353,Armazenagem,3414.53
+2182,353,Despachante,1623.74
+2183,354,Frete Internacional,308847.87
+2184,354,Seguro,6724.55
+2185,354,Imposto Importação,177071.7
+2186,354,ICMS,128391.31
+2187,354,Armazenagem,1552.49
+2188,354,Despachante,4123.16
+2189,355,Frete Internacional,703377.68
+2190,355,Seguro,37414.5
+2191,355,Imposto Importação,723474.28
+2192,355,ICMS,468303.01
+2193,355,Armazenagem,2615.05
+2194,355,Despachante,3935.0
+2201,357,Frete Internacional,76878.41
+2202,357,Seguro,8687.62
+2203,357,Imposto Importação,115151.12
+2204,357,ICMS,104718.85
+2205,357,Armazenagem,1558.91
+2206,357,Despachante,2315.15
+2207,358,Frete Internacional,78302.97
+2208,358,Seguro,9480.67
+2209,358,Imposto Importação,190669.93
+2210,358,ICMS,168331.16
+2211,358,Armazenagem,4014.6
+2212,358,Despachante,3908.72
+2213,359,Frete Internacional,2793666.74
+2214,359,Seguro,89913.58
+2215,359,Imposto Importação,3309185.29
+2216,359,ICMS,2993993.39
+2217,359,Armazenagem,1722.01
+2218,359,Despachante,3547.95
+2237,363,Frete Internacional,88919.15
+2238,363,Seguro,15422.57
+2239,363,Imposto Importação,285532.11
+2240,363,ICMS,252238.14
+2241,363,Armazenagem,622.82
+2242,363,Despachante,3198.32
+2243,364,Frete Internacional,125445.66
+2244,364,Seguro,4255.15
+2245,364,Imposto Importação,70472.53
+2246,364,ICMS,117927.11
+2247,364,Armazenagem,5035.3
+2248,364,Despachante,1844.44
+2249,365,Frete Internacional,108040.72
+2250,365,Seguro,7488.32
+2251,365,Imposto Importação,106940.72
+2252,365,ICMS,114022.53
+2253,365,Armazenagem,666.81
+2254,365,Despachante,3487.23
+2267,368,Frete Internacional,596614.94
+2268,368,Seguro,48118.51
+2269,368,Imposto Importação,687479.84
+2270,368,ICMS,790021.91
+2271,368,Armazenagem,2085.36
+2272,368,Despachante,2231.78
+2273,369,Frete Internacional,648649.42
+2274,369,Seguro,18792.6
+2275,369,Imposto Importação,212484.87
+2276,369,ICMS,228046.96
+2277,369,Armazenagem,1516.41
+2278,369,Despachante,4639.84
+2285,371,Frete Internacional,62732.59
+2286,371,Seguro,3327.03
+2287,371,Imposto Importação,95384.08
+2288,371,ICMS,88775.3
+2289,371,Armazenagem,562.28
+2290,371,Despachante,3920.35
+2291,372,Frete Internacional,2572.5
+2292,372,Seguro,707.62
+2293,372,Imposto Importação,8237.09
+2294,372,ICMS,11779.26
+2295,372,Armazenagem,1088.33
+2296,372,Despachante,3008.42
+2297,373,Frete Internacional,40064.07
+2298,373,Seguro,2366.53
+2299,373,Imposto Importação,36217.95
+2300,373,ICMS,36216.53
+2301,373,Armazenagem,4157.39
+2302,373,Despachante,4304.0
+2303,374,Frete Internacional,131220.0
+2304,374,Seguro,4010.5
+2305,374,Imposto Importação,142668.01
+2306,374,ICMS,123556.28
+2307,374,Armazenagem,1115.53
+2308,374,Despachante,3031.87
+2316,376,Frete Internacional,54504.78
+2317,376,Seguro,42238.41
+2318,376,Imposto Importação,652128.59
+2319,376,ICMS,708307.25
+2320,376,Armazenagem,2025.35
+2321,376,Despachante,2164.08
+2322,377,Frete Internacional,123001.79
+2323,377,Seguro,9899.58
+2324,377,Imposto Importação,146678.53
+2325,377,ICMS,144541.1
+2326,377,Armazenagem,1150.94
+2327,377,Despachante,3244.85
+2334,379,Frete Internacional,150929.17
+2335,379,Seguro,9504.52
+2336,379,Imposto Importação,220561.9
+2337,379,ICMS,168226.65
+2338,379,Armazenagem,2558.74
+2339,379,Demurrage,4962.13
+2340,379,Despachante,4526.84
+2341,380,Frete Internacional,34472.34
+2342,380,Seguro,2332.98
+2343,380,Imposto Importação,83546.48
+2344,380,ICMS,56760.47
+2345,380,Armazenagem,1420.08
+2346,380,Despachante,1258.6
+2347,381,Frete Internacional,17899.64
+2348,381,Seguro,4125.67
+2349,381,Imposto Importação,76882.12
+2350,381,ICMS,73855.42
+2351,381,Armazenagem,4140.16
+2352,381,Despachante,3472.96
+2353,382,Frete Internacional,71338.26
+2354,382,Seguro,5310.24
+2355,382,Imposto Importação,110562.97
+2356,382,ICMS,93378.1
+2357,382,Armazenagem,2044.94
+2358,382,Demurrage,1402.0
+2359,382,Despachante,2263.7
+2360,383,Frete Internacional,201282.48
+2361,383,Seguro,8304.02
+2362,383,Imposto Importação,91766.82
+2363,383,ICMS,140098.37
+2364,383,Armazenagem,1440.93
+2365,383,Despachante,4542.8
+2372,385,Frete Internacional,30055.2
+2373,385,Seguro,1671.34
+2374,385,Imposto Importação,24182.14
+2375,385,ICMS,20287.52
+2376,385,Armazenagem,2605.98
+2377,385,Despachante,4315.12
+2397,389,Frete Internacional,1315081.17
+2398,389,Seguro,14919.89
+2399,389,Imposto Importação,573178.58
+2400,389,ICMS,636036.97
+2401,389,Armazenagem,2544.54
+2402,389,Demurrage,1450.13
+2403,389,Despachante,5494.59
+2411,391,Frete Internacional,3283.03
+2412,391,Seguro,311.4
+2413,391,Imposto Importação,4170.6
+2414,391,ICMS,4630.56
+2415,391,Armazenagem,560.18
+2416,391,Despachante,3936.75
+2417,392,Frete Internacional,60620.5
+2418,392,Seguro,5385.6
+2419,392,Imposto Importação,74050.93
+2420,392,ICMS,82493.25
+2421,392,Armazenagem,2637.18
+2422,392,Despachante,3438.59
+2423,393,Frete Internacional,89314.35
+2424,393,Seguro,53515.88
+2425,393,Imposto Importação,1052671.71
+2426,393,ICMS,916625.08
+2427,393,Armazenagem,2659.74
+2428,393,Despachante,3072.14
+2429,394,Frete Internacional,157347.69
+2430,394,Seguro,7023.15
+2431,394,Imposto Importação,203739.31
+2432,394,ICMS,228488.27
+2433,394,Armazenagem,3063.35
+2434,394,Despachante,1461.53
+2435,395,Frete Internacional,8135.9
+2436,395,Seguro,7766.15
+2437,395,Imposto Importação,97945.25
+2438,395,ICMS,105642.82
+2439,395,Armazenagem,3875.57
+2440,395,Despachante,4428.45
+2441,396,Frete Internacional,60033.38
+2442,396,Seguro,3034.88
+2443,396,Imposto Importação,32984.01
+2444,396,ICMS,61197.89
+2445,396,Armazenagem,1030.8
+2446,396,Despachante,3950.4
+2447,397,Frete Internacional,18093.6
+2448,397,Seguro,2202.35
+2449,397,Imposto Importação,31773.21
+2450,397,ICMS,31551.13
+2451,397,Armazenagem,3824.15
+2452,397,Despachante,1252.89
+2453,398,Frete Internacional,451086.55
+2454,398,Seguro,34512.9
+2455,398,Imposto Importação,330538.25
+2456,398,ICMS,723389.67
+2457,398,Armazenagem,4089.29
+2458,398,Despachante,1701.12
+2465,400,Frete Internacional,662394.48
+2466,400,Seguro,11626.64
+2467,400,Imposto Importação,119839.94
+2468,400,ICMS,171038.82
+2469,400,Armazenagem,4362.74
+2470,400,Despachante,2011.96
+2471,401,Frete Internacional,161486.74
+2472,401,Seguro,15147.86
+2473,401,Imposto Importação,207353.49
+2474,401,ICMS,194088.12
+2475,401,Armazenagem,2934.21
+2476,401,Despachante,4583.88
+2483,403,Frete Internacional,179629.93
+2484,403,Seguro,15897.39
+2485,403,Imposto Importação,272709.8
+2486,403,ICMS,195403.45
+2487,403,Armazenagem,3425.65
+2488,403,Despachante,1674.81
+2489,404,Frete Internacional,33362.42
+2490,404,Seguro,6511.96
+2491,404,Imposto Importação,110798.23
+2492,404,ICMS,143419.69
+2493,404,Armazenagem,3840.03
+2494,404,Despachante,4006.21
+2501,406,Frete Internacional,687.64
+2502,406,Seguro,644.11
+2503,406,Imposto Importação,5714.37
+2504,406,ICMS,9390.28
+2505,406,Armazenagem,4201.36
+2506,406,Despachante,2676.03
+2507,407,Frete Internacional,8863.64
+2508,407,Seguro,178.58
+2509,407,Imposto Importação,2451.31
+2510,407,ICMS,2982.0
+2511,407,Armazenagem,3890.47
+2512,407,Despachante,1839.45
+2513,408,Frete Internacional,9046.09
+2514,408,Seguro,5152.25
+2515,408,Imposto Importação,72528.27
+2516,408,ICMS,99198.35
+2517,408,Armazenagem,3650.19
+2518,408,Demurrage,1440.51
+2519,408,Despachante,3072.61
+2532,411,Frete Internacional,278485.18
+2533,411,Seguro,29312.17
+2534,411,Imposto Importação,634724.35
+2535,411,ICMS,696632.11
+2536,411,Armazenagem,4295.17
+2537,411,Demurrage,4935.4
+2538,411,Despachante,4709.01
+2539,412,Frete Internacional,9011.99
+2540,412,Seguro,3422.0
+2541,412,Imposto Importação,59302.85
+2542,412,ICMS,40282.11
+2543,412,Armazenagem,3765.13
+2544,412,Demurrage,2138.69
+2545,412,Despachante,1491.13
+2565,416,Frete Internacional,880.55
+2566,416,Seguro,491.37
+2567,416,Imposto Importação,4540.83
+2568,416,ICMS,7218.76
+2569,416,Armazenagem,2373.3
+2570,416,Despachante,3263.1
+2571,417,Frete Internacional,704367.33
+2572,417,Seguro,24887.46
+2573,417,Imposto Importação,326673.36
+2574,417,ICMS,461887.73
+2575,417,Armazenagem,6489.3
+2576,417,Despachante,3494.8
+2577,418,Frete Internacional,14556.73
+2578,418,Seguro,5313.93
+2579,418,Imposto Importação,79728.75
+2580,418,ICMS,68675.68
+2581,418,Armazenagem,1065.0
+2582,418,Despachante,4097.18
+2583,419,Frete Internacional,6340.22
+2584,419,Seguro,236.66
+2585,419,Imposto Importação,9555.58
+2586,419,ICMS,8302.39
+2587,419,Armazenagem,782.89
+2588,419,Despachante,1363.45
+2601,422,Frete Internacional,3511782.21
+2602,422,Seguro,141086.65
+2603,422,Imposto Importação,3887688.45
+2604,422,ICMS,3907862.47
+2605,422,Armazenagem,1592.03
+2606,422,Despachante,1340.1
+2607,423,Frete Internacional,141440.48
+2608,423,Seguro,12254.46
+2609,423,Imposto Importação,321824.64
+2610,423,ICMS,396077.52
+2611,423,Armazenagem,4485.82
+2612,423,Despachante,4551.42
+2619,425,Frete Internacional,305361.06
+2620,425,Seguro,18012.65
+2621,425,Imposto Importação,214692.74
+2622,425,ICMS,213970.33
+2623,425,Armazenagem,1034.6
+2624,425,Demurrage,3204.75
+2625,425,Despachante,3645.02
+2638,428,Frete Internacional,35164.18
+2639,428,Seguro,1850.14
+2640,428,Imposto Importação,53025.48
+2641,428,ICMS,61704.24
+2642,428,Armazenagem,3422.48
+2643,428,Despachante,3360.32
+2650,430,Frete Internacional,10275.52
+2651,430,Seguro,195.18
+2652,430,Imposto Importação,5612.93
+2653,430,ICMS,6471.71
+2654,430,Armazenagem,6404.58
+2655,430,Despachante,1812.64
+2662,432,Frete Internacional,15545.38
+2663,432,Seguro,3926.39
+2664,432,Imposto Importação,36843.3
+2665,432,ICMS,53487.54
+2666,432,Armazenagem,502.6
+2667,432,Demurrage,1773.68
+2668,432,Despachante,2775.85
+2675,434,Frete Internacional,5209.62
+2676,434,Seguro,473.12
+2677,434,Imposto Importação,3729.06
+2678,434,ICMS,5278.94
+2679,434,Armazenagem,1358.4
+2680,434,Despachante,1859.13
+2681,435,Frete Internacional,151810.2
+2682,435,Seguro,4882.79
+2683,435,Imposto Importação,65987.23
+2684,435,ICMS,67078.6
+2685,435,Armazenagem,1538.52
+2686,435,Despachante,3423.49
+2687,436,Frete Internacional,477188.06
+2688,436,Seguro,24247.52
+2689,436,Imposto Importação,754146.46
+2690,436,ICMS,579209.86
+2691,436,Armazenagem,5339.91
+2692,436,Despachante,5512.38
+2705,439,Frete Internacional,437749.38
+2706,439,Seguro,40720.86
+2707,439,Imposto Importação,325772.66
+2708,439,ICMS,645437.36
+2709,439,Armazenagem,2815.91
+2710,439,Demurrage,3307.11
+2711,439,Despachante,4575.68
+2712,440,Frete Internacional,118404.97
+2713,440,Seguro,2411.13
+2714,440,Imposto Importação,45700.97
+2715,440,ICMS,52565.6
+2716,440,Armazenagem,3541.27
+2717,440,Demurrage,4707.88
+2718,440,Despachante,3456.7
+2719,441,Frete Internacional,436356.67
+2720,441,Seguro,13664.66
+2721,441,Imposto Importação,233381.55
+2722,441,ICMS,164549.91
+2723,441,Armazenagem,2961.49
+2724,441,Despachante,4655.44
+2725,442,Frete Internacional,55234.62
+2726,442,Seguro,6274.37
+2727,442,Imposto Importação,67996.46
+2728,442,ICMS,88657.8
+2729,442,Armazenagem,2768.33
+2730,442,Demurrage,3401.69
+2731,442,Despachante,1454.38
+2732,443,Frete Internacional,277893.12
+2733,443,Seguro,50260.06
+2734,443,Imposto Importação,636628.57
+2735,443,ICMS,663793.84
+2736,443,Armazenagem,3076.5
+2737,443,Despachante,2742.5
+2744,445,Frete Internacional,342469.88
+2745,445,Seguro,6275.55
+2746,445,Imposto Importação,145413.07
+2747,445,ICMS,143874.63
+2748,445,Armazenagem,3220.87
+2749,445,Despachante,4643.1
+2750,446,Frete Internacional,7422.49
+2751,446,Seguro,2127.91
+2752,446,Imposto Importação,28499.96
+2753,446,ICMS,38487.14
+2754,446,Armazenagem,4352.72
+2755,446,Demurrage,3499.77
+2756,446,Despachante,2010.1
+2757,447,Frete Internacional,151122.93
+2758,447,Seguro,7103.63
+2759,447,Imposto Importação,112240.16
+2760,447,ICMS,153149.7
+2761,447,Armazenagem,1128.7
+2762,447,Despachante,1984.68
+2763,448,Frete Internacional,41449.22
+2764,448,Seguro,5427.44
+2765,448,Imposto Importação,45321.95
+2766,448,ICMS,67795.43
+2767,448,Armazenagem,2017.93
+2768,448,Despachante,4435.84
+2769,449,Frete Internacional,36552.52
+2770,449,Seguro,1280.23
+2771,449,Imposto Importação,38165.1
+2772,449,ICMS,34613.93
+2773,449,Armazenagem,1116.89
+2774,449,Despachante,5992.08
+2775,450,Frete Internacional,325664.55
+2776,450,Seguro,5200.63
+2777,450,Imposto Importação,174882.0
+2778,450,ICMS,138596.68
+2779,450,Armazenagem,3924.05
+2780,450,Demurrage,6108.05
+2781,450,Despachante,1315.01
+2796,453,Frete Internacional,1428371.43
+2797,453,Seguro,43603.57
+2798,453,Imposto Importação,434467.61
+2799,453,ICMS,613574.06
+2800,453,Armazenagem,6496.13
+2801,453,Despachante,3696.6
+2802,454,Frete Internacional,16760.4
+2803,454,Seguro,6148.0
+2804,454,Imposto Importação,75399.2
+2805,454,ICMS,91911.05
+2806,454,Armazenagem,2304.59
+2807,454,Despachante,4298.53
+2808,455,Frete Internacional,71012.63
+2809,455,Seguro,4823.79
+2810,455,Imposto Importação,83397.77
+2811,455,ICMS,80187.33
+2812,455,Armazenagem,1754.92
+2813,455,Demurrage,7663.41
+2814,455,Despachante,2684.46
+2821,457,Frete Internacional,274968.79
+2822,457,Seguro,61281.15
+2823,457,Imposto Importação,1079841.48
+2824,457,ICMS,967367.51
+2825,457,Armazenagem,2883.35
+2826,457,Demurrage,4003.41
+2827,457,Despachante,1527.0
+2828,458,Frete Internacional,9949.97
+2829,458,Seguro,2592.7
+2830,458,Imposto Importação,81079.34
+2831,458,ICMS,74912.14
+2832,458,Armazenagem,1223.73
+2833,458,Despachante,4646.77
+2840,460,Frete Internacional,352967.77
+2841,460,Seguro,39114.47
+2842,460,Imposto Importação,578225.6
+2843,460,ICMS,558975.08
+2844,460,Armazenagem,2762.17
+2845,460,Despachante,3982.09
+2846,461,Frete Internacional,1267552.91
+2847,461,Seguro,15128.13
+2848,461,Imposto Importação,331114.27
+2849,461,ICMS,406716.23
+2850,461,Armazenagem,1239.32
+2851,461,Despachante,3024.59
+2858,463,Frete Internacional,11970.08
+2859,463,Seguro,2232.08
+2860,463,Imposto Importação,22576.4
+2861,463,ICMS,25085.23
+2862,463,Armazenagem,2639.91
+2863,463,Despachante,3373.95
+2864,464,Frete Internacional,672.31
+2865,464,Seguro,341.9
+2866,464,Imposto Importação,5102.11
+2867,464,ICMS,7203.45
+2868,464,Armazenagem,2534.08
+2869,464,Despachante,4437.17
+2883,467,Frete Internacional,1908.51
+2884,467,Seguro,316.4
+2885,467,Imposto Importação,8657.56
+2886,467,ICMS,7019.99
+2887,467,Armazenagem,1507.85
+2888,467,Despachante,2954.19
+2896,469,Frete Internacional,736433.68
+2897,469,Seguro,73148.52
+2898,469,Imposto Importação,858867.07
+2899,469,ICMS,1000348.72
+2900,469,Armazenagem,1006.13
+2901,469,Despachante,1246.96
+2902,470,Frete Internacional,5759.9
+2903,470,Seguro,518.65
+2904,470,Imposto Importação,7884.34
+2905,470,ICMS,16140.21
+2906,470,Armazenagem,3283.51
+2907,470,Despachante,1672.32
+2908,471,Frete Internacional,22968.72
+2909,471,Seguro,5820.3
+2910,471,Imposto Importação,132716.23
+2911,471,ICMS,93040.35
+2912,471,Armazenagem,4003.24
+2913,471,Despachante,3784.27
+2914,472,Frete Internacional,6120.07
+2915,472,Seguro,5560.42
+2916,472,Imposto Importação,52081.97
+2917,472,ICMS,68377.17
+2918,472,Armazenagem,1841.86
+2919,472,Demurrage,2624.95
+2920,472,Despachante,1909.35
+2921,473,Frete Internacional,144176.94
+2922,473,Seguro,4763.38
+2923,473,Imposto Importação,54528.73
+2924,473,ICMS,75314.59
+2925,473,Armazenagem,1423.24
+2926,473,Despachante,2844.91
+2927,474,Frete Internacional,434786.64
+2928,474,Seguro,19701.76
+2929,474,Imposto Importação,160626.85
+2930,474,ICMS,267206.01
+2931,474,Armazenagem,1028.08
+2932,474,Demurrage,965.01
+2933,474,Despachante,1782.84
+2934,475,Frete Internacional,689312.48
+2935,475,Seguro,46818.26
+2936,475,Imposto Importação,1188818.51
+2937,475,ICMS,1029887.88
+2938,475,Armazenagem,3469.19
+2939,475,Despachante,2561.23
+2953,478,Frete Internacional,112920.31
+2954,478,Seguro,5116.84
+2955,478,Imposto Importação,85722.25
+2956,478,ICMS,135750.8
+2957,478,Armazenagem,2504.35
+2958,478,Despachante,3205.85
+2959,479,Frete Internacional,3393.82
+2960,479,Seguro,1729.35
+2961,479,Imposto Importação,29167.5
+2962,479,ICMS,28115.46
+2963,479,Armazenagem,2342.02
+2964,479,Despachante,4407.33
+2965,480,Frete Internacional,7548.07
+2966,480,Seguro,799.61
+2967,480,Imposto Importação,15951.84
+2968,480,ICMS,10411.79
+2969,480,Armazenagem,2548.58
+2970,480,Despachante,2502.01
+2971,481,Frete Internacional,170052.63
+2972,481,Seguro,7121.95
+2973,481,Imposto Importação,194090.35
+2974,481,ICMS,153043.34
+2975,481,Armazenagem,4686.16
+2976,481,Despachante,3579.35
+2983,483,Frete Internacional,2865.59
+2984,483,Seguro,683.4
+2985,483,Imposto Importação,13095.7
+2986,483,ICMS,12446.41
+2987,483,Armazenagem,1175.77
+2988,483,Demurrage,7150.86
+2989,483,Despachante,1622.9
+2990,484,Frete Internacional,3548.01
+2991,484,Seguro,347.58
+2992,484,Imposto Importação,7117.92
+2993,484,ICMS,9716.16
+2994,484,Armazenagem,1049.78
+2995,484,Despachante,2436.68
+3002,486,Frete Internacional,56240.9
+3003,486,Seguro,12034.92
+3004,486,Imposto Importação,202501.33
+3005,486,ICMS,260738.52
+3006,486,Armazenagem,4301.48
+3007,486,Despachante,3863.66
+3008,487,Frete Internacional,35562.25
+3009,487,Seguro,1370.42
+3010,487,Imposto Importação,28786.5
+3011,487,ICMS,36684.93
+3012,487,Armazenagem,3782.64
+3013,487,Demurrage,5125.65
+3014,487,Despachante,3657.71
+3015,488,Frete Internacional,7024.96
+3016,488,Seguro,2199.69
+3017,488,Imposto Importação,47327.11
+3018,488,ICMS,52702.71
+3019,488,Armazenagem,1035.91
+3020,488,Despachante,4761.57
+3034,491,Frete Internacional,34925.9
+3035,491,Seguro,3493.42
+3036,491,Imposto Importação,60204.3
+3037,491,ICMS,78653.06
+3038,491,Armazenagem,1979.18
+3039,491,Despachante,3819.95
+3040,492,Frete Internacional,538303.06
+3041,492,Seguro,12273.92
+3042,492,Imposto Importação,161870.41
+3043,492,ICMS,201710.69
+3044,492,Armazenagem,2314.13
+3045,492,Despachante,4421.69
+3046,493,Frete Internacional,164644.45
+3047,493,Seguro,2919.21
+3048,493,Imposto Importação,82004.95
+3049,493,ICMS,82688.27
+3050,493,Armazenagem,3042.91
+3051,493,Despachante,2497.77
+3052,494,Frete Internacional,149984.3
+3053,494,Seguro,13192.27
+3054,494,Imposto Importação,258822.06
+3055,494,ICMS,324676.33
+3056,494,Armazenagem,2072.11
+3057,494,Despachante,3340.73
+3058,495,Frete Internacional,125475.9
+3059,495,Seguro,58517.79
+3060,495,Imposto Importação,438349.95
+3061,495,ICMS,662889.98
+3062,495,Armazenagem,1621.43
+3063,495,Demurrage,3271.45
+3064,495,Despachante,2531.78
+3077,498,Frete Internacional,545838.56
+3078,498,Seguro,63965.99
+3079,498,Imposto Importação,605563.25
+3080,498,ICMS,1018365.67
+3081,498,Armazenagem,1458.12
+3082,498,Despachante,4731.01
+3113,504,Frete Internacional,99683.15
+3114,504,Seguro,1873.26
+3115,504,Imposto Importação,39336.71
+3116,504,ICMS,33853.21
+3117,504,Armazenagem,6345.19
+3118,504,Despachante,2292.04
+3119,505,Frete Internacional,6493.68
+3120,505,Seguro,3655.59
+3121,505,Imposto Importação,35301.56
+3122,505,ICMS,54037.87
+3123,505,Armazenagem,2231.78
+3124,505,Despachante,4071.04
+3125,506,Frete Internacional,16563.4
+3126,506,Seguro,10010.11
+3127,506,Imposto Importação,147136.89
+3128,506,ICMS,149617.13
+3129,506,Armazenagem,694.44
+3130,506,Despachante,3514.14
+3131,507,Frete Internacional,38815.91
+3132,507,Seguro,4877.92
+3133,507,Imposto Importação,94482.09
+3134,507,ICMS,64536.78
+3135,507,Armazenagem,2616.15
+3136,507,Despachante,4351.12
+3143,509,Frete Internacional,81187.95
+3144,509,Seguro,14349.14
+3145,509,Imposto Importação,173016.18
+3146,509,ICMS,323626.58
+3147,509,Armazenagem,3082.82
+3148,509,Demurrage,6294.98
+3149,509,Despachante,3720.96
+3150,510,Frete Internacional,38534.64
+3151,510,Seguro,11752.46
+3152,510,Imposto Importação,214589.12
+3153,510,ICMS,138413.23
+3154,510,Armazenagem,4210.29
+3155,510,Despachante,3536.68
+3162,512,Frete Internacional,42432.03
+3163,512,Seguro,3284.15
+3164,512,Imposto Importação,79875.47
+3165,512,ICMS,88495.38
+3166,512,Armazenagem,979.66
+3167,512,Demurrage,2968.09
+3168,512,Despachante,4683.57
+3169,513,Frete Internacional,12399.0
+3170,513,Seguro,2009.75
+3171,513,Imposto Importação,76651.78
+3172,513,ICMS,66806.03
+3173,513,Armazenagem,2616.35
+3174,513,Despachante,1512.64
+3175,514,Frete Internacional,346863.46
+3176,514,Seguro,28021.03
+3177,514,Imposto Importação,258177.63
+3178,514,ICMS,327989.32
+3179,514,Armazenagem,2989.74
+3180,514,Despachante,1755.03
+3181,515,Frete Internacional,933112.48
+3182,515,Seguro,41348.18
+3183,515,Imposto Importação,1273008.55
+3184,515,ICMS,1193146.0
+3185,515,Armazenagem,1245.95
+3186,515,Despachante,4281.4
+3193,517,Frete Internacional,35671.8
+3194,517,Seguro,2720.66
+3195,517,Imposto Importação,46421.21
+3196,517,ICMS,73326.23
+3197,517,Armazenagem,3583.43
+3198,517,Despachante,3717.52
+3199,518,Frete Internacional,20745.53
+3200,518,Seguro,2255.74
+3201,518,Imposto Importação,42190.08
+3202,518,ICMS,33124.47
+3203,518,Armazenagem,1954.36
+3204,518,Despachante,3696.57
+3205,519,Frete Internacional,483142.81
+3206,519,Seguro,24574.13
+3207,519,Imposto Importação,400980.12
+3208,519,ICMS,308031.19
+3209,519,Armazenagem,2109.82
+3210,519,Despachante,3934.05
+3211,520,Frete Internacional,7535.97
+3212,520,Seguro,424.3
+3213,520,Imposto Importação,4977.86
+3214,520,ICMS,6725.14
+3215,520,Armazenagem,4404.49
+3216,520,Demurrage,2149.55
+3217,520,Despachante,3385.68
+3218,521,Frete Internacional,538964.85
+3219,521,Seguro,21755.84
+3220,521,Imposto Importação,616270.2
+3221,521,ICMS,567310.83
+3222,521,Armazenagem,3914.16
+3223,521,Despachante,1555.21
+3224,522,Frete Internacional,59320.58
+3225,522,Seguro,4493.57
+3226,522,Imposto Importação,78754.97
+3227,522,ICMS,135881.95
+3228,522,Armazenagem,4308.6
+3229,522,Despachante,2000.14
+3242,525,Frete Internacional,27927.56
+3243,525,Seguro,14197.82
+3244,525,Imposto Importação,135498.95
+3245,525,ICMS,187684.44
+3246,525,Armazenagem,4379.46
+3247,525,Despachante,3687.07
+3260,528,Frete Internacional,3931.02
+3261,528,Seguro,1399.77
+3262,528,Imposto Importação,13048.15
+3263,528,ICMS,22832.62
+3264,528,Armazenagem,2120.11
+3265,528,Despachante,4155.79
+3266,529,Frete Internacional,14498.1
+3267,529,Seguro,1582.42
+3268,529,Imposto Importação,13954.0
+3269,529,ICMS,21113.02
+3270,529,Armazenagem,4100.87
+3271,529,Despachante,4429.52
+3272,530,Frete Internacional,50531.43
+3273,530,Seguro,11737.43
+3274,530,Imposto Importação,263592.48
+3275,530,ICMS,185873.03
+3276,530,Armazenagem,3091.02
+3277,530,Despachante,2177.6
+3290,533,Frete Internacional,1151411.95
+3291,533,Seguro,32643.92
+3292,533,Imposto Importação,393337.63
+3293,533,ICMS,756400.89
+3294,533,Armazenagem,3155.88
+3295,533,Despachante,4181.42
+3296,534,Frete Internacional,55880.57
+3297,534,Seguro,5707.92
+3298,534,Imposto Importação,72217.49
+3299,534,ICMS,135075.45
+3300,534,Armazenagem,3663.02
+3301,534,Demurrage,3092.63
+3302,534,Despachante,3247.24
+3303,535,Frete Internacional,143875.68
+3304,535,Seguro,8271.7
+3305,535,Imposto Importação,114539.24
+3306,535,ICMS,102258.39
+3307,535,Armazenagem,3318.71
+3308,535,Despachante,1897.06
+3315,537,Frete Internacional,78899.79
+3316,537,Seguro,5859.84
+3317,537,Imposto Importação,70659.7
+3318,537,ICMS,93376.53
+3319,537,Armazenagem,2688.49
+3320,537,Despachante,1865.51
+3321,538,Frete Internacional,11446.84
+3322,538,Seguro,273.29
+3323,538,Imposto Importação,6582.88
+3324,538,ICMS,9228.76
+3325,538,Armazenagem,3357.58
+3326,538,Despachante,1629.77
+3327,539,Frete Internacional,5469.37
+3328,539,Seguro,1757.41
+3329,539,Imposto Importação,17453.79
+3330,539,ICMS,31222.62
+3331,539,Armazenagem,859.22
+3332,539,Despachante,4586.88
+3333,540,Frete Internacional,20996.92
+3334,540,Seguro,1988.99
+3335,540,Imposto Importação,26135.37
+3336,540,ICMS,35111.69
+3337,540,Armazenagem,2114.13
+3338,540,Despachante,3530.16
+3345,542,Frete Internacional,29051.77
+3346,542,Seguro,7378.09
+3347,542,Imposto Importação,144338.0
+3348,542,ICMS,107054.07
+3349,542,Armazenagem,3108.14
+3350,542,Despachante,1301.95
+3357,544,Frete Internacional,199189.06
+3358,544,Seguro,64970.13
+3359,544,Imposto Importação,1090877.59
+3360,544,ICMS,911095.81
+3361,544,Armazenagem,4100.44
+3362,544,Despachante,2311.56
+3376,547,Frete Internacional,133424.99
+3377,547,Seguro,31673.68
+3378,547,Imposto Importação,503291.33
+3379,547,ICMS,720923.37
+3380,547,Armazenagem,2752.16
+3381,547,Despachante,4517.98
+3382,548,Frete Internacional,16982.1
+3383,548,Seguro,1672.02
+3384,548,Imposto Importação,13831.94
+3385,548,ICMS,25069.18
+3386,548,Armazenagem,2745.05
+3387,548,Despachante,2313.07
+3394,550,Frete Internacional,2362.76
+3395,550,Seguro,1963.51
+3396,550,Imposto Importação,23547.59
+3397,550,ICMS,26265.38
+3398,550,Armazenagem,3262.5
+3399,550,Demurrage,6976.89
+3400,550,Despachante,1318.89
+3401,551,Frete Internacional,14071.41
+3402,551,Seguro,4325.16
+3403,551,Imposto Importação,103871.8
+3404,551,ICMS,93941.08
+3405,551,Armazenagem,650.54
+3406,551,Despachante,4710.19
+3407,552,Frete Internacional,61001.96
+3408,552,Seguro,5178.99
+3409,552,Imposto Importação,113386.78
+3410,552,ICMS,84937.46
+3411,552,Armazenagem,939.64
+3412,552,Despachante,3540.27
+3413,553,Frete Internacional,1372.32
+3414,553,Seguro,332.08
+3415,553,Imposto Importação,3704.46
+3416,553,ICMS,4593.86
+3417,553,Armazenagem,3278.89
+3418,553,Despachante,3788.46
+3419,554,Frete Internacional,16970.49
+3420,554,Seguro,2679.43
+3421,554,Imposto Importação,39170.49
+3422,554,ICMS,51106.99
+3423,554,Armazenagem,2154.1
+3424,554,Despachante,2278.95
+3425,555,Frete Internacional,479158.19
+3426,555,Seguro,37322.38
+3427,555,Imposto Importação,529812.35
+3428,555,ICMS,603170.99
+3429,555,Armazenagem,2983.06
+3430,555,Despachante,3251.7
+3431,556,Frete Internacional,284000.8
+3432,556,Seguro,13221.13
+3433,556,Imposto Importação,352758.23
+3434,556,ICMS,267902.84
+3435,556,Armazenagem,3357.75
+3436,556,Despachante,3106.31
+3437,557,Frete Internacional,944596.05
+3438,557,Seguro,25869.6
+3439,557,Imposto Importação,440356.2
+3440,557,ICMS,380161.39
+3441,557,Armazenagem,2594.35
+3442,557,Despachante,1901.61
+3443,558,Frete Internacional,74738.41
+3444,558,Seguro,5046.99
+3445,558,Imposto Importação,72314.51
+3446,558,ICMS,99670.2
+3447,558,Armazenagem,2856.35
+3448,558,Despachante,2072.85
+3449,559,Frete Internacional,31744.84
+3450,559,Seguro,11061.9
+3451,559,Imposto Importação,115178.0
+3452,559,ICMS,149762.46
+3453,559,Armazenagem,1405.66
+3454,559,Despachante,4357.46
+3468,562,Frete Internacional,428.2
+3469,562,Seguro,105.76
+3470,562,Imposto Importação,2365.93
+3471,562,ICMS,1760.8
+3472,562,Armazenagem,1496.71
+3473,562,Demurrage,857.43
+3474,562,Despachante,4419.18
+3475,563,Frete Internacional,50211.76
+3476,563,Seguro,1426.88
+3477,563,Imposto Importação,46200.49
+3478,563,ICMS,35981.26
+3479,563,Armazenagem,3622.42
+3480,563,Demurrage,3153.13
+3481,563,Despachante,5768.43
+3488,565,Frete Internacional,44773.67
+3489,565,Seguro,6264.42
+3490,565,Imposto Importação,136835.59
+3491,565,ICMS,153409.47
+3492,565,Armazenagem,1612.55
+3493,565,Despachante,2295.79
+3494,566,Frete Internacional,89678.67
+3495,566,Seguro,4387.23
+3496,566,Imposto Importação,129672.52
+3497,566,ICMS,130249.19
+3498,566,Armazenagem,3791.84
+3499,566,Demurrage,6108.54
+3500,566,Despachante,2480.78
+3507,568,Frete Internacional,1225959.53
+3508,568,Seguro,86830.86
+3509,568,Imposto Importação,2356604.2
+3510,568,ICMS,2479216.29
+3511,568,Armazenagem,3858.33
+3512,568,Despachante,3199.36
+3513,569,Frete Internacional,59464.84
+3514,569,Seguro,2350.33
+3515,569,Imposto Importação,42898.8
+3516,569,ICMS,35216.51
+3517,569,Armazenagem,4277.53
+3518,569,Despachante,2497.79
+3519,570,Frete Internacional,51515.41
+3520,570,Seguro,16514.54
+3521,570,Imposto Importação,324230.62
+3522,570,ICMS,389479.9
+3523,570,Armazenagem,838.57
+3524,570,Despachante,3151.34
+3537,573,Frete Internacional,960674.95
+3538,573,Seguro,91477.82
+3539,573,Imposto Importação,2094697.86
+3540,573,ICMS,2417674.65
+3541,573,Armazenagem,2517.74
+3542,573,Despachante,4083.59
+3555,576,Frete Internacional,689.83
+3556,576,Seguro,26.16
+3557,576,Imposto Importação,884.74
+3558,576,ICMS,827.71
+3559,576,Armazenagem,4057.07
+3560,576,Demurrage,2697.17
+3561,576,Despachante,4776.77
+3562,577,Frete Internacional,76035.77
+3563,577,Seguro,9694.9
+3564,577,Imposto Importação,78606.43
+3565,577,ICMS,120784.84
+3566,577,Armazenagem,3675.76
+3567,577,Despachante,4610.1
+3568,578,Frete Internacional,530257.23
+3569,578,Seguro,76346.28
+3570,578,Imposto Importação,1111320.69
+3571,578,ICMS,992885.62
+3572,578,Armazenagem,2063.37
+3573,578,Despachante,3905.78
+3580,580,Frete Internacional,45995.81
+3581,580,Seguro,2974.95
+3582,580,Imposto Importação,56183.14
+3583,580,ICMS,84202.7
+3584,580,Armazenagem,4466.03
+3585,580,Despachante,4360.13
+3586,581,Frete Internacional,31271.42
+3587,581,Seguro,10655.45
+3588,581,Imposto Importação,204450.75
+3589,581,ICMS,274189.17
+3590,581,Armazenagem,770.88
+3591,581,Despachante,3613.18
+3592,582,Frete Internacional,22108.26
+3593,582,Seguro,2645.51
+3594,582,Imposto Importação,66372.54
+3595,582,ICMS,41718.42
+3596,582,Armazenagem,3923.61
+3597,582,Demurrage,4244.39
+3598,582,Despachante,3395.86
+3617,586,Frete Internacional,2446.91
+3618,586,Seguro,662.54
+3619,586,Imposto Importação,11288.71
+3620,586,ICMS,10695.4
+3621,586,Armazenagem,4169.09
+3622,586,Demurrage,4070.38
+3623,586,Despachante,1786.96
+3624,587,Frete Internacional,14049.0
+3625,587,Seguro,9782.46
+3626,587,Imposto Importação,108529.86
+3627,587,ICMS,162967.75
+3628,587,Armazenagem,733.96
+3629,587,Despachante,3799.96
+3630,588,Frete Internacional,72580.34
+3631,588,Seguro,3305.81
+3632,588,Imposto Importação,101256.96
+3633,588,ICMS,80448.47
+3634,588,Armazenagem,3604.75
+3635,588,Demurrage,7404.88
+3636,588,Despachante,3511.9
+3637,589,Frete Internacional,148695.25
+3638,589,Seguro,8473.09
+3639,589,Imposto Importação,143503.89
+3640,589,ICMS,162978.75
+3641,589,Armazenagem,3646.64
+3642,589,Despachante,4304.16
+3661,593,Frete Internacional,17138.68
+3662,593,Seguro,1689.82
+3663,593,Imposto Importação,33002.18
+3664,593,ICMS,25413.55
+3665,593,Armazenagem,3008.8
+3666,593,Despachante,3969.92
+3667,594,Frete Internacional,15450.48
+3668,594,Seguro,6902.78
+3669,594,Imposto Importação,120190.08
+3670,594,ICMS,157351.72
+3671,594,Armazenagem,688.59
+3672,594,Despachante,4677.64
+3673,595,Frete Internacional,95242.5
+3674,595,Seguro,14393.93
+3675,595,Imposto Importação,297499.81
+3676,595,ICMS,230252.02
+3677,595,Armazenagem,3729.37
+3678,595,Despachante,1379.99
+3679,596,Frete Internacional,9297.53
+3680,596,Seguro,2928.39
+3681,596,Imposto Importação,22040.34
+3682,596,ICMS,42483.39
+3683,596,Armazenagem,3951.82
+3684,596,Despachante,3696.91
+3685,597,Frete Internacional,38986.63
+3686,597,Seguro,4701.8
+3687,597,Imposto Importação,62275.57
+3688,597,ICMS,57910.14
+3689,597,Armazenagem,2851.03
+3690,597,Despachante,2106.55
+3705,600,Frete Internacional,253915.38
+3706,600,Seguro,19894.19
+3707,600,Imposto Importação,593956.47
+3708,600,ICMS,592524.64
+3709,600,Armazenagem,1542.69
+3710,600,Despachante,2577.0
+3711,601,Frete Internacional,486250.36
+3712,601,Seguro,50516.65
+3713,601,Imposto Importação,756637.9
+3714,601,ICMS,538285.23
+3715,601,Armazenagem,2658.31
+3716,601,Despachante,4714.18
+3717,602,Frete Internacional,599046.93
+3718,602,Seguro,10798.07
+3719,602,Imposto Importação,269976.76
+3720,602,ICMS,173385.43
+3721,602,Armazenagem,3763.22
+3722,602,Despachante,3940.13
+3741,606,Frete Internacional,10349.1
+3742,606,Seguro,627.01
+3743,606,Imposto Importação,10364.65
+3744,606,ICMS,12583.72
+3745,606,Armazenagem,4185.13
+3746,606,Despachante,4061.25
+3747,607,Frete Internacional,25699.09
+3748,607,Seguro,4260.0
+3749,607,Imposto Importação,61041.37
+3750,607,ICMS,89981.76
+3751,607,Armazenagem,4043.29
+3752,607,Despachante,1501.37
+3765,610,Frete Internacional,28084.03
+3766,610,Seguro,2237.73
+3767,610,Imposto Importação,29870.37
+3768,610,ICMS,34035.77
+3769,610,Armazenagem,2353.09
+3770,610,Despachante,1755.01
+3784,613,Frete Internacional,49491.59
+3785,613,Seguro,4440.33
+3786,613,Imposto Importação,37370.44
+3787,613,ICMS,60052.89
+3788,613,Armazenagem,2637.73
+3789,613,Despachante,3735.74
+3790,614,Frete Internacional,302487.47
+3791,614,Seguro,43984.84
+3792,614,Imposto Importação,375364.55
+3793,614,ICMS,712962.58
+3794,614,Armazenagem,877.44
+3795,614,Despachante,4015.6
+3808,617,Frete Internacional,171193.8
+3809,617,Seguro,16794.32
+3810,617,Imposto Importação,172945.12
+3811,617,ICMS,275377.83
+3812,617,Armazenagem,1722.38
+3813,617,Demurrage,6825.11
+3814,617,Despachante,1203.46
+3821,619,Frete Internacional,8881.42
+3822,619,Seguro,2074.76
+3823,619,Imposto Importação,43981.91
+3824,619,ICMS,45118.38
+3825,619,Armazenagem,3051.22
+3826,619,Despachante,4332.78
+3827,620,Frete Internacional,1231810.36
+3828,620,Seguro,64471.97
+3829,620,Imposto Importação,595702.04
+3830,620,ICMS,923545.48
+3831,620,Armazenagem,1525.81
+3832,620,Despachante,2403.77
+3852,624,Frete Internacional,15826.43
+3853,624,Seguro,1178.87
+3854,624,Imposto Importação,24899.17
+3855,624,ICMS,29041.73
+3856,624,Armazenagem,1610.74
+3857,624,Despachante,1547.53
+3858,625,Frete Internacional,78986.38
+3859,625,Seguro,10391.02
+3860,625,Imposto Importação,101138.07
+3861,625,ICMS,165811.46
+3862,625,Armazenagem,728.05
+3863,625,Despachante,2720.09
+3870,627,Frete Internacional,16738.68
+3871,627,Seguro,900.26
+3872,627,Imposto Importação,20696.05
+3873,627,ICMS,27975.58
+3874,627,Armazenagem,515.4
+3875,627,Despachante,2375.89
+3882,629,Frete Internacional,109444.28
+3883,629,Seguro,54102.22
+3884,629,Imposto Importação,1305787.38
+3885,629,ICMS,959643.44
+3886,629,Armazenagem,3613.41
+3887,629,Despachante,1424.81
+3888,630,Frete Internacional,544590.05
+3889,630,Seguro,16743.44
+3890,630,Imposto Importação,266910.91
+3891,630,ICMS,342805.52
+3892,630,Armazenagem,3525.15
+3893,630,Despachante,4288.06
+3900,632,Frete Internacional,72706.96
+3901,632,Seguro,3134.23
+3902,632,Imposto Importação,98938.34
+3903,632,ICMS,80404.77
+3904,632,Armazenagem,3487.94
+3905,632,Despachante,3486.0
+3906,633,Frete Internacional,52531.55
+3907,633,Seguro,16850.95
+3908,633,Imposto Importação,272841.02
+3909,633,ICMS,237486.88
+3910,633,Armazenagem,3571.85
+3911,633,Despachante,2837.55
+3912,634,Frete Internacional,749.94
+3913,634,Seguro,362.05
+3914,634,Imposto Importação,8422.72
+3915,634,ICMS,5442.05
+3916,634,Armazenagem,4392.59
+3917,634,Despachante,3589.77
+3918,635,Frete Internacional,43331.77
+3919,635,Seguro,1971.38
+3920,635,Imposto Importação,37632.69
+3921,635,ICMS,55013.94
+3922,635,Armazenagem,896.6
+3923,635,Despachante,3029.17
+3931,637,Frete Internacional,252669.84
+3932,637,Seguro,24044.24
+3933,637,Imposto Importação,171812.93
+3934,637,ICMS,369513.7
+3935,637,Armazenagem,2429.11
+3936,637,Despachante,3542.31
+3943,639,Frete Internacional,3296.26
+3944,639,Seguro,2338.8
+3945,639,Imposto Importação,28360.97
+3946,639,ICMS,42102.56
+3947,639,Armazenagem,2984.68
+3948,639,Despachante,2800.54
+3949,640,Frete Internacional,384345.92
+3950,640,Seguro,11370.04
+3951,640,Imposto Importação,207689.73
+3952,640,ICMS,187361.64
+3953,640,Armazenagem,4379.75
+3954,640,Despachante,4271.62
+3955,641,Frete Internacional,888126.63
+3956,641,Seguro,66359.56
+3957,641,Imposto Importação,923257.31
+3958,641,ICMS,1272064.88
+3959,641,Armazenagem,1212.78
+3960,641,Despachante,4766.43
+3967,643,Frete Internacional,494679.41
+3968,643,Seguro,26283.02
+3969,643,Imposto Importação,357273.61
+3970,643,ICMS,301351.28
+3971,643,Armazenagem,1794.69
+3972,643,Despachante,3420.27
+3973,644,Frete Internacional,5154.05
+3974,644,Seguro,2063.62
+3975,644,Imposto Importação,18450.35
+3976,644,ICMS,25880.14
+3977,644,Armazenagem,2909.38
+3978,644,Despachante,3461.79
+3979,645,Frete Internacional,1076.7
+3980,645,Seguro,791.95
+3981,645,Imposto Importação,12133.26
+3982,645,ICMS,13438.05
+3983,645,Armazenagem,3946.61
+3984,645,Demurrage,2730.44
+3985,645,Despachante,2910.65
+3986,646,Frete Internacional,208435.34
+3987,646,Seguro,12548.86
+3988,646,Imposto Importação,259423.9
+3989,646,ICMS,309283.77
+3990,646,Armazenagem,751.72
+3991,646,Despachante,3427.45
+3992,647,Frete Internacional,10983.73
+3993,647,Seguro,3805.34
+3994,647,Imposto Importação,65540.58
+3995,647,ICMS,69716.78
+3996,647,Armazenagem,1727.97
+3997,647,Despachante,2117.68
+3998,648,Frete Internacional,24809.18
+3999,648,Seguro,10791.5
+4000,648,Imposto Importação,179226.67
+4001,648,ICMS,174182.67
+4002,648,Armazenagem,801.07
+4003,648,Despachante,4089.82
+4004,649,Frete Internacional,54681.95
+4005,649,Seguro,17300.44
+4006,649,Imposto Importação,150121.33
+4007,649,ICMS,237166.25
+4008,649,Armazenagem,1655.9
+4009,649,Despachante,4597.41
+4010,650,Frete Internacional,147283.48
+4011,650,Seguro,4323.46
+4012,650,Imposto Importação,90075.01
+4013,650,ICMS,101334.24
+4014,650,Armazenagem,927.27
+4015,650,Despachante,3995.06
+4016,651,Frete Internacional,41919.33
+4017,651,Seguro,2498.83
+4018,651,Imposto Importação,48135.25
+4019,651,ICMS,68387.73
+4020,651,Armazenagem,1166.66
+4021,651,Despachante,4102.33
+4046,656,Frete Internacional,34061.18
+4047,656,Seguro,9527.07
+4048,656,Imposto Importação,220153.89
+4049,656,ICMS,201321.72
+4050,656,Armazenagem,923.95
+4051,656,Despachante,4743.29
+4059,658,Frete Internacional,52552.45
+4060,658,Seguro,4503.06
+4061,658,Imposto Importação,57368.79
+4062,658,ICMS,69492.96
+4063,658,Armazenagem,3977.76
+4064,658,Despachante,3522.18
+4065,659,Frete Internacional,45857.32
+4066,659,Seguro,3133.93
+4067,659,Imposto Importação,32788.95
+4068,659,ICMS,36704.3
+4069,659,Armazenagem,2731.83
+4070,659,Despachante,1889.69
+4071,660,Frete Internacional,629233.05
+4072,660,Seguro,19694.2
+4073,660,Imposto Importação,428735.31
+4074,660,ICMS,424175.53
+4075,660,Armazenagem,2227.97
+4076,660,Despachante,3009.55
+4077,661,Frete Internacional,235829.98
+4078,661,Seguro,8361.97
+4079,661,Imposto Importação,70487.56
+4080,661,ICMS,108802.74
+4081,661,Armazenagem,2388.42
+4082,661,Despachante,3513.86
+4096,664,Frete Internacional,161472.55
+4097,664,Seguro,3581.27
+4098,664,Imposto Importação,80977.12
+4099,664,ICMS,71511.2
+4100,664,Armazenagem,1996.9
+4101,664,Despachante,1339.03
+4102,665,Frete Internacional,102165.92
+4103,665,Seguro,5229.61
+4104,665,Imposto Importação,48086.85
+4105,665,ICMS,89305.19
+4106,665,Armazenagem,2945.13
+4107,665,Despachante,2919.67
+4108,666,Frete Internacional,901859.81
+4109,666,Seguro,44061.23
+4110,666,Imposto Importação,603399.13
+4111,666,ICMS,1049412.58
+4112,666,Armazenagem,1834.8
+4113,666,Despachante,3112.75
+4120,668,Frete Internacional,15645.51
+4121,668,Seguro,6015.47
+4122,668,Imposto Importação,117116.46
+4123,668,ICMS,100775.22
+4124,668,Armazenagem,2889.15
+4125,668,Despachante,2374.53
+4132,670,Frete Internacional,26451.85
+4133,670,Seguro,3132.64
+4134,670,Imposto Importação,33840.02
+4135,670,ICMS,41423.35
+4136,670,Armazenagem,3815.6
+4137,670,Despachante,1402.88
+4138,671,Frete Internacional,92668.57
+4139,671,Seguro,7347.17
+4140,671,Imposto Importação,163278.13
+4141,671,ICMS,181536.32
+4142,671,Armazenagem,4222.07
+4143,671,Demurrage,5963.34
+4144,671,Despachante,2900.29
+4145,672,Frete Internacional,17636.09
+4146,672,Seguro,4267.36
+4147,672,Imposto Importação,72986.93
+4148,672,ICMS,69151.29
+4149,672,Armazenagem,1128.21
+4150,672,Despachante,3129.86
+4151,673,Frete Internacional,658921.74
+4152,673,Seguro,37960.4
+4153,673,Imposto Importação,772937.99
+4154,673,ICMS,885327.46
+4155,673,Armazenagem,3200.43
+4156,673,Despachante,1815.49
+4157,674,Frete Internacional,183981.04
+4158,674,Seguro,6642.03
+4159,674,Imposto Importação,166769.75
+4160,674,ICMS,145143.46
+4161,674,Armazenagem,5026.82
+4162,674,Despachante,3460.46
+4169,676,Frete Internacional,240419.97
+4170,676,Seguro,29602.84
+4171,676,Imposto Importação,791393.53
+4172,676,ICMS,849168.83
+4173,676,Armazenagem,2292.95
+4174,676,Despachante,2897.82
+4175,677,Frete Internacional,17210.1
+4176,677,Seguro,1293.73
+4177,677,Imposto Importação,17440.16
+4178,677,ICMS,18246.03
+4179,677,Armazenagem,2253.44
+4180,677,Despachante,3876.06
+4181,678,Frete Internacional,224201.19
+4182,678,Seguro,12266.17
+4183,678,Imposto Importação,437678.64
+4184,678,ICMS,369894.35
+4185,678,Armazenagem,1925.63
+4186,678,Despachante,4100.8
+4187,679,Frete Internacional,785978.7
+4188,679,Seguro,41613.35
+4189,679,Imposto Importação,853209.25
+4190,679,ICMS,1294604.63
+4191,679,Armazenagem,1312.7
+4192,679,Despachante,2957.99
+4199,681,Frete Internacional,119407.58
+4200,681,Seguro,13806.88
+4201,681,Imposto Importação,286881.76
+4202,681,ICMS,269704.57
+4203,681,Armazenagem,2208.5
+4204,681,Demurrage,4215.93
+4205,681,Despachante,3125.81
+4206,682,Frete Internacional,22756.4
+4207,682,Seguro,3477.38
+4208,682,Imposto Importação,27120.15
+4209,682,ICMS,51555.31
+4210,682,Armazenagem,2419.68
+4211,682,Despachante,1234.71
+4224,685,Frete Internacional,96484.82
+4225,685,Seguro,6313.23
+4226,685,Imposto Importação,68857.95
+4227,685,ICMS,107855.65
+4228,685,Armazenagem,3620.2
+4229,685,Despachante,5628.59
+4236,687,Frete Internacional,100555.66
+4237,687,Seguro,3569.63
+4238,687,Imposto Importação,57916.86
+4239,687,ICMS,79156.49
+4240,687,Armazenagem,2850.64
+4241,687,Despachante,4399.17
+4242,688,Frete Internacional,282532.15
+4243,688,Seguro,19052.81
+4244,688,Imposto Importação,503459.62
+4245,688,ICMS,359763.95
+4246,688,Armazenagem,2938.37
+4247,688,Despachante,4045.07
+4254,690,Frete Internacional,164283.83
+4255,690,Seguro,23894.49
+4256,690,Imposto Importação,344495.99
+4257,690,ICMS,270946.88
+4258,690,Armazenagem,3317.09
+4259,690,Despachante,2674.56
+4266,692,Frete Internacional,46524.44
+4267,692,Seguro,5556.43
+4268,692,Imposto Importação,104433.45
+4269,692,ICMS,88936.78
+4270,692,Armazenagem,3396.79
+4271,692,Despachante,2776.95
+4272,693,Frete Internacional,201247.59
+4273,693,Seguro,12587.38
+4274,693,Imposto Importação,204404.2
+4275,693,ICMS,198146.07
+4276,693,Armazenagem,2721.56
+4277,693,Despachante,3191.12
+4291,696,Frete Internacional,8611.67
+4292,696,Seguro,2994.27
+4293,696,Imposto Importação,62049.93
+4294,696,ICMS,48329.15
+4295,696,Armazenagem,827.8
+4296,696,Demurrage,3162.8
+4297,696,Despachante,3290.16
+4304,698,Frete Internacional,5553.46
+4305,698,Seguro,875.8
+4306,698,Imposto Importação,11376.55
+4307,698,ICMS,11432.68
+4308,698,Armazenagem,2593.48
+4309,698,Demurrage,6028.06
+4310,698,Despachante,3497.5
+4330,702,Frete Internacional,670363.01
+4331,702,Seguro,35108.25
+4332,702,Imposto Importação,507057.19
+4333,702,ICMS,525064.66
+4334,702,Armazenagem,5918.66
+4335,702,Despachante,4298.74
+4336,703,Frete Internacional,15373.05
+4337,703,Seguro,2041.25
+4338,703,Imposto Importação,17955.79
+4339,703,ICMS,33592.25
+4340,703,Armazenagem,1752.32
+4341,703,Despachante,3903.09
+4342,704,Frete Internacional,35096.24
+4343,704,Seguro,8299.13
+4344,704,Imposto Importação,182684.77
+4345,704,ICMS,178649.82
+4346,704,Armazenagem,3175.74
+4347,704,Despachante,3624.0
+4348,705,Frete Internacional,355032.56
+4349,705,Seguro,57379.41
+4350,705,Imposto Importação,545380.23
+4351,705,ICMS,775032.62
+4352,705,Armazenagem,2837.97
+4353,705,Demurrage,7701.39
+4354,705,Despachante,3117.5
+4355,706,Frete Internacional,288034.53
+4356,706,Seguro,34337.31
+4357,706,Imposto Importação,337892.49
+4358,706,ICMS,459001.0
+4359,706,Armazenagem,1760.6
+4360,706,Demurrage,6009.25
+4361,706,Despachante,1352.15
+4362,707,Frete Internacional,21262.48
+4363,707,Seguro,1393.04
+4364,707,Imposto Importação,30255.91
+4365,707,ICMS,28346.59
+4366,707,Armazenagem,5883.51
+4367,707,Despachante,1759.91
+4368,708,Frete Internacional,74916.05
+4369,708,Seguro,41682.98
+4370,708,Imposto Importação,437888.73
+4371,708,ICMS,615270.78
+4372,708,Armazenagem,1326.34
+4373,708,Demurrage,3271.41
+4374,708,Despachante,3709.78
+4375,709,Frete Internacional,33215.58
+4376,709,Seguro,7875.87
+4377,709,Imposto Importação,124019.09
+4378,709,ICMS,142429.83
+4379,709,Armazenagem,4160.05
+4380,709,Demurrage,5769.49
+4381,709,Despachante,3034.77
+4382,710,Frete Internacional,665.73
+4383,710,Seguro,203.3
+4384,710,Imposto Importação,2499.47
+4385,710,ICMS,3199.78
+4386,710,Armazenagem,2974.73
+4387,710,Despachante,3455.87
+4388,711,Frete Internacional,569275.31
+4389,711,Seguro,38516.44
+4390,711,Imposto Importação,643458.0
+4391,711,ICMS,556346.62
+4392,711,Armazenagem,3331.21
+4393,711,Despachante,6032.33
+4400,713,Frete Internacional,10518.85
+4401,713,Seguro,4573.85
+4402,713,Imposto Importação,125097.95
+4403,713,ICMS,85130.42
+4404,713,Armazenagem,1660.71
+4405,713,Despachante,3643.83
+4406,714,Frete Internacional,12461.48
+4407,714,Seguro,5604.64
+4408,714,Imposto Importação,155764.87
+4409,714,ICMS,148507.49
+4410,714,Armazenagem,2444.64
+4411,714,Despachante,4278.94
+4412,715,Frete Internacional,4814.97
+4413,715,Seguro,342.82
+4414,715,Imposto Importação,7990.47
+4415,715,ICMS,6633.39
+4416,715,Armazenagem,518.74
+4417,715,Despachante,2261.95
+4418,716,Frete Internacional,396057.56
+4419,716,Seguro,16156.91
+4420,716,Imposto Importação,254459.67
+4421,716,ICMS,285603.24
+4422,716,Armazenagem,4978.77
+4423,716,Despachante,1723.62
+4430,718,Frete Internacional,92515.53
+4431,718,Seguro,8371.97
+4432,718,Imposto Importação,95244.55
+4433,718,ICMS,100248.02
+4434,718,Armazenagem,4401.25
+4435,718,Despachante,1334.9
+4436,719,Frete Internacional,588823.18
+4437,719,Seguro,15511.33
+4438,719,Imposto Importação,178255.95
+4439,719,ICMS,331173.44
+4440,719,Armazenagem,533.09
+4441,719,Demurrage,3821.83
+4442,719,Despachante,2719.99
+4443,720,Frete Internacional,237898.59
+4444,720,Seguro,5092.45
+4445,720,Imposto Importação,58219.79
+4446,720,ICMS,99684.0
+4447,720,Armazenagem,3205.73
+4448,720,Despachante,3103.93
+4449,721,Frete Internacional,43974.3
+4450,721,Seguro,2159.35
+4451,721,Imposto Importação,43333.71
+4452,721,ICMS,43403.98
+4453,721,Armazenagem,4202.07
+4454,721,Despachante,1770.15
+4455,722,Frete Internacional,105200.6
+4456,722,Seguro,25734.32
+4457,722,Imposto Importação,722558.19
+4458,722,ICMS,740780.73
+4459,722,Armazenagem,3941.07
+4460,722,Despachante,3691.4
+4461,723,Frete Internacional,2025.54
+4462,723,Seguro,64.67
+4463,723,Imposto Importação,1688.04
+4464,723,ICMS,1989.62
+4465,723,Armazenagem,1612.88
+4466,723,Despachante,2835.64
+4467,724,Frete Internacional,32173.18
+4468,724,Seguro,11666.45
+4469,724,Imposto Importação,347385.53
+4470,724,ICMS,225376.7
+4471,724,Armazenagem,3327.65
+4472,724,Despachante,3960.91
+4473,725,Frete Internacional,41766.99
+4474,725,Seguro,4517.67
+4475,725,Imposto Importação,39043.58
+4476,725,ICMS,60599.29
+4477,725,Armazenagem,2314.05
+4478,725,Despachante,1276.58
+4479,726,Frete Internacional,923786.91
+4480,726,Seguro,247266.24
+4481,726,Imposto Importação,4619109.23
+4482,726,ICMS,4238673.2
+4483,726,Armazenagem,3655.34
+4484,726,Despachante,4220.92
+4485,727,Frete Internacional,114153.9
+4486,727,Seguro,9270.76
+4487,727,Imposto Importação,156140.65
+4488,727,ICMS,110925.35
+4489,727,Armazenagem,1720.27
+4490,727,Despachante,3013.96
+4491,728,Frete Internacional,121035.3
+4492,728,Seguro,3175.71
+4493,728,Imposto Importação,97806.75
+4494,728,ICMS,107426.86
+4495,728,Armazenagem,3409.12
+4496,728,Despachante,6061.23
+4497,729,Frete Internacional,46001.25
+4498,729,Seguro,3472.34
+4499,729,Imposto Importação,76021.3
+4500,729,ICMS,97955.63
+4501,729,Armazenagem,2298.03
+4502,729,Despachante,1539.46
+4528,734,Frete Internacional,44098.63
+4529,734,Seguro,15393.59
+4530,734,Imposto Importação,161903.84
+4531,734,ICMS,221185.18
+4532,734,Armazenagem,1138.24
+4533,734,Despachante,4010.82
+4534,735,Frete Internacional,9682.37
+4535,735,Seguro,434.05
+4536,735,Imposto Importação,4135.49
+4537,735,ICMS,7069.53
+4538,735,Armazenagem,4446.75
+4539,735,Demurrage,5366.9
+4540,735,Despachante,2235.99
+4541,736,Frete Internacional,1747172.18
+4542,736,Seguro,43410.24
+4543,736,Imposto Importação,706225.82
+4544,736,ICMS,806899.05
+4545,736,Armazenagem,3441.51
+4546,736,Despachante,3879.87
+4547,737,Frete Internacional,6979.21
+4548,737,Seguro,1930.76
+4549,737,Imposto Importação,26319.95
+4550,737,ICMS,23379.16
+4551,737,Armazenagem,1209.82
+4552,737,Demurrage,4371.26
+4553,737,Despachante,2274.77
+4554,738,Frete Internacional,408946.53
+4555,738,Seguro,19218.6
+4556,738,Imposto Importação,340146.86
+4557,738,ICMS,527567.45
+4558,738,Armazenagem,4624.12
+4559,738,Despachante,3521.93
+4578,742,Frete Internacional,13601.97
+4579,742,Seguro,8287.06
+4580,742,Imposto Importação,100171.98
+4581,742,ICMS,171647.14
+4582,742,Armazenagem,2833.57
+4583,742,Demurrage,4146.89
+4584,742,Despachante,3377.69
+4591,744,Frete Internacional,399649.6
+4592,744,Seguro,149566.79
+4593,744,Imposto Importação,1520981.93
+4594,744,ICMS,2768467.41
+4595,744,Armazenagem,638.43
+4596,744,Despachante,1776.89
+4603,746,Frete Internacional,63010.94
+4604,746,Seguro,4963.57
+4605,746,Imposto Importação,75103.02
+4606,746,ICMS,153309.22
+4607,746,Armazenagem,1764.85
+4608,746,Despachante,3984.51
+4615,748,Frete Internacional,6410.3
+4616,748,Seguro,1072.05
+4617,748,Imposto Importação,29332.16
+4618,748,ICMS,35650.78
+4619,748,Armazenagem,715.17
+4620,748,Despachante,4170.19
+4628,750,Frete Internacional,8170.63
+4629,750,Seguro,534.58
+4630,750,Imposto Importação,14074.25
+4631,750,ICMS,15457.51
+4632,750,Armazenagem,1067.66
+4633,750,Despachante,4571.47
+4634,751,Frete Internacional,49105.86
+4635,751,Seguro,4762.84
+4636,751,Imposto Importação,64084.08
+4637,751,ICMS,93093.23
+4638,751,Armazenagem,3691.35
+4639,751,Despachante,1849.06
+4640,752,Frete Internacional,20432.71
+4641,752,Seguro,4060.61
+4642,752,Imposto Importação,73039.76
+4643,752,ICMS,113586.94
+4644,752,Armazenagem,1912.49
+4645,752,Demurrage,7445.23
+4646,752,Despachante,2893.17
+4647,753,Frete Internacional,58350.41
+4648,753,Seguro,3524.54
+4649,753,Imposto Importação,81304.84
+4650,753,ICMS,74466.08
+4651,753,Armazenagem,894.64
+4652,753,Despachante,2186.82
+4653,754,Frete Internacional,1056534.69
+4654,754,Seguro,82578.12
+4655,754,Imposto Importação,957363.91
+4656,754,ICMS,1185345.16
+4657,754,Armazenagem,947.79
+4658,754,Demurrage,1561.53
+4659,754,Despachante,3269.9
+4660,755,Frete Internacional,64109.0
+4661,755,Seguro,10841.42
+4662,755,Imposto Importação,134525.47
+4663,755,ICMS,163293.03
+4664,755,Armazenagem,863.68
+4665,755,Demurrage,6599.05
+4666,755,Despachante,3145.77
+4667,756,Frete Internacional,20884.16
+4668,756,Seguro,2274.44
+4669,756,Imposto Importação,25834.77
+4670,756,ICMS,35361.29
+4671,756,Armazenagem,2643.44
+4672,756,Despachante,2924.29
+4673,757,Frete Internacional,106272.4
+4674,757,Seguro,12439.24
+4675,757,Imposto Importação,222926.76
+4676,757,ICMS,180962.29
+4677,757,Armazenagem,1007.61
+4678,757,Despachante,4796.86
+4679,758,Frete Internacional,2705265.28
+4680,758,Seguro,163211.3
+4681,758,Imposto Importação,2290786.24
+4682,758,ICMS,3005979.57
+4683,758,Armazenagem,594.54
+4684,758,Despachante,2777.96
+4685,759,Frete Internacional,56658.82
+4686,759,Seguro,8041.82
+4687,759,Imposto Importação,134268.74
+4688,759,ICMS,86177.08
+4689,759,Armazenagem,630.12
+4690,759,Despachante,4246.93
+4691,760,Frete Internacional,41571.16
+4692,760,Seguro,4424.08
+4693,760,Imposto Importação,50294.33
+4694,760,ICMS,85100.86
+4695,760,Armazenagem,3447.91
+4696,760,Despachante,4559.84
+4697,761,Frete Internacional,66485.89
+4698,761,Seguro,23208.68
+4699,761,Imposto Importação,209562.19
+4700,761,ICMS,314720.93
+4701,761,Armazenagem,3421.45
+4702,761,Demurrage,2221.14
+4703,761,Despachante,2373.73
+4704,762,Frete Internacional,46509.03
+4705,762,Seguro,2705.97
+4706,762,Imposto Importação,45903.39
+4707,762,ICMS,44291.31
+4708,762,Armazenagem,6417.29
+4709,762,Demurrage,1935.59
+4710,762,Despachante,2608.33
+4711,763,Frete Internacional,181924.38
+4712,763,Seguro,33998.82
+4713,763,Imposto Importação,527221.85
+4714,763,ICMS,612810.02
+4715,763,Armazenagem,3357.66
+4716,763,Demurrage,1274.61
+4717,763,Despachante,1799.4
+4730,766,Frete Internacional,39169.76
+4731,766,Seguro,9006.13
+4732,766,Imposto Importação,135485.73
+4733,766,ICMS,157870.13
+4734,766,Armazenagem,519.32
+4735,766,Despachante,3258.25
+4736,767,Frete Internacional,15873.23
+4737,767,Seguro,5709.71
+4738,767,Imposto Importação,45013.45
+4739,767,ICMS,60526.86
+4740,767,Armazenagem,3693.28
+4741,767,Demurrage,7675.6
+4742,767,Despachante,4261.42
+4749,769,Frete Internacional,26193.17
+4750,769,Seguro,7026.89
+4751,769,Imposto Importação,116764.92
+4752,769,ICMS,135086.1
+4753,769,Armazenagem,3407.02
+4754,769,Despachante,3423.99
+4755,770,Frete Internacional,141947.62
+4756,770,Seguro,7448.8
+4757,770,Imposto Importação,150122.11
+4758,770,ICMS,123349.9
+4759,770,Armazenagem,6683.95
+4760,770,Despachante,5972.32
+4781,774,Frete Internacional,145800.34
+4782,774,Seguro,8003.76
+4783,774,Imposto Importação,170974.52
+4784,774,ICMS,177632.95
+4785,774,Armazenagem,2604.28
+4786,774,Despachante,2445.05
+4787,775,Frete Internacional,4589.79
+4788,775,Seguro,612.65
+4789,775,Imposto Importação,4627.44
+4790,775,ICMS,8055.58
+4791,775,Armazenagem,1795.77
+4792,775,Despachante,2686.34
+4793,776,Frete Internacional,819.37
+4794,776,Seguro,494.16
+4795,776,Imposto Importação,14525.4
+4796,776,ICMS,11760.26
+4797,776,Armazenagem,1501.53
+4798,776,Despachante,3734.59
+4799,777,Frete Internacional,64700.61
+4800,777,Seguro,3737.67
+4801,777,Imposto Importação,49026.07
+4802,777,ICMS,61773.7
+4803,777,Armazenagem,734.24
+4804,777,Demurrage,7144.89
+4805,777,Despachante,3795.66
+4825,781,Frete Internacional,218390.78
+4826,781,Seguro,10904.84
+4827,781,Imposto Importação,231014.94
+4828,781,ICMS,348448.93
+4829,781,Armazenagem,1389.08
+4830,781,Despachante,1262.63
+4837,783,Frete Internacional,26530.56
+4838,783,Seguro,9515.18
+4839,783,Imposto Importação,193043.29
+4840,783,ICMS,158069.89
+4841,783,Armazenagem,3645.21
+4842,783,Despachante,2445.43
+4849,785,Frete Internacional,202503.26
+4850,785,Seguro,11955.78
+4851,785,Imposto Importação,133601.54
+4852,785,ICMS,201820.99
+4853,785,Armazenagem,4119.35
+4854,785,Despachante,3704.76
+4855,786,Frete Internacional,4677.99
+4856,786,Seguro,1501.7
+4857,786,Imposto Importação,26003.58
+4858,786,ICMS,20030.42
+4859,786,Armazenagem,4434.44
+4860,786,Demurrage,6092.06
+4861,786,Despachante,4530.83
+4880,790,Frete Internacional,4644.98
+4881,790,Seguro,337.1
+4882,790,Imposto Importação,5162.64
+4883,790,ICMS,3908.78
+4884,790,Armazenagem,5701.3
+4885,790,Demurrage,5278.68
+4886,790,Despachante,3117.95
+4887,791,Frete Internacional,39820.29
+4888,791,Seguro,5257.26
+4889,791,Imposto Importação,111292.69
+4890,791,ICMS,103619.44
+4891,791,Armazenagem,1319.83
+4892,791,Despachante,2970.55
+4893,792,Frete Internacional,86343.51
+4894,792,Seguro,35087.79
+4895,792,Imposto Importação,877340.51
+4896,792,ICMS,867261.44
+4897,792,Armazenagem,2464.68
+4898,792,Despachante,1808.68
+4899,793,Frete Internacional,531293.05
+4900,793,Seguro,39507.85
+4901,793,Imposto Importação,667708.65
+4902,793,ICMS,501261.89
+4903,793,Armazenagem,2335.39
+4904,793,Despachante,2619.27
+4905,794,Frete Internacional,9773.4
+4906,794,Seguro,567.99
+4907,794,Imposto Importação,12778.74
+4908,794,ICMS,11409.9
+4909,794,Armazenagem,2049.71
+4910,794,Despachante,3715.64
+4917,796,Frete Internacional,91979.57
+4918,796,Seguro,24918.12
+4919,796,Imposto Importação,306431.4
+4920,796,ICMS,394730.57
+4921,796,Armazenagem,1578.25
+4922,796,Despachante,2903.9
+4923,797,Frete Internacional,667932.92
+4924,797,Seguro,30598.99
+4925,797,Imposto Importação,491543.83
+4926,797,ICMS,521043.31
+4927,797,Armazenagem,2919.63
+4928,797,Demurrage,7819.76
+4929,797,Despachante,2069.43
+4936,799,Frete Internacional,11649.8
+4937,799,Seguro,2191.12
+4938,799,Imposto Importação,39635.0
+4939,799,ICMS,49228.61
+4940,799,Armazenagem,3455.68
+4941,799,Despachante,1748.5
+4942,800,Frete Internacional,38377.19
+4943,800,Seguro,2617.52
+4944,800,Imposto Importação,97494.52
+4945,800,ICMS,81379.1
+4946,800,Armazenagem,1511.11
+4947,800,Despachante,2482.61
+4948,801,Frete Internacional,376250.55
+4949,801,Seguro,7421.37
+4950,801,Imposto Importação,86867.88
+4951,801,ICMS,153796.4
+4952,801,Armazenagem,4709.55
+4953,801,Despachante,2884.7
+4960,803,Frete Internacional,325685.2
+4961,803,Seguro,24495.08
+4962,803,Imposto Importação,255165.4
+4963,803,ICMS,508793.68
+4964,803,Armazenagem,1434.01
+4965,803,Despachante,3637.81
+4966,804,Frete Internacional,386844.99
+4967,804,Seguro,5559.51
+4968,804,Imposto Importação,127589.78
+4969,804,ICMS,116960.18
+4970,804,Armazenagem,5094.09
+4971,804,Despachante,2857.42
+4991,808,Frete Internacional,5055.77
+4992,808,Seguro,789.29
+4993,808,Imposto Importação,37867.45
+4994,808,ICMS,29313.08
+4995,808,Armazenagem,901.92
+4996,808,Despachante,4340.26
+4997,809,Frete Internacional,59521.79
+4998,809,Seguro,32864.86
+4999,809,Imposto Importação,288104.67
+5000,809,ICMS,341774.44
+5001,809,Armazenagem,3295.47
+5002,809,Demurrage,4016.4
+5003,809,Despachante,4181.06
+5004,810,Frete Internacional,6631.64
+5005,810,Seguro,682.25
+5006,810,Imposto Importação,5189.04
+5007,810,ICMS,7569.71
+5008,810,Armazenagem,1604.09
+5009,810,Despachante,1955.48
+5022,813,Frete Internacional,19110.12
+5023,813,Seguro,5095.68
+5024,813,Imposto Importação,97416.11
+5025,813,ICMS,81365.65
+5026,813,Armazenagem,2967.36
+5027,813,Despachante,1383.34
+5028,814,Frete Internacional,123266.54
+5029,814,Seguro,5867.83
+5030,814,Imposto Importação,193334.18
+5031,814,ICMS,209219.32
+5032,814,Armazenagem,3044.53
+5033,814,Despachante,2383.16
+5034,815,Frete Internacional,10247.24
+5035,815,Seguro,468.32
+5036,815,Imposto Importação,10854.56
+5037,815,ICMS,15210.32
+5038,815,Armazenagem,2250.2
+5039,815,Despachante,3108.39
+5040,816,Frete Internacional,55337.95
+5041,816,Seguro,1986.14
+5042,816,Imposto Importação,90595.36
+5043,816,ICMS,72910.84
+5044,816,Armazenagem,3203.98
+5045,816,Despachante,3081.31
+5046,817,Frete Internacional,4579.02
+5047,817,Seguro,2311.65
+5048,817,Imposto Importação,61705.8
+5049,817,ICMS,75061.1
+5050,817,Armazenagem,3360.24
+5051,817,Despachante,4603.78
+5058,819,Frete Internacional,86430.68
+5059,819,Seguro,7894.45
+5060,819,Imposto Importação,155539.78
+5061,819,ICMS,130208.92
+5062,819,Armazenagem,4451.38
+5063,819,Despachante,2965.48
+5064,820,Frete Internacional,57412.28
+5065,820,Seguro,866.95
+5066,820,Imposto Importação,18734.43
+5067,820,ICMS,20743.44
+5068,820,Armazenagem,3434.45
+5069,820,Despachante,5600.2
+5082,823,Frete Internacional,576849.08
+5083,823,Seguro,23654.85
+5084,823,Imposto Importação,862257.73
+5085,823,ICMS,828169.2
+5086,823,Armazenagem,1149.08
+5087,823,Despachante,2606.53
+5094,825,Frete Internacional,24228.87
+5095,825,Seguro,3360.2
+5096,825,Imposto Importação,142265.35
+5097,825,ICMS,130012.36
+5098,825,Armazenagem,1926.03
+5099,825,Despachante,3684.34
+5106,827,Frete Internacional,4514.35
+5107,827,Seguro,520.48
+5108,827,Imposto Importação,9510.47
+5109,827,ICMS,9143.6
+5110,827,Armazenagem,3793.81
+5111,827,Despachante,1215.88
+5112,828,Frete Internacional,291675.11
+5113,828,Seguro,44258.86
+5114,828,Imposto Importação,953513.86
+5115,828,ICMS,1378132.87
+5116,828,Armazenagem,4319.96
+5117,828,Despachante,3960.64
+5131,831,Frete Internacional,2042.57
+5132,831,Seguro,763.64
+5133,831,Imposto Importação,12952.45
+5134,831,ICMS,10131.25
+5135,831,Armazenagem,1414.53
+5136,831,Demurrage,3451.77
+5137,831,Despachante,1456.57
+5138,832,Frete Internacional,32507.79
+5139,832,Seguro,9258.98
+5140,832,Imposto Importação,236773.86
+5141,832,ICMS,204782.66
+5142,832,Armazenagem,2052.54
+5143,832,Despachante,3766.49
+5144,833,Frete Internacional,234567.97
+5145,833,Seguro,15164.18
+5146,833,Imposto Importação,312124.94
+5147,833,ICMS,278790.15
+5148,833,Armazenagem,2146.04
+5149,833,Despachante,1997.45
+5150,834,Frete Internacional,38541.81
+5151,834,Seguro,4729.49
+5152,834,Imposto Importação,83137.72
+5153,834,ICMS,61156.05
+5154,834,Armazenagem,2494.68
+5155,834,Despachante,4777.05
+5156,835,Frete Internacional,130079.31
+5157,835,Seguro,55584.51
+5158,835,Imposto Importação,790579.19
+5159,835,ICMS,765551.36
+5160,835,Armazenagem,4336.62
+5161,835,Despachante,2088.41
+5162,836,Frete Internacional,60576.0
+5163,836,Seguro,6935.34
+5164,836,Imposto Importação,132168.17
+5165,836,ICMS,88241.1
+5166,836,Armazenagem,2684.03
+5167,836,Demurrage,4033.09
+5168,836,Despachante,2973.65
+5176,838,Frete Internacional,146871.54
+5177,838,Seguro,37585.04
+5178,838,Imposto Importação,707059.2
+5179,838,ICMS,695657.54
+5180,838,Armazenagem,2347.44
+5181,838,Despachante,2580.07
+5182,839,Frete Internacional,54205.04
+5183,839,Seguro,7719.83
+5184,839,Imposto Importação,99151.87
+5185,839,ICMS,123204.16
+5186,839,Armazenagem,4463.1
+5187,839,Despachante,2722.27
+5194,841,Frete Internacional,148596.4
+5195,841,Seguro,10548.19
+5196,841,Imposto Importação,270330.99
+5197,841,ICMS,252918.33
+5198,841,Armazenagem,2422.74
+5199,841,Despachante,3909.5
+5206,843,Frete Internacional,2556.06
+5207,843,Seguro,1237.44
+5208,843,Imposto Importação,29310.97
+5209,843,ICMS,27976.68
+5210,843,Armazenagem,2513.02
+5211,843,Despachante,2852.47
+5212,844,Frete Internacional,3146.43
+5213,844,Seguro,896.8
+5214,844,Imposto Importação,30076.66
+5215,844,ICMS,28532.23
+5216,844,Armazenagem,3582.31
+5217,844,Despachante,3101.08
+5218,845,Frete Internacional,71735.22
+5219,845,Seguro,3666.25
+5220,845,Imposto Importação,33647.45
+5221,845,ICMS,49650.02
+5222,845,Armazenagem,2551.54
+5223,845,Demurrage,3799.66
+5224,845,Despachante,2733.14
+5225,846,Frete Internacional,519183.91
+5226,846,Seguro,78715.77
+5227,846,Imposto Importação,1069301.77
+5228,846,ICMS,1130272.99
+5229,846,Armazenagem,2412.94
+5230,846,Demurrage,6810.81
+5231,846,Despachante,1943.5
+5239,848,Frete Internacional,177851.4
+5240,848,Seguro,16992.84
+5241,848,Imposto Importação,313404.91
+5242,848,ICMS,271924.22
+5243,848,Armazenagem,2125.75
+5244,848,Despachante,1308.75
+5245,849,Frete Internacional,81326.67
+5246,849,Seguro,11385.56
+5247,849,Imposto Importação,143268.17
+5248,849,ICMS,144076.02
+5249,849,Armazenagem,3217.69
+5250,849,Despachante,3698.12
+5251,850,Frete Internacional,2951627.17
+5252,850,Seguro,152328.98
+5253,850,Imposto Importação,1657015.58
+5254,850,ICMS,2098919.23
+5255,850,Armazenagem,902.4
+5256,850,Despachante,5464.26
+5257,851,Frete Internacional,67183.35
+5258,851,Seguro,4300.54
+5259,851,Imposto Importação,82392.84
+5260,851,ICMS,90783.55
+5261,851,Armazenagem,4327.97
+5262,851,Despachante,4273.52
+5263,852,Frete Internacional,50481.11
+5264,852,Seguro,3242.66
+5265,852,Imposto Importação,43381.92
+5266,852,ICMS,70382.37
+5267,852,Armazenagem,3124.95
+5268,852,Despachante,2820.83
+5269,853,Frete Internacional,15547.45
+5270,853,Seguro,3875.21
+5271,853,Imposto Importação,89994.38
+5272,853,ICMS,72640.82
+5273,853,Armazenagem,1856.0
+5274,853,Despachante,2770.8
+5282,855,Frete Internacional,13180.39
+5283,855,Seguro,6388.21
+5284,855,Imposto Importação,80404.13
+5285,855,ICMS,79043.6
+5286,855,Armazenagem,738.55
+5287,855,Despachante,4597.29
+5288,856,Frete Internacional,6936.48
+5289,856,Seguro,829.33
+5290,856,Imposto Importação,29450.8
+5291,856,ICMS,29238.71
+5292,856,Armazenagem,3820.53
+5293,856,Despachante,2964.34
+5300,858,Frete Internacional,14233.57
+5301,858,Seguro,1516.39
+5302,858,Imposto Importação,43355.83
+5303,858,ICMS,34656.44
+5304,858,Armazenagem,2713.84
+5305,858,Demurrage,2065.19
+5306,858,Despachante,1572.84
+5307,859,Frete Internacional,14406.65
+5308,859,Seguro,5465.41
+5309,859,Imposto Importação,66430.8
+5310,859,ICMS,108557.65
+5311,859,Armazenagem,1216.68
+5312,859,Demurrage,2097.32
+5313,859,Despachante,2687.55
+5338,864,Frete Internacional,33011.71
+5339,864,Seguro,2704.46
+5340,864,Imposto Importação,29875.09
+5341,864,ICMS,31837.45
+5342,864,Armazenagem,1428.79
+5343,864,Despachante,2308.38
+5344,865,Frete Internacional,9943.15
+5345,865,Seguro,4088.38
+5346,865,Imposto Importação,106946.37
+5347,865,ICMS,94753.09
+5348,865,Armazenagem,521.32
+5349,865,Despachante,3226.16
+5356,867,Frete Internacional,54602.15
+5357,867,Seguro,2594.06
+5358,867,Imposto Importação,64401.77
+5359,867,ICMS,52325.71
+5360,867,Armazenagem,2918.85
+5361,867,Demurrage,5845.14
+5362,867,Despachante,4768.7
+5363,868,Frete Internacional,109897.65
+5364,868,Seguro,9201.2
+5365,868,Imposto Importação,99931.44
+5366,868,ICMS,191914.91
+5367,868,Armazenagem,971.49
+5368,868,Despachante,2453.02
+5369,869,Frete Internacional,16908.01
+5370,869,Seguro,17450.44
+5371,869,Imposto Importação,218265.78
+5372,869,ICMS,215557.61
+5373,869,Armazenagem,1001.75
+5374,869,Despachante,2711.21
+5381,871,Frete Internacional,2925.22
+5382,871,Seguro,647.43
+5383,871,Imposto Importação,17975.67
+5384,871,ICMS,16421.47
+5385,871,Armazenagem,593.58
+5386,871,Despachante,3020.4
+5399,874,Frete Internacional,18040.16
+5400,874,Seguro,3450.69
+5401,874,Imposto Importação,111799.49
+5402,874,ICMS,112867.9
+5403,874,Armazenagem,3606.52
+5404,874,Despachante,4375.62
+5405,875,Frete Internacional,1892.12
+5406,875,Seguro,101.97
+5407,875,Imposto Importação,2658.72
+5408,875,ICMS,3694.1
+5409,875,Armazenagem,638.38
+5410,875,Despachante,4435.51
+5411,876,Frete Internacional,48235.03
+5412,876,Seguro,3040.46
+5413,876,Imposto Importação,57497.38
+5414,876,ICMS,66081.16
+5415,876,Armazenagem,1171.09
+5416,876,Despachante,1346.65
+5417,877,Frete Internacional,8217.49
+5418,877,Seguro,740.75
+5419,877,Imposto Importação,11634.21
+5420,877,ICMS,9263.14
+5421,877,Armazenagem,4393.7
+5422,877,Demurrage,7170.1
+5423,877,Despachante,2014.47
+5455,883,Frete Internacional,153072.28
+5456,883,Seguro,12531.36
+5457,883,Imposto Importação,272827.42
+5458,883,ICMS,178555.67
+5459,883,Armazenagem,1470.91
+5460,883,Despachante,1913.12
+5461,884,Frete Internacional,25555.2
+5462,884,Seguro,2417.5
+5463,884,Imposto Importação,46543.89
+5464,884,ICMS,48411.48
+5465,884,Armazenagem,4125.66
+5466,884,Despachante,3343.07
+5467,885,Frete Internacional,415142.89
+5468,885,Seguro,29292.16
+5469,885,Imposto Importação,474853.83
+5470,885,ICMS,558739.06
+5471,885,Armazenagem,1867.59
+5472,885,Despachante,1552.04
+5473,886,Frete Internacional,15142.5
+5474,886,Seguro,1536.7
+5475,886,Imposto Importação,19116.39
+5476,886,ICMS,28687.96
+5477,886,Armazenagem,2426.47
+5478,886,Despachante,2642.82
+5479,887,Frete Internacional,43036.95
+5480,887,Seguro,12172.61
+5481,887,Imposto Importação,126768.88
+5482,887,ICMS,156214.84
+5483,887,Armazenagem,3171.12
+5484,887,Despachante,4504.11
+5485,888,Frete Internacional,432300.69
+5486,888,Seguro,26014.02
+5487,888,Imposto Importação,1017699.14
+5488,888,ICMS,874165.66
+5489,888,Armazenagem,4061.42
+5490,888,Despachante,2814.85
+5491,889,Frete Internacional,13961.92
+5492,889,Seguro,1782.22
+5493,889,Imposto Importação,62853.47
+5494,889,ICMS,54800.76
+5495,889,Armazenagem,3467.31
+5496,889,Despachante,2166.89
+5497,890,Frete Internacional,1506813.27
+5498,890,Seguro,44769.89
+5499,890,Imposto Importação,747583.13
+5500,890,ICMS,1178897.75
+5501,890,Armazenagem,1126.77
+5502,890,Despachante,5585.08
+5509,892,Frete Internacional,1513407.37
+5510,892,Seguro,205510.66
+5511,892,Imposto Importação,2721320.35
+5512,892,ICMS,2805704.43
+5513,892,Armazenagem,4169.3
+5514,892,Despachante,1702.77
+5521,894,Frete Internacional,1177.12
+5522,894,Seguro,109.8
+5523,894,Imposto Importação,1255.55
+5524,894,ICMS,1907.02
+5525,894,Armazenagem,1785.34
+5526,894,Despachante,4048.38
+5533,896,Frete Internacional,334116.91
+5534,896,Seguro,6920.11
+5535,896,Imposto Importação,67530.13
+5536,896,ICMS,86232.48
+5537,896,Armazenagem,2156.87
+5538,896,Despachante,4319.18
+5545,898,Frete Internacional,302430.2
+5546,898,Seguro,31194.27
+5547,898,Imposto Importação,301766.48
+5548,898,ICMS,462041.28
+5549,898,Armazenagem,1834.17
+5550,898,Despachante,4023.8
+5551,899,Frete Internacional,789.56
+5552,899,Seguro,203.03
+5553,899,Imposto Importação,4422.13
+5554,899,ICMS,3755.75
+5555,899,Armazenagem,4390.64
+5556,899,Despachante,2774.08
+5575,903,Frete Internacional,6551.08
+5576,903,Seguro,1718.84
+5577,903,Imposto Importação,44221.74
+5578,903,ICMS,44355.75
+5579,903,Armazenagem,2122.94
+5580,903,Despachante,4759.89
+5587,905,Frete Internacional,1291.51
+5588,905,Seguro,98.47
+5589,905,Imposto Importação,1042.29
+5590,905,ICMS,1298.66
+5591,905,Armazenagem,1649.89
+5592,905,Despachante,3338.48
+5593,906,Frete Internacional,55414.0
+5594,906,Seguro,3982.89
+5595,906,Imposto Importação,71433.18
+5596,906,ICMS,64700.46
+5597,906,Armazenagem,3825.9
+5598,906,Despachante,1683.76
+5605,908,Frete Internacional,101195.0
+5606,908,Seguro,3290.91
+5607,908,Imposto Importação,130876.87
+5608,908,ICMS,115276.33
+5609,908,Armazenagem,862.58
+5610,908,Despachante,1910.4
+5611,909,Frete Internacional,296248.96
+5612,909,Seguro,7149.18
+5613,909,Imposto Importação,162630.96
+5614,909,ICMS,217514.88
+5615,909,Armazenagem,1954.75
+5616,909,Despachante,2189.31
+5630,912,Frete Internacional,39701.49
+5631,912,Seguro,1259.49
+5632,912,Imposto Importação,10242.25
+5633,912,ICMS,21118.85
+5634,912,Armazenagem,3981.23
+5635,912,Despachante,1986.2
+5636,913,Frete Internacional,147772.37
+5637,913,Seguro,23581.01
+5638,913,Imposto Importação,166362.93
+5639,913,ICMS,316074.91
+5640,913,Armazenagem,1413.08
+5641,913,Despachante,2176.96
+5642,914,Frete Internacional,189540.45
+5643,914,Seguro,15586.71
+5644,914,Imposto Importação,233719.44
+5645,914,ICMS,251877.04
+5646,914,Armazenagem,4789.78
+5647,914,Despachante,5619.18
+5648,915,Frete Internacional,692249.11
+5649,915,Seguro,36057.11
+5650,915,Imposto Importação,403457.65
+5651,915,ICMS,872405.89
+5652,915,Armazenagem,4453.31
+5653,915,Despachante,1995.96
+5660,917,Frete Internacional,16108.69
+5661,917,Seguro,2396.42
+5662,917,Imposto Importação,43620.05
+5663,917,ICMS,63723.06
+5664,917,Armazenagem,4079.04
+5665,917,Despachante,2915.79
+5666,918,Frete Internacional,697931.65
+5667,918,Seguro,48885.92
+5668,918,Imposto Importação,360968.45
+5669,918,ICMS,738840.56
+5670,918,Armazenagem,2000.57
+5671,918,Despachante,2928.05
+5672,919,Frete Internacional,136732.82
+5673,919,Seguro,20764.63
+5674,919,Imposto Importação,539559.4
+5675,919,ICMS,693963.76
+5676,919,Armazenagem,777.85
+5677,919,Despachante,2424.65
+5678,920,Frete Internacional,21412.44
+5679,920,Seguro,942.15
+5680,920,Imposto Importação,24990.48
+5681,920,ICMS,21286.57
+5682,920,Armazenagem,3716.49
+5683,920,Despachante,2443.52
+5684,921,Frete Internacional,72630.69
+5685,921,Seguro,2645.12
+5686,921,Imposto Importação,90009.7
+5687,921,ICMS,66453.22
+5688,921,Armazenagem,2065.16
+5689,921,Despachante,5170.6
+5690,922,Frete Internacional,18576.14
+5691,922,Seguro,12003.97
+5692,922,Imposto Importação,160083.77
+5693,922,ICMS,211954.6
+5694,922,Armazenagem,3623.62
+5695,922,Despachante,3003.54
+5702,924,Frete Internacional,93190.28
+5703,924,Seguro,2156.14
+5704,924,Imposto Importação,67267.56
+5705,924,ICMS,47635.44
+5706,924,Armazenagem,2737.65
+5707,924,Demurrage,5755.14
+5708,924,Despachante,1822.64
+5722,927,Frete Internacional,129968.3
+5723,927,Seguro,57707.16
+5724,927,Imposto Importação,542149.11
+5725,927,ICMS,1111062.49
+5726,927,Armazenagem,2826.2
+5727,927,Despachante,3121.07
+5728,928,Frete Internacional,46910.29
+5729,928,Seguro,4299.24
+5730,928,Imposto Importação,67551.87
+5731,928,ICMS,98972.29
+5732,928,Armazenagem,3040.36
+5733,928,Despachante,2256.96
+5740,930,Frete Internacional,10393.05
+5741,930,Seguro,765.16
+5742,930,Imposto Importação,15906.38
+5743,930,ICMS,17228.33
+5744,930,Armazenagem,4013.88
+5745,930,Despachante,2690.74
+5746,931,Frete Internacional,78349.82
+5747,931,Seguro,7590.94
+5748,931,Imposto Importação,101789.71
+5749,931,ICMS,107828.74
+5750,931,Armazenagem,2713.81
+5751,931,Despachante,4672.83
+5752,932,Frete Internacional,956.48
+5753,932,Seguro,738.24
+5754,932,Imposto Importação,14797.59
+5755,932,ICMS,9969.58
+5756,932,Armazenagem,1991.07
+5757,932,Despachante,3392.14
+5764,934,Frete Internacional,203178.22
+5765,934,Seguro,13382.28
+5766,934,Imposto Importação,328135.07
+5767,934,ICMS,318690.36
+5768,934,Armazenagem,3850.51
+5769,934,Despachante,2244.2
+5770,935,Frete Internacional,75744.42
+5771,935,Seguro,3847.47
+5772,935,Imposto Importação,98030.99
+5773,935,ICMS,64340.57
+5774,935,Armazenagem,6146.55
+5775,935,Despachante,2720.54
+5782,937,Frete Internacional,8702.21
+5783,937,Seguro,1019.3
+5784,937,Imposto Importação,23114.88
+5785,937,ICMS,24404.95
+5786,937,Armazenagem,980.97
+5787,937,Despachante,1858.93
+5788,938,Frete Internacional,19068.94
+5789,938,Seguro,3199.28
+5790,938,Imposto Importação,80356.44
+5791,938,ICMS,76736.02
+5792,938,Armazenagem,3069.49
+5793,938,Despachante,3411.51
+5794,939,Frete Internacional,141065.38
+5795,939,Seguro,5451.24
+5796,939,Imposto Importação,112821.77
+5797,939,ICMS,104383.57
+5798,939,Armazenagem,2058.18
+5799,939,Despachante,4724.86
+5812,942,Frete Internacional,137407.11
+5813,942,Seguro,19280.6
+5814,942,Imposto Importação,191479.84
+5815,942,ICMS,195667.07
+5816,942,Armazenagem,3182.98
+5817,942,Despachante,1696.98
+5818,943,Frete Internacional,627725.03
+5819,943,Seguro,47502.61
+5820,943,Imposto Importação,432694.14
+5821,943,ICMS,789782.09
+5822,943,Armazenagem,2744.14
+5823,943,Despachante,3953.43
+5824,944,Frete Internacional,88174.34
+5825,944,Seguro,6137.67
+5826,944,Imposto Importação,141952.38
+5827,944,ICMS,103645.92
+5828,944,Armazenagem,2063.02
+5829,944,Despachante,1420.29
+5849,948,Frete Internacional,1411041.91
+5850,948,Seguro,84721.17
+5851,948,Imposto Importação,3022316.52
+5852,948,ICMS,3144618.77
+5853,948,Armazenagem,2635.57
+5854,948,Despachante,2308.66
+5855,949,Frete Internacional,23675.44
+5856,949,Seguro,1172.4
+5857,949,Imposto Importação,18622.92
+5858,949,ICMS,19720.56
+5859,949,Armazenagem,5057.78
+5860,949,Despachante,4774.99
+5861,950,Frete Internacional,91397.08
+5862,950,Seguro,12840.23
+5863,950,Imposto Importação,98594.28
+5864,950,ICMS,181232.22
+5865,950,Armazenagem,4330.57
+5866,950,Despachante,4762.44
+5867,951,Frete Internacional,91736.83
+5868,951,Seguro,4853.09
+5869,951,Imposto Importação,133030.14
+5870,951,ICMS,194516.44
+5871,951,Armazenagem,2941.98
+5872,951,Despachante,1296.42
+5873,952,Frete Internacional,35910.2
+5874,952,Seguro,2159.07
+5875,952,Imposto Importação,61166.38
+5876,952,ICMS,67178.49
+5877,952,Armazenagem,2256.76
+5878,952,Demurrage,2660.94
+5879,952,Despachante,3386.13
+5880,953,Frete Internacional,50826.04
+5881,953,Seguro,8352.14
+5882,953,Imposto Importação,75091.04
+5883,953,ICMS,121680.15
+5884,953,Armazenagem,3470.0
+5885,953,Despachante,4030.86
+5886,954,Frete Internacional,6698.95
+5887,954,Seguro,1868.01
+5888,954,Imposto Importação,33919.65
+5889,954,ICMS,31518.5
+5890,954,Armazenagem,3788.1
+5891,954,Demurrage,6017.69
+5892,954,Despachante,1601.93
+5893,955,Frete Internacional,5361.13
+5894,955,Seguro,2415.91
+5895,955,Imposto Importação,17912.34
+5896,955,ICMS,35092.33
+5897,955,Armazenagem,4315.39
+5898,955,Despachante,1998.46
+5899,956,Frete Internacional,19935.23
+5900,956,Seguro,599.55
+5901,956,Imposto Importação,7766.44
+5902,956,ICMS,9310.65
+5903,956,Armazenagem,5301.74
+5904,956,Despachante,2041.83
+5905,957,Frete Internacional,56858.05
+5906,957,Seguro,3055.44
+5907,957,Imposto Importação,87636.16
+5908,957,ICMS,88941.72
+5909,957,Armazenagem,3132.68
+5910,957,Despachante,3554.58
+5911,958,Frete Internacional,39492.94
+5912,958,Seguro,2348.88
+5913,958,Imposto Importação,112846.95
+5914,958,ICMS,97474.65
+5915,958,Armazenagem,957.75
+5916,958,Demurrage,5113.35
+5917,958,Despachante,1761.87
+5924,960,Frete Internacional,4899.2
+5925,960,Seguro,1549.75
+5926,960,Imposto Importação,11651.54
+5927,960,ICMS,17179.48
+5928,960,Armazenagem,1100.89
+5929,960,Despachante,4605.13
+5930,961,Frete Internacional,10731.7
+5931,961,Seguro,1331.69
+5932,961,Imposto Importação,24933.86
+5933,961,ICMS,24576.45
+5934,961,Armazenagem,3869.79
+5935,961,Despachante,4607.5
+5936,962,Frete Internacional,177144.33
+5937,962,Seguro,2328.95
+5938,962,Imposto Importação,54763.68
+5939,962,ICMS,84356.56
+5940,962,Armazenagem,2817.81
+5941,962,Despachante,3233.81
+5942,963,Frete Internacional,24672.55
+5943,963,Seguro,6525.41
+5944,963,Imposto Importação,95385.82
+5945,963,ICMS,105038.45
+5946,963,Armazenagem,2659.35
+5947,963,Despachante,3332.41
+5948,964,Frete Internacional,1349284.61
+5949,964,Seguro,172091.04
+5950,964,Imposto Importação,3663752.93
+5951,964,ICMS,3354594.03
+5952,964,Armazenagem,1185.96
+5953,964,Despachante,2610.89
+5954,965,Frete Internacional,35187.34
+5955,965,Seguro,14337.42
+5956,965,Imposto Importação,322791.67
+5957,965,ICMS,406798.49
+5958,965,Armazenagem,2999.6
+5959,965,Despachante,3488.17
+5966,967,Frete Internacional,9113.99
+5967,967,Seguro,673.29
+5968,967,Imposto Importação,15096.33
+5969,967,ICMS,15134.54
+5970,967,Armazenagem,1836.03
+5971,967,Despachante,4156.75
+5978,969,Frete Internacional,143605.38
+5979,969,Seguro,8876.55
+5980,969,Imposto Importação,119687.91
+5981,969,ICMS,138471.41
+5982,969,Armazenagem,861.4
+5983,969,Demurrage,7467.44
+5984,969,Despachante,6037.94
+5985,970,Frete Internacional,115668.92
+5986,970,Seguro,29161.57
+5987,970,Imposto Importação,496239.27
+5988,970,ICMS,849984.64
+5989,970,Armazenagem,2779.5
+5990,970,Despachante,4138.9
+5991,971,Frete Internacional,452842.69
+5992,971,Seguro,5095.44
+5993,971,Imposto Importação,106340.99
+5994,971,ICMS,140701.22
+5995,971,Armazenagem,754.61
+5996,971,Despachante,2934.25
+6003,973,Frete Internacional,8617.19
+6004,973,Seguro,3034.3
+6005,973,Imposto Importação,33904.09
+6006,973,ICMS,57568.32
+6007,973,Armazenagem,2258.46
+6008,973,Despachante,4589.87
+6009,974,Frete Internacional,108767.02
+6010,974,Seguro,3996.56
+6011,974,Imposto Importação,62779.81
+6012,974,ICMS,57610.44
+6013,974,Armazenagem,1587.91
+6014,974,Despachante,3036.07
+6015,975,Frete Internacional,789.17
+6016,975,Seguro,74.99
+6017,975,Imposto Importação,1826.07
+6018,975,ICMS,1618.02
+6019,975,Armazenagem,2493.65
+6020,975,Despachante,2195.2
+6034,978,Frete Internacional,1307242.07
+6035,978,Seguro,53371.85
+6036,978,Imposto Importação,881556.63
+6037,978,ICMS,823930.03
+6038,978,Armazenagem,1039.55
+6039,978,Demurrage,2647.32
+6040,978,Despachante,3377.4
+6047,980,Frete Internacional,161607.88
+6048,980,Seguro,78379.3
+6049,980,Imposto Importação,1026744.18
+6050,980,ICMS,894003.67
+6051,980,Armazenagem,4070.16
+6052,980,Despachante,4746.96
+6053,981,Frete Internacional,568988.06
+6054,981,Seguro,11163.17
+6055,981,Imposto Importação,153106.6
+6056,981,ICMS,124564.89
+6057,981,Armazenagem,6238.88
+6058,981,Despachante,6012.31
+6059,982,Frete Internacional,254999.09
+6060,982,Seguro,14051.42
+6061,982,Imposto Importação,417856.41
+6062,982,ICMS,402900.05
+6063,982,Armazenagem,3960.65
+6064,982,Despachante,3053.16
+6065,983,Frete Internacional,31635.64
+6066,983,Seguro,2060.36
+6067,983,Imposto Importação,27753.45
+6068,983,ICMS,47390.62
+6069,983,Armazenagem,2235.31
+6070,983,Despachante,2089.41
+6071,984,Frete Internacional,129445.65
+6072,984,Seguro,1989.81
+6073,984,Imposto Importação,87781.06
+6074,984,ICMS,76336.41
+6075,984,Armazenagem,4080.85
+6076,984,Despachante,1544.32
+6083,986,Frete Internacional,92644.92
+6084,986,Seguro,16604.87
+6085,986,Imposto Importação,170516.62
+6086,986,ICMS,182744.77
+6087,986,Armazenagem,4415.55
+6088,986,Despachante,4547.81
+6095,988,Frete Internacional,1694589.43
+6096,988,Seguro,51754.17
+6097,988,Imposto Importação,791627.18
+6098,988,ICMS,726074.69
+6099,988,Armazenagem,1370.91
+6100,988,Demurrage,2269.7
+6101,988,Despachante,4121.5
+6102,989,Frete Internacional,19873.26
+6103,989,Seguro,4169.79
+6104,989,Imposto Importação,124865.66
+6105,989,ICMS,121945.71
+6106,989,Armazenagem,1029.58
+6107,989,Despachante,3144.53
+6114,991,Frete Internacional,273204.02
+6115,991,Seguro,4879.89
+6116,991,Imposto Importação,144391.2
+6117,991,ICMS,116876.51
+6118,991,Armazenagem,722.44
+6119,991,Despachante,2412.6
+6138,995,Frete Internacional,1847.95
+6139,995,Seguro,1364.57
+6140,995,Imposto Importação,16119.87
+6141,995,ICMS,25921.56
+6142,995,Armazenagem,2294.28
+6143,995,Despachante,1561.81
+6150,997,Frete Internacional,136912.07
+6151,997,Seguro,44607.83
+6152,997,Imposto Importação,333868.15
+6153,997,ICMS,557255.41
+6154,997,Armazenagem,4257.51
+6155,997,Despachante,1633.86
+6162,999,Frete Internacional,53580.28
+6163,999,Seguro,3521.09
+6164,999,Imposto Importação,61634.95
+6165,999,ICMS,70046.06
+6166,999,Armazenagem,1189.65
+6167,999,Despachante,3196.18

@@ -1,0 +1,501 @@
+﻿id_produto,descricao,ncm,categoria,peso_unitario_kg,valor_unitario_usd
+1,Filtro de óleo para motor,84212300,Automotivo,0.859,11.57
+2,Pastilha de freio dianteira,87083000,Automotivo,1.171,27.14
+3,Amortecedor dianteiro,87088000,Automotivo,4.325,93.72
+4,Correia dentada,40103500,Automotivo,0.325,18.88
+5,Bomba d'água,84138100,Automotivo,1.839,39.08
+6,Vela de ignição,85112000,Automotivo,0.09,9.06
+7,Alternador 12V,85114000,Automotivo,5.471,113.43
+8,Motor de arranque,85113000,Automotivo,3.985,96.9
+9,Radiador de alumínio,87089990,Automotivo,3.93,104.02
+10,Embreagem completa,16082000,Automotivo,6.997,160.17
+11,Caixa de direção hidráulica,87085000,Automotivo,8.028,208.81
+12,Tensor de correia,84834000,Automotivo,0.948,32.65
+13,Sensor de oxigênio,90278000,Automotivo,0.21,47.62
+14,Módulo injeção eletrônica,85389000,Automotivo,0.484,222.55
+15,Catalisador escape,85400000,Automotivo,2.727,324.87
+16,Rolamento de roda,84821000,Automotivo,0.639,34.13
+17,Kit de suspensão dianteira,87088000,Automotivo,11.12,270.16
+18,Compressor de ar condicionado,84151000,Automotivo,6.648,216.73
+19,Turbina turbocompressora,84143000,Automotivo,4.965,442.38
+20,Injetor de combustível,84139100,Automotivo,0.318,128.14
+21,Placa-mãe ATX,84734000,Eletrônico,1.32,209.45
+22,Processador Intel i7,84733000,Eletrônico,0.087,368.52
+23,Memória RAM DDR5 16GB,84733000,Eletrônico,0.043,81.37
+24,SSD NVMe 1TB,84733000,Eletrônico,0.09,138.21
+25,Fonte de alimentação 750W,85044000,Eletrônico,2.148,89.31
+26,Placa de vídeo RTX 4070,84733000,Eletrônico,0.957,547.91
+27,Monitor LED 27 polegadas,85285200,Eletrônico,3.98,265.76
+28,Teclado mecânico USB,84716090,Eletrônico,0.853,73.48
+29,Mouse sem fio,84716090,Eletrônico,0.104,39.94
+30,Webcam Full HD,85258000,Eletrônico,0.225,42.28
+31,Switch de rede 24 portas,85176200,Eletrônico,3.089,173.0
+32,Roteador Wi-Fi 6,85176200,Eletrônico,0.513,124.01
+33,Impressora laser A4,84433200,Eletrônico,8.234,268.41
+34,Nobreak 1500VA,85044000,Eletrônico,8.757,188.48
+35,Tablet Android 10,84713000,Eletrônico,0.45,236.59
+36,Smartphone 128GB,85171200,Eletrônico,0.177,390.82
+37,Fone de ouvido Bluetooth,85183000,Eletrônico,0.337,72.92
+38,Câmera IP segurança,85258000,Eletrônico,0.427,73.88
+39,Servidor rack 1U,84715000,Eletrônico,13.681,1725.48
+40,HDD externo 4TB,84717000,Eletrônico,0.268,87.31
+41,Compressor parafuso 10HP,84143000,Industrial,87.611,3571.44
+42,Motor elétrico trifásico,85012000,Industrial,47.099,811.68
+43,Redutor de velocidade,84834000,Industrial,30.292,634.22
+44,Bomba centrífuga,84137000,Industrial,19.912,535.66
+45,Válvula solenóide,84818000,Industrial,1.182,99.74
+46,Inversor de frequência,85044000,Industrial,4.587,697.03
+47,CLP Siemens S7,85371000,Industrial,2.178,1382.98
+48,Sensor indutivo,90318000,Industrial,0.104,40.63
+49,Cilindro pneumático,84121100,Industrial,3.308,180.86
+50,Filtro prensa industrial,84212990,Industrial,39.516,2649.18
+51,Transportador de correia,84283200,Industrial,160.368,8734.33
+52,Painel elétrico WEG,85371000,Industrial,33.009,4234.31
+53,Rolamento industrial SKF,84821000,Industrial,7.37,433.62
+54,Encoder incremental,90329000,Industrial,0.262,253.55
+55,Servo motor 5kW,85012000,Industrial,13.279,1970.72
+56,Chave de segurança,85365000,Industrial,0.401,126.49
+57,Célula de carga,90301000,Industrial,2.846,428.31
+58,Transformador de força,85042000,Industrial,76.076,2115.55
+59,Válvula de controle,84818000,Industrial,6.011,517.51
+60,Pressostato industrial,90262000,Industrial,0.757,147.39
+61,Cadeira gamer ergonômica,94013000,Varejo,13.877,156.9
+62,Mesa escritório L,94033000,Varejo,24.669,244.59
+63,Luminária de mesa LED,94054000,Varejo,1.715,38.5
+64,Ventilador coluna 40cm,84145900,Varejo,4.206,50.07
+65,Air fryer 5 litros,85167900,Varejo,3.512,75.24
+66,Cafeteira elétrica,85167900,Varejo,1.473,46.48
+67,Liquidificador 900W,85094000,Varejo,1.885,37.26
+68,Aspirador de pó 1400W,85081100,Varejo,3.272,67.53
+69,Ferro de passar a vapor,85166000,Varejo,1.142,29.66
+70,Micro-ondas 30 litros,85166000,Varejo,15.758,199.16
+71,Bicicleta ergométrica,95066200,Varejo,24.354,282.58
+72,Esteira elétrica,95066200,Varejo,47.408,550.68
+73,Tênis esportivo,64041190,Varejo,0.854,48.59
+74,Mochila notebook 15.6,42021200,Varejo,0.785,36.98
+75,Relógio smartwatch,91021200,Varejo,0.076,126.48
+76,Óculos de sol UV400,90041000,Varejo,0.045,21.39
+77,Câmera digital 24MP,90065300,Varejo,0.456,306.45
+78,Drone com câmera 4K,88021200,Varejo,0.871,402.14
+79,Caixa de som bluetooth,85182200,Varejo,1.358,52.71
+80,Smartband fitness,85177090,Varejo,0.048,39.45
+81,Filtro de óleo para motor- Linha Premium,84212300,Automotivo,0.875,13.56
+82,Pastilha de freio dianteira- Linha Premium,87083000,Automotivo,1.318,31.04
+83,Amortecedor dianteiro- Linha Premium,87088000,Automotivo,4.75,87.91
+84,Correia dentada- Linha Premium,40103500,Automotivo,0.313,17.97
+85,Bomba d'água- Linha Premium,84138100,Automotivo,2.013,43.96
+86,Vela de ignição- Linha Premium,85112000,Automotivo,0.09,7.86
+87,Alternador 12V- Linha Premium,85114000,Automotivo,5.898,122.42
+88,Motor de arranque- Linha Premium,85113000,Automotivo,3.488,85.32
+89,Radiador de alumínio- Linha Premium,87089990,Automotivo,3.493,126.01
+90,Embreagem completa- Linha Premium,16082000,Automotivo,5.722,201.57
+91,Caixa de direção hidráulica- Linha Premium,87085000,Automotivo,9.024,255.04
+92,Tensor de correia- Linha Premium,84834000,Automotivo,0.775,30.97
+93,Sensor de oxigênio- Linha Premium,90278000,Automotivo,0.216,49.27
+94,Módulo injeção eletrônica- Linha Premium,85389000,Automotivo,0.482,190.43
+95,Catalisador escape- Linha Premium,85400000,Automotivo,3.518,380.76
+96,Rolamento de roda- Linha Premium,84821000,Automotivo,0.765,34.5
+97,Kit de suspensão dianteira- Linha Premium,87088000,Automotivo,11.776,278.26
+98,Compressor de ar condicionado- Linha Premium,84151000,Automotivo,8.213,181.96
+99,Turbina turbocompressora- Linha Premium,84143000,Automotivo,5.408,427.38
+100,Injetor de combustível- Linha Premium,84139100,Automotivo,0.322,125.89
+101,Placa-mãe ATX- Linha Premium,84734000,Eletrônico,1.212,177.29
+102,Processador Intel i7- Linha Premium,84733000,Eletrônico,0.109,324.53
+103,Memória RAM DDR5 16GB- Linha Premium,84733000,Eletrônico,0.055,92.98
+104,SSD NVMe 1TB- Linha Premium,84733000,Eletrônico,0.091,143.35
+105,Fonte de alimentação 750W- Linha Premium,85044000,Eletrônico,2.076,80.63
+106,Placa de vídeo RTX 4070- Linha Premium,84733000,Eletrônico,0.868,569.04
+107,Monitor LED 27 polegadas- Linha Premium,85285200,Eletrônico,5.129,352.13
+108,Teclado mecânico USB- Linha Premium,84716090,Eletrônico,0.981,58.4
+109,Mouse sem fio- Linha Premium,84716090,Eletrônico,0.093,37.6
+110,Webcam Full HD- Linha Premium,85258000,Eletrônico,0.222,50.12
+111,Switch de rede 24 portas- Linha Premium,85176200,Eletrônico,2.466,212.02
+112,Roteador Wi-Fi 6- Linha Premium,85176200,Eletrônico,0.553,113.97
+113,Impressora laser A4- Linha Premium,84433200,Eletrônico,9.171,264.73
+114,Nobreak 1500VA- Linha Premium,85044000,Eletrônico,10.319,175.81
+115,Tablet Android 10- Linha Premium,84713000,Eletrônico,0.491,271.69
+116,Smartphone 128GB- Linha Premium,85171200,Eletrônico,0.183,383.0
+117,Fone de ouvido Bluetooth- Linha Premium,85183000,Eletrônico,0.286,64.45
+118,Câmera IP segurança- Linha Premium,85258000,Eletrônico,0.346,66.67
+119,Servidor rack 1U- Linha Premium,84715000,Eletrônico,11.509,2216.46
+120,HDD externo 4TB- Linha Premium,84717000,Eletrônico,0.289,81.69
+121,Compressor parafuso 10HP- Linha Premium,84143000,Industrial,95.986,3659.88
+122,Motor elétrico trifásico- Linha Premium,85012000,Industrial,47.024,1003.02
+123,Redutor de velocidade- Linha Premium,84834000,Industrial,24.956,589.25
+124,Bomba centrífuga- Linha Premium,84137000,Industrial,20.33,524.94
+125,Válvula solenóide- Linha Premium,84818000,Industrial,1.07,93.24
+126,Inversor de frequência- Linha Premium,85044000,Industrial,4.431,553.69
+127,CLP Siemens S7- Linha Premium,85371000,Industrial,1.835,1127.49
+128,Sensor indutivo- Linha Premium,90318000,Industrial,0.11,46.89
+129,Cilindro pneumático- Linha Premium,84121100,Industrial,4.059,186.25
+130,Filtro prensa industrial- Linha Premium,84212990,Industrial,37.101,2662.34
+131,Transportador de correia- Linha Premium,84283200,Industrial,173.964,7367.05
+132,Painel elétrico WEG- Linha Premium,85371000,Industrial,34.158,4737.03
+133,Rolamento industrial SKF- Linha Premium,84821000,Industrial,8.391,337.74
+134,Encoder incremental- Linha Premium,90329000,Industrial,0.336,232.95
+135,Servo motor 5kW- Linha Premium,85012000,Industrial,10.259,1906.21
+136,Chave de segurança- Linha Premium,85365000,Industrial,0.369,112.53
+137,Célula de carga- Linha Premium,90301000,Industrial,2.741,404.77
+138,Transformador de força- Linha Premium,85042000,Industrial,62.708,2091.18
+139,Válvula de controle- Linha Premium,84818000,Industrial,5.771,422.38
+140,Pressostato industrial- Linha Premium,90262000,Industrial,0.914,126.68
+141,Cadeira gamer ergonômica- Linha Premium,94013000,Varejo,15.621,184.96
+142,Mesa escritório L- Linha Premium,94033000,Varejo,32.102,219.23
+143,Luminária de mesa LED- Linha Premium,94054000,Varejo,1.741,35.51
+144,Ventilador coluna 40cm- Linha Premium,84145900,Varejo,4.371,65.64
+145,Air fryer 5 litros- Linha Premium,85167900,Varejo,3.519,64.18
+146,Cafeteira elétrica- Linha Premium,85167900,Varejo,1.63,43.68
+147,Liquidificador 900W- Linha Premium,85094000,Varejo,2.247,40.66
+148,Aspirador de pó 1400W- Linha Premium,85081100,Varejo,3.785,75.3
+149,Ferro de passar a vapor- Linha Premium,85166000,Varejo,1.14,24.23
+150,Micro-ondas 30 litros- Linha Premium,85166000,Varejo,14.7,209.92
+151,Bicicleta ergométrica- Linha Premium,95066200,Varejo,25.271,359.26
+152,Esteira elétrica- Linha Premium,95066200,Varejo,44.522,634.16
+153,Tênis esportivo- Linha Premium,64041190,Varejo,0.832,51.03
+154,Mochila notebook 15.6- Linha Premium,42021200,Varejo,0.608,35.89
+155,Relógio smartwatch- Linha Premium,91021200,Varejo,0.079,114.32
+156,Óculos de sol UV400- Linha Premium,90041000,Varejo,0.043,20.24
+157,Câmera digital 24MP- Linha Premium,90065300,Varejo,0.345,329.47
+158,Drone com câmera 4K- Linha Premium,88021200,Varejo,0.904,454.55
+159,Caixa de som bluetooth- Linha Premium,85182200,Varejo,1.215,51.63
+160,Smartband fitness- Linha Premium,85177090,Varejo,0.054,32.09
+161,Filtro de óleo para motor- Standard,84212300,Automotivo,0.766,14.04
+162,Pastilha de freio dianteira- Standard,87083000,Automotivo,1.332,27.05
+163,Amortecedor dianteiro- Standard,87088000,Automotivo,3.993,83.2
+164,Correia dentada- Standard,40103500,Automotivo,0.335,19.98
+165,Bomba d'água- Standard,84138100,Automotivo,2.349,44.34
+166,Vela de ignição- Standard,85112000,Automotivo,0.114,8.7
+167,Alternador 12V- Standard,85114000,Automotivo,5.196,140.82
+168,Motor de arranque- Standard,85113000,Automotivo,3.822,107.39
+169,Radiador de alumínio- Standard,87089990,Automotivo,4.272,96.54
+170,Embreagem completa- Standard,16082000,Automotivo,6.7,204.81
+171,Caixa de direção hidráulica- Standard,87085000,Automotivo,8.312,211.73
+172,Tensor de correia- Standard,84834000,Automotivo,0.787,34.6
+173,Sensor de oxigênio- Standard,90278000,Automotivo,0.188,58.35
+174,Módulo injeção eletrônica- Standard,85389000,Automotivo,0.489,229.2
+175,Catalisador escape- Standard,85400000,Automotivo,3.057,294.04
+176,Rolamento de roda- Standard,84821000,Automotivo,0.778,36.99
+177,Kit de suspensão dianteira- Standard,87088000,Automotivo,13.793,264.91
+178,Compressor de ar condicionado- Standard,84151000,Automotivo,8.923,230.44
+179,Turbina turbocompressora- Standard,84143000,Automotivo,4.799,482.91
+180,Injetor de combustível- Standard,84139100,Automotivo,0.288,141.3
+181,Placa-mãe ATX- Standard,84734000,Eletrônico,1.265,218.94
+182,Processador Intel i7- Standard,84733000,Eletrônico,0.089,340.05
+183,Memória RAM DDR5 16GB- Standard,84733000,Eletrônico,0.054,81.91
+184,SSD NVMe 1TB- Standard,84733000,Eletrônico,0.07,134.7
+185,Fonte de alimentação 750W- Standard,85044000,Eletrônico,2.016,83.64
+186,Placa de vídeo RTX 4070- Standard,84733000,Eletrônico,0.918,583.98
+187,Monitor LED 27 polegadas- Standard,85285200,Eletrônico,4.742,366.45
+188,Teclado mecânico USB- Standard,84716090,Eletrônico,0.865,72.61
+189,Mouse sem fio- Standard,84716090,Eletrônico,0.102,36.24
+190,Webcam Full HD- Standard,85258000,Eletrônico,0.194,51.71
+191,Switch de rede 24 portas- Standard,85176200,Eletrônico,2.59,164.6
+192,Roteador Wi-Fi 6- Standard,85176200,Eletrônico,0.535,122.96
+193,Impressora laser A4- Standard,84433200,Eletrônico,8.212,293.04
+194,Nobreak 1500VA- Standard,85044000,Eletrônico,8.543,183.51
+195,Tablet Android 10- Standard,84713000,Eletrônico,0.492,275.71
+196,Smartphone 128GB- Standard,85171200,Eletrônico,0.187,444.89
+197,Fone de ouvido Bluetooth- Standard,85183000,Eletrônico,0.299,66.97
+198,Câmera IP segurança- Standard,85258000,Eletrônico,0.442,65.53
+199,Servidor rack 1U- Standard,84715000,Eletrônico,13.995,1860.71
+200,HDD externo 4TB- Standard,84717000,Eletrônico,0.263,103.42
+201,Compressor parafuso 10HP- Standard,84143000,Industrial,93.811,3077.94
+202,Motor elétrico trifásico- Standard,85012000,Industrial,42.94,776.73
+203,Redutor de velocidade- Standard,84834000,Industrial,28.354,720.42
+204,Bomba centrífuga- Standard,84137000,Industrial,20.45,527.58
+205,Válvula solenóide- Standard,84818000,Industrial,1.354,91.22
+206,Inversor de frequência- Standard,85044000,Industrial,4.896,668.24
+207,CLP Siemens S7- Standard,85371000,Industrial,1.861,1104.41
+208,Sensor indutivo- Standard,90318000,Industrial,0.089,50.7
+209,Cilindro pneumático- Standard,84121100,Industrial,3.26,187.9
+210,Filtro prensa industrial- Standard,84212990,Industrial,40.348,3167.59
+211,Transportador de correia- Standard,84283200,Industrial,187.866,9045.55
+212,Painel elétrico WEG- Standard,85371000,Industrial,30.655,4024.66
+213,Rolamento industrial SKF- Standard,84821000,Industrial,9.774,418.61
+214,Encoder incremental- Standard,90329000,Industrial,0.302,246.23
+215,Servo motor 5kW- Standard,85012000,Industrial,13.164,1620.25
+216,Chave de segurança- Standard,85365000,Industrial,0.457,134.35
+217,Célula de carga- Standard,90301000,Industrial,2.758,413.45
+218,Transformador de força- Standard,85042000,Industrial,64.828,2430.3
+219,Válvula de controle- Standard,84818000,Industrial,5.962,515.49
+220,Pressostato industrial- Standard,90262000,Industrial,0.724,172.29
+221,Cadeira gamer ergonômica- Standard,94013000,Varejo,15.187,210.37
+222,Mesa escritório L- Standard,94033000,Varejo,24.265,187.63
+223,Luminária de mesa LED- Standard,94054000,Varejo,1.613,31.77
+224,Ventilador coluna 40cm- Standard,84145900,Varejo,3.977,60.4
+225,Air fryer 5 litros- Standard,85167900,Varejo,3.624,88.45
+226,Cafeteira elétrica- Standard,85167900,Varejo,1.678,51.57
+227,Liquidificador 900W- Standard,85094000,Varejo,1.943,40.75
+228,Aspirador de pó 1400W- Standard,85081100,Varejo,3.553,60.78
+229,Ferro de passar a vapor- Standard,85166000,Varejo,1.129,29.03
+230,Micro-ondas 30 litros- Standard,85166000,Varejo,14.511,168.17
+231,Bicicleta ergométrica- Standard,95066200,Varejo,31.709,289.27
+232,Esteira elétrica- Standard,95066200,Varejo,47.143,639.29
+233,Tênis esportivo- Standard,64041190,Varejo,0.825,51.52
+234,Mochila notebook 15.6- Standard,42021200,Varejo,0.713,36.44
+235,Relógio smartwatch- Standard,91021200,Varejo,0.069,103.91
+236,Óculos de sol UV400- Standard,90041000,Varejo,0.052,23.14
+237,Câmera digital 24MP- Standard,90065300,Varejo,0.418,313.16
+238,Drone com câmera 4K- Standard,88021200,Varejo,0.877,407.99
+239,Caixa de som bluetooth- Standard,85182200,Varejo,1.199,58.82
+240,Smartband fitness- Standard,85177090,Varejo,0.047,41.47
+241,Filtro de óleo para motor- Econômico,84212300,Automotivo,0.796,14.15
+242,Pastilha de freio dianteira- Econômico,87083000,Automotivo,1.267,26.71
+243,Amortecedor dianteiro- Econômico,87088000,Automotivo,3.924,74.03
+244,Correia dentada- Econômico,40103500,Automotivo,0.295,18.35
+245,Bomba d'água- Econômico,84138100,Automotivo,1.914,47.8
+246,Vela de ignição- Econômico,85112000,Automotivo,0.094,9.36
+247,Alternador 12V- Econômico,85114000,Automotivo,5.565,138.15
+248,Motor de arranque- Econômico,85113000,Automotivo,4.342,85.1
+249,Radiador de alumínio- Econômico,87089990,Automotivo,3.845,115.12
+250,Embreagem completa- Econômico,16082000,Automotivo,6.147,182.39
+251,Caixa de direção hidráulica- Econômico,87085000,Automotivo,7.628,206.09
+252,Tensor de correia- Econômico,84834000,Automotivo,0.791,30.45
+253,Sensor de oxigênio- Econômico,90278000,Automotivo,0.193,58.6
+254,Módulo injeção eletrônica- Econômico,85389000,Automotivo,0.462,242.1
+255,Catalisador escape- Econômico,85400000,Automotivo,2.873,327.96
+256,Rolamento de roda- Econômico,84821000,Automotivo,0.716,36.46
+257,Kit de suspensão dianteira- Econômico,87088000,Automotivo,12.947,286.83
+258,Compressor de ar condicionado- Econômico,84151000,Automotivo,7.834,199.79
+259,Turbina turbocompressora- Econômico,84143000,Automotivo,5.184,386.15
+260,Injetor de combustível- Econômico,84139100,Automotivo,0.34,128.36
+261,Placa-mãe ATX- Econômico,84734000,Eletrônico,1.368,171.18
+262,Processador Intel i7- Econômico,84733000,Eletrônico,0.096,277.66
+263,Memória RAM DDR5 16GB- Econômico,84733000,Eletrônico,0.05,110.09
+264,SSD NVMe 1TB- Econômico,84733000,Eletrônico,0.084,121.76
+265,Fonte de alimentação 750W- Econômico,85044000,Eletrônico,2.123,97.45
+266,Placa de vídeo RTX 4070- Econômico,84733000,Eletrônico,0.881,637.37
+267,Monitor LED 27 polegadas- Econômico,85285200,Eletrônico,4.807,346.38
+268,Teclado mecânico USB- Econômico,84716090,Eletrônico,0.864,64.36
+269,Mouse sem fio- Econômico,84716090,Eletrônico,0.102,32.13
+270,Webcam Full HD- Econômico,85258000,Eletrônico,0.203,42.04
+271,Switch de rede 24 portas- Econômico,85176200,Eletrônico,2.804,206.75
+272,Roteador Wi-Fi 6- Econômico,85176200,Eletrônico,0.467,143.54
+273,Impressora laser A4- Econômico,84433200,Eletrônico,8.96,249.64
+274,Nobreak 1500VA- Econômico,85044000,Eletrônico,10.511,192.63
+275,Tablet Android 10- Econômico,84713000,Eletrônico,0.544,222.8
+276,Smartphone 128GB- Econômico,85171200,Eletrônico,0.226,423.41
+277,Fone de ouvido Bluetooth- Econômico,85183000,Eletrônico,0.273,77.11
+278,Câmera IP segurança- Econômico,85258000,Eletrônico,0.4,56.28
+279,Servidor rack 1U- Econômico,84715000,Eletrônico,11.139,1788.14
+280,HDD externo 4TB- Econômico,84717000,Eletrônico,0.298,95.94
+281,Compressor parafuso 10HP- Econômico,84143000,Industrial,87.71,3297.37
+282,Motor elétrico trifásico- Econômico,85012000,Industrial,42.678,947.47
+283,Redutor de velocidade- Econômico,84834000,Industrial,25.165,741.96
+284,Bomba centrífuga- Econômico,84137000,Industrial,19.828,458.27
+285,Válvula solenóide- Econômico,84818000,Industrial,1.141,96.89
+286,Inversor de frequência- Econômico,85044000,Industrial,4.544,713.74
+287,CLP Siemens S7- Econômico,85371000,Industrial,1.974,1362.61
+288,Sensor indutivo- Econômico,90318000,Industrial,0.096,48.86
+289,Cilindro pneumático- Econômico,84121100,Industrial,4.347,189.77
+290,Filtro prensa industrial- Econômico,84212990,Industrial,45.739,3090.82
+291,Transportador de correia- Econômico,84283200,Industrial,195.436,7304.28
+292,Painel elétrico WEG- Econômico,85371000,Industrial,34.733,4991.59
+293,Rolamento industrial SKF- Econômico,84821000,Industrial,9.221,426.23
+294,Encoder incremental- Econômico,90329000,Industrial,0.307,242.55
+295,Servo motor 5kW- Econômico,85012000,Industrial,12.301,1682.91
+296,Chave de segurança- Econômico,85365000,Industrial,0.415,133.36
+297,Célula de carga- Econômico,90301000,Industrial,3.087,342.65
+298,Transformador de força- Econômico,85042000,Industrial,71.687,1808.2
+299,Válvula de controle- Econômico,84818000,Industrial,6.24,426.46
+300,Pressostato industrial- Econômico,90262000,Industrial,0.685,139.17
+301,Cadeira gamer ergonômica- Econômico,94013000,Varejo,13.879,196.5
+302,Mesa escritório L- Econômico,94033000,Varejo,27.247,235.46
+303,Luminária de mesa LED- Econômico,94054000,Varejo,2.027,40.44
+304,Ventilador coluna 40cm- Econômico,84145900,Varejo,4.497,47.95
+305,Air fryer 5 litros- Econômico,85167900,Varejo,3.387,69.19
+306,Cafeteira elétrica- Econômico,85167900,Varejo,1.421,48.68
+307,Liquidificador 900W- Econômico,85094000,Varejo,2.116,36.47
+308,Aspirador de pó 1400W- Econômico,85081100,Varejo,3.157,79.51
+309,Ferro de passar a vapor- Econômico,85166000,Varejo,1.143,27.27
+310,Micro-ondas 30 litros- Econômico,85166000,Varejo,15.683,203.93
+311,Bicicleta ergométrica- Econômico,95066200,Varejo,29.204,349.65
+312,Esteira elétrica- Econômico,95066200,Varejo,46.486,532.03
+313,Tênis esportivo- Econômico,64041190,Varejo,0.739,47.04
+314,Mochila notebook 15.6- Econômico,42021200,Varejo,0.642,38.1
+315,Relógio smartwatch- Econômico,91021200,Varejo,0.075,114.14
+316,Óculos de sol UV400- Econômico,90041000,Varejo,0.046,24.13
+317,Câmera digital 24MP- Econômico,90065300,Varejo,0.378,272.18
+318,Drone com câmera 4K- Econômico,88021200,Varejo,1.017,428.79
+319,Caixa de som bluetooth- Econômico,85182200,Varejo,1.118,49.1
+320,Smartband fitness- Econômico,85177090,Varejo,0.053,34.4
+321,Filtro de óleo para motor- OEM,84212300,Automotivo,0.915,14.21
+322,Pastilha de freio dianteira- OEM,87083000,Automotivo,1.364,31.69
+323,Amortecedor dianteiro- OEM,87088000,Automotivo,4.217,80.81
+324,Correia dentada- OEM,40103500,Automotivo,0.319,17.48
+325,Bomba d'água- OEM,84138100,Automotivo,2.064,42.29
+326,Vela de ignição- OEM,85112000,Automotivo,0.099,7.83
+327,Alternador 12V- OEM,85114000,Automotivo,5.26,141.19
+328,Motor de arranque- OEM,85113000,Automotivo,4.024,85.31
+329,Radiador de alumínio- OEM,87089990,Automotivo,4.139,116.09
+330,Embreagem completa- OEM,16082000,Automotivo,5.998,195.2
+331,Caixa de direção hidráulica- OEM,87085000,Automotivo,8.276,236.12
+332,Tensor de correia- OEM,84834000,Automotivo,0.779,31.83
+333,Sensor de oxigênio- OEM,90278000,Automotivo,0.213,48.69
+334,Módulo injeção eletrônica- OEM,85389000,Automotivo,0.541,178.88
+335,Catalisador escape- OEM,85400000,Automotivo,3.248,399.56
+336,Rolamento de roda- OEM,84821000,Automotivo,0.68,44.74
+337,Kit de suspensão dianteira- OEM,87088000,Automotivo,13.362,284.79
+338,Compressor de ar condicionado- OEM,84151000,Automotivo,7.097,231.54
+339,Turbina turbocompressora- OEM,84143000,Automotivo,5.205,484.23
+340,Injetor de combustível- OEM,84139100,Automotivo,0.337,110.16
+341,Placa-mãe ATX- OEM,84734000,Eletrônico,1.227,191.9
+342,Processador Intel i7- OEM,84733000,Eletrônico,0.107,376.91
+343,Memória RAM DDR5 16GB- OEM,84733000,Eletrônico,0.056,86.57
+344,SSD NVMe 1TB- OEM,84733000,Eletrônico,0.089,109.38
+345,Fonte de alimentação 750W- OEM,85044000,Eletrônico,2.364,101.92
+346,Placa de vídeo RTX 4070- OEM,84733000,Eletrônico,0.872,562.86
+347,Monitor LED 27 polegadas- OEM,85285200,Eletrônico,5.089,367.89
+348,Teclado mecânico USB- OEM,84716090,Eletrônico,1.015,75.2
+349,Mouse sem fio- OEM,84716090,Eletrônico,0.085,36.71
+350,Webcam Full HD- OEM,85258000,Eletrônico,0.176,57.31
+351,Switch de rede 24 portas- OEM,85176200,Eletrônico,2.619,221.29
+352,Roteador Wi-Fi 6- OEM,85176200,Eletrônico,0.506,122.74
+353,Impressora laser A4- OEM,84433200,Eletrônico,9.618,321.4
+354,Nobreak 1500VA- OEM,85044000,Eletrônico,9.112,178.91
+355,Tablet Android 10- OEM,84713000,Eletrônico,0.442,208.58
+356,Smartphone 128GB- OEM,85171200,Eletrônico,0.198,357.22
+357,Fone de ouvido Bluetooth- OEM,85183000,Eletrônico,0.272,83.09
+358,Câmera IP segurança- OEM,85258000,Eletrônico,0.435,68.17
+359,Servidor rack 1U- OEM,84715000,Eletrônico,13.465,1686.13
+360,HDD externo 4TB- OEM,84717000,Eletrônico,0.332,110.58
+361,Compressor parafuso 10HP- OEM,84143000,Industrial,93.338,3297.11
+362,Motor elétrico trifásico- OEM,85012000,Industrial,39.421,964.97
+363,Redutor de velocidade- OEM,84834000,Industrial,25.352,557.51
+364,Bomba centrífuga- OEM,84137000,Industrial,17.521,449.67
+365,Válvula solenóide- OEM,84818000,Industrial,1.114,79.26
+366,Inversor de frequência- OEM,85044000,Industrial,4.843,769.54
+367,CLP Siemens S7- OEM,85371000,Industrial,1.975,1323.61
+368,Sensor indutivo- OEM,90318000,Industrial,0.085,48.55
+369,Cilindro pneumático- OEM,84121100,Industrial,4.02,156.91
+370,Filtro prensa industrial- OEM,84212990,Industrial,37.19,2680.67
+371,Transportador de correia- OEM,84283200,Industrial,179.751,8720.0
+372,Painel elétrico WEG- OEM,85371000,Industrial,39.149,4604.23
+373,Rolamento industrial SKF- OEM,84821000,Industrial,8.018,338.62
+374,Encoder incremental- OEM,90329000,Industrial,0.337,209.72
+375,Servo motor 5kW- OEM,85012000,Industrial,12.413,1714.39
+376,Chave de segurança- OEM,85365000,Industrial,0.356,112.95
+377,Célula de carga- OEM,90301000,Industrial,3.008,403.56
+378,Transformador de força- OEM,85042000,Industrial,66.283,2188.69
+379,Válvula de controle- OEM,84818000,Industrial,5.452,498.3
+380,Pressostato industrial- OEM,90262000,Industrial,0.839,134.33
+381,Cadeira gamer ergonômica- OEM,94013000,Varejo,14.326,200.55
+382,Mesa escritório L- OEM,94033000,Varejo,31.134,184.52
+383,Luminária de mesa LED- OEM,94054000,Varejo,1.771,38.37
+384,Ventilador coluna 40cm- OEM,84145900,Varejo,3.668,57.61
+385,Air fryer 5 litros- OEM,85167900,Varejo,3.3,78.13
+386,Cafeteira elétrica- OEM,85167900,Varejo,1.502,47.27
+387,Liquidificador 900W- OEM,85094000,Varejo,1.879,36.66
+388,Aspirador de pó 1400W- OEM,85081100,Varejo,3.521,60.57
+389,Ferro de passar a vapor- OEM,85166000,Varejo,1.094,29.51
+390,Micro-ondas 30 litros- OEM,85166000,Varejo,12.721,190.3
+391,Bicicleta ergométrica- OEM,95066200,Varejo,30.593,322.78
+392,Esteira elétrica- OEM,95066200,Varejo,45.179,585.73
+393,Tênis esportivo- OEM,64041190,Varejo,0.694,45.53
+394,Mochila notebook 15.6- OEM,42021200,Varejo,0.764,35.3
+395,Relógio smartwatch- OEM,91021200,Varejo,0.078,136.29
+396,Óculos de sol UV400- OEM,90041000,Varejo,0.054,23.15
+397,Câmera digital 24MP- OEM,90065300,Varejo,0.345,271.76
+398,Drone com câmera 4K- OEM,88021200,Varejo,0.782,455.22
+399,Caixa de som bluetooth- OEM,85182200,Varejo,1.356,48.08
+400,Smartband fitness- OEM,85177090,Varejo,0.057,30.14
+401,Filtro de óleo para motor- Reforçado,84212300,Automotivo,0.778,13.99
+402,Pastilha de freio dianteira- Reforçado,87083000,Automotivo,1.296,33.39
+403,Amortecedor dianteiro- Reforçado,87088000,Automotivo,4.697,84.76
+404,Correia dentada- Reforçado,40103500,Automotivo,0.344,17.71
+405,Bomba d'água- Reforçado,84138100,Automotivo,2.333,52.53
+406,Vela de ignição- Reforçado,85112000,Automotivo,0.096,9.26
+407,Alternador 12V- Reforçado,85114000,Automotivo,5.452,124.65
+408,Motor de arranque- Reforçado,85113000,Automotivo,3.975,92.31
+409,Radiador de alumínio- Reforçado,87089990,Automotivo,3.614,114.18
+410,Embreagem completa- Reforçado,16082000,Automotivo,6.556,198.86
+411,Caixa de direção hidráulica- Reforçado,87085000,Automotivo,7.518,187.27
+412,Tensor de correia- Reforçado,84834000,Automotivo,0.771,30.54
+413,Sensor de oxigênio- Reforçado,90278000,Automotivo,0.21,57.23
+414,Módulo injeção eletrônica- Reforçado,85389000,Automotivo,0.505,239.02
+415,Catalisador escape- Reforçado,85400000,Automotivo,2.958,330.19
+416,Rolamento de roda- Reforçado,84821000,Automotivo,0.653,44.77
+417,Kit de suspensão dianteira- Reforçado,87088000,Automotivo,12.81,249.06
+418,Compressor de ar condicionado- Reforçado,84151000,Automotivo,8.524,194.36
+419,Turbina turbocompressora- Reforçado,84143000,Automotivo,5.939,521.69
+420,Injetor de combustível- Reforçado,84139100,Automotivo,0.256,115.27
+421,Placa-mãe ATX- Reforçado,84734000,Eletrônico,1.056,159.42
+422,Processador Intel i7- Reforçado,84733000,Eletrônico,0.103,350.77
+423,Memória RAM DDR5 16GB- Reforçado,84733000,Eletrônico,0.043,105.37
+424,SSD NVMe 1TB- Reforçado,84733000,Eletrônico,0.078,111.84
+425,Fonte de alimentação 750W- Reforçado,85044000,Eletrônico,1.922,97.95
+426,Placa de vídeo RTX 4070- Reforçado,84733000,Eletrônico,0.78,564.5
+427,Monitor LED 27 polegadas- Reforçado,85285200,Eletrônico,4.216,352.01
+428,Teclado mecânico USB- Reforçado,84716090,Eletrônico,0.963,62.51
+429,Mouse sem fio- Reforçado,84716090,Eletrônico,0.103,37.99
+430,Webcam Full HD- Reforçado,85258000,Eletrônico,0.189,45.87
+431,Switch de rede 24 portas- Reforçado,85176200,Eletrônico,2.5,200.0
+432,Roteador Wi-Fi 6- Reforçado,85176200,Eletrônico,0.458,114.62
+433,Impressora laser A4- Reforçado,84433200,Eletrônico,7.38,330.95
+434,Nobreak 1500VA- Reforçado,85044000,Eletrônico,10.248,227.97
+435,Tablet Android 10- Reforçado,84713000,Eletrônico,0.519,229.89
+436,Smartphone 128GB- Reforçado,85171200,Eletrônico,0.2,452.31
+437,Fone de ouvido Bluetooth- Reforçado,85183000,Eletrônico,0.34,81.37
+438,Câmera IP segurança- Reforçado,85258000,Eletrônico,0.434,62.5
+439,Servidor rack 1U- Reforçado,84715000,Eletrônico,12.186,1669.12
+440,HDD externo 4TB- Reforçado,84717000,Eletrônico,0.289,105.83
+441,Compressor parafuso 10HP- Reforçado,84143000,Industrial,84.325,3671.26
+442,Motor elétrico trifásico- Reforçado,85012000,Industrial,42.31,976.91
+443,Redutor de velocidade- Reforçado,84834000,Industrial,30.569,725.5
+444,Bomba centrífuga- Reforçado,84137000,Industrial,18.846,570.59
+445,Válvula solenóide- Reforçado,84818000,Industrial,1.221,76.24
+446,Inversor de frequência- Reforçado,85044000,Industrial,4.153,598.76
+447,CLP Siemens S7- Reforçado,85371000,Industrial,2.192,1407.33
+448,Sensor indutivo- Reforçado,90318000,Industrial,0.11,39.71
+449,Cilindro pneumático- Reforçado,84121100,Industrial,4.056,165.0
+450,Filtro prensa industrial- Reforçado,84212990,Industrial,39.083,3040.2
+451,Transportador de correia- Reforçado,84283200,Industrial,190.712,9824.02
+452,Painel elétrico WEG- Reforçado,85371000,Industrial,31.726,4689.69
+453,Rolamento industrial SKF- Reforçado,84821000,Industrial,9.072,397.33
+454,Encoder incremental- Reforçado,90329000,Industrial,0.298,253.95
+455,Servo motor 5kW- Reforçado,85012000,Industrial,11.399,2192.17
+456,Chave de segurança- Reforçado,85365000,Industrial,0.342,147.25
+457,Célula de carga- Reforçado,90301000,Industrial,3.188,338.6
+458,Transformador de força- Reforçado,85042000,Industrial,78.191,2137.01
+459,Válvula de controle- Reforçado,84818000,Industrial,5.075,509.54
+460,Pressostato industrial- Reforçado,90262000,Industrial,0.729,169.69
+461,Cadeira gamer ergonômica- Reforçado,94013000,Varejo,15.742,201.86
+462,Mesa escritório L- Reforçado,94033000,Varejo,26.998,217.72
+463,Luminária de mesa LED- Reforçado,94054000,Varejo,1.724,32.95
+464,Ventilador coluna 40cm- Reforçado,84145900,Varejo,4.216,56.32
+465,Air fryer 5 litros- Reforçado,85167900,Varejo,3.342,89.51
+466,Cafeteira elétrica- Reforçado,85167900,Varejo,1.486,51.48
+467,Liquidificador 900W- Reforçado,85094000,Varejo,2.361,37.23
+468,Aspirador de pó 1400W- Reforçado,85081100,Varejo,3.41,71.19
+469,Ferro de passar a vapor- Reforçado,85166000,Varejo,1.1,25.23
+470,Micro-ondas 30 litros- Reforçado,85166000,Varejo,13.459,217.78
+471,Bicicleta ergométrica- Reforçado,95066200,Varejo,28.665,318.77
+472,Esteira elétrica- Reforçado,95066200,Varejo,40.308,559.96
+473,Tênis esportivo- Reforçado,64041190,Varejo,0.771,51.38
+474,Mochila notebook 15.6- Reforçado,42021200,Varejo,0.7,34.53
+475,Relógio smartwatch- Reforçado,91021200,Varejo,0.084,112.81
+476,Óculos de sol UV400- Reforçado,90041000,Varejo,0.055,26.14
+477,Câmera digital 24MP- Reforçado,90065300,Varejo,0.417,286.08
+478,Drone com câmera 4K- Reforçado,88021200,Varejo,0.81,428.73
+479,Caixa de som bluetooth- Reforçado,85182200,Varejo,1.081,60.62
+480,Smartband fitness- Reforçado,85177090,Varejo,0.05,40.98
+481,Filtro de óleo para motor- Especial,84212300,Automotivo,0.81,13.43
+482,Pastilha de freio dianteira- Especial,87083000,Automotivo,1.041,24.13
+483,Amortecedor dianteiro- Especial,87088000,Automotivo,4.968,100.37
+484,Correia dentada- Especial,40103500,Automotivo,0.315,20.12
+485,Bomba d'água- Especial,84138100,Automotivo,2.045,51.52
+486,Vela de ignição- Especial,85112000,Automotivo,0.092,9.33
+487,Alternador 12V- Especial,85114000,Automotivo,4.434,123.24
+488,Motor de arranque- Especial,85113000,Automotivo,3.655,101.29
+489,Radiador de alumínio- Especial,87089990,Automotivo,4.2,117.24
+490,Embreagem completa- Especial,16082000,Automotivo,6.467,183.73
+491,Caixa de direção hidráulica- Especial,87085000,Automotivo,6.986,229.48
+492,Tensor de correia- Especial,84834000,Automotivo,0.768,33.13
+493,Sensor de oxigênio- Especial,90278000,Automotivo,0.186,65.57
+494,Módulo injeção eletrônica- Especial,85389000,Automotivo,0.428,238.27
+495,Catalisador escape- Especial,85400000,Automotivo,3.367,384.93
+496,Rolamento de roda- Especial,84821000,Automotivo,0.786,33.72
+497,Kit de suspensão dianteira- Especial,87088000,Automotivo,10.547,252.59
+498,Compressor de ar condicionado- Especial,84151000,Automotivo,7.079,201.68
+499,Turbina turbocompressora- Especial,84143000,Automotivo,6.02,424.6
+500,Injetor de combustível- Especial,84139100,Automotivo,0.291,122.57

@@ -1,0 +1,201 @@
+﻿id_cliente,nome_empresa,segmento,estado,data_cadastro
+1,Sul Beta Soluções Industriais S.A.,Eletrônico,RS,2018-10-13
+2,Brasil Corp Importações S.A.,Varejo,SP,2018-03-03
+3,Global Titan Trading Ltda,Automotivo,PE,2019-02-12
+4,Corp Capital Trading Ltda,Varejo,CE,2019-07-24
+5,Alfa Apex Exportações e Importações Ltda,Industrial,PR,2018-11-15
+6,Titan Atlântico Importações S.A.,Automotivo,BA,2018-07-18
+7,Pacífico Pacífico Grupo Industrial S.A.,Industrial,ES,2018-03-30
+8,Pro Corp Importações S.A.,Varejo,RJ,2021-02-04
+9,Âncora Uni Logística e Comércio Eireli,Eletrônico,MT,2018-05-23
+10,Delta Vega Soluções Industriais S.A.,Automotivo,DF,2019-04-22
+11,Brasil Nacional Soluções Industriais S.A.,Varejo,AM,2022-09-05
+12,Continental Apex Logística e Comércio Eireli,Industrial,RS,2021-10-04
+13,Porto Prime Grupo Industrial S.A.,Eletrônico,PE,2022-02-02
+14,Solar Apex Distribuidora Nacional S.A.,Varejo,PR,2021-08-03
+15,Group Vega Logística e Comércio Eireli,Automotivo,RS,2022-08-11
+16,Delta Meridian Exportações e Importações Ltda,Industrial,RJ,2019-03-09
+17,Inter Meridian Trading Ltda,Varejo,BA,2022-12-17
+18,Pro Centro Soluções Industriais S.A.,Eletrônico,RS,2022-03-06
+19,Group Corp Soluções Industriais S.A.,Varejo,MS,2021-04-10
+20,Federal Continental Trading Ltda,Eletrônico,PE,2020-10-07
+21,Global Ômega Importações S.A.,Eletrônico,AM,2018-11-24
+22,Real Multi Importações S.A.,Varejo,BA,2021-05-05
+23,Pro Net Soluções Industriais S.A.,Automotivo,AM,2022-01-16
+24,Sul Corp Soluções Industriais S.A.,Industrial,RJ,2019-08-25
+25,Real Apex Distribuidora Nacional S.A.,Automotivo,MT,2022-11-29
+26,Terra Tech Indústria e Comércio Ltda,Automotivo,DF,2021-07-04
+27,Horizonte Tech Grupo Industrial S.A.,Eletrônico,MG,2020-02-05
+28,Apex Corp Tecnologia e Comércio Ltda,Automotivo,CE,2019-10-26
+29,Plus Beta Importações S.A.,Industrial,MS,2022-08-31
+30,Horizonte Solar Comércio Exterior Ltda,Eletrônico,MS,2021-03-07
+31,Global Global Distribuidora Nacional S.A.,Automotivo,ES,2020-12-26
+32,Norte Norte Distribuidora Nacional S.A.,Eletrônico,PR,2020-12-16
+33,Multi Real Trading Ltda,Eletrônico,MT,2019-10-01
+34,Federal Continental Distribuidora Nacional S.A.,Varejo,RJ,2019-05-23
+35,Vega Prime Logística e Comércio Eireli,Automotivo,CE,2021-02-08
+36,Vega Trans Trading Ltda,Automotivo,RJ,2021-12-20
+37,Ômega Vega Importações S.A.,Automotivo,DF,2019-11-08
+38,Prime Tech Trading Ltda,Industrial,AM,2020-09-21
+39,Titan Corp Indústria e Comércio Ltda,Varejo,RS,2022-05-26
+40,Max Capital Trading Ltda,Automotivo,RJ,2021-09-11
+41,Real Pacífico Exportações e Importações Ltda,Varejo,GO,2022-11-05
+42,Ômega Brasil Comércio Exterior Ltda,Varejo,MT,2019-11-26
+43,Brasil Solar Trading Ltda,Eletrônico,PE,2020-07-07
+44,Norte Real Indústria e Comércio Ltda,Industrial,GO,2019-05-27
+45,Prime Star Tecnologia e Comércio Ltda,Automotivo,SP,2021-08-28
+46,Corp Alfa Importações S.A.,Eletrônico,MG,2020-04-12
+47,Plus Max Trading Ltda,Varejo,MS,2018-05-01
+48,Apex Nacional Comércio Exterior Ltda,Varejo,PR,2022-05-25
+49,Pro Âncora Exportações e Importações Ltda,Varejo,MG,2019-01-24
+50,Âncora Titan Comércio Exterior Ltda,Automotivo,MT,2019-10-05
+51,Ômega Ômega Grupo Industrial S.A.,Varejo,PE,2022-10-13
+52,Net Apex Comércio Exterior Ltda,Automotivo,DF,2019-01-16
+53,Prime Multi Importações S.A.,Eletrônico,BA,2018-09-03
+54,Inter Solar Grupo Industrial S.A.,Automotivo,CE,2018-06-17
+55,Capital Trans Grupo Industrial S.A.,Industrial,MS,2019-06-19
+56,Titan Meridian Trading Ltda,Industrial,BA,2018-09-26
+57,Horizonte Pro Logística e Comércio Eireli,Automotivo,SP,2020-07-27
+58,Uni Inter Importações S.A.,Automotivo,PE,2019-03-13
+59,Tech Terra Indústria e Comércio Ltda,Industrial,MS,2018-05-21
+60,Solar Continental Soluções Industriais S.A.,Eletrônico,GO,2022-09-04
+61,Corp Horizonte Grupo Industrial S.A.,Automotivo,AM,2022-08-01
+62,Group Horizonte Importações S.A.,Eletrônico,PR,2018-08-25
+63,Brasil Group Indústria e Comércio Ltda,Industrial,PR,2021-05-23
+64,Titan Atlântico Trading Ltda,Industrial,PE,2020-09-27
+65,Terra Ômega Importações S.A.,Varejo,DF,2019-07-21
+66,Delta Alfa Logística e Comércio Eireli,Eletrônico,AM,2019-06-21
+67,Apex Star Tecnologia e Comércio Ltda,Varejo,PE,2018-01-20
+68,Sul Prime Indústria e Comércio Ltda,Automotivo,DF,2020-01-27
+69,Trans Group Indústria e Comércio Ltda,Varejo,MG,2018-03-27
+70,Horizonte Continental Comércio Exterior Ltda,Industrial,RS,2021-10-28
+71,Solar Brasil Logística e Comércio Eireli,Varejo,CE,2022-03-15
+72,Centro Solar Indústria e Comércio Ltda,Eletrônico,MS,2020-04-24
+73,Beta Nexus Logística e Comércio Eireli,Varejo,ES,2021-10-03
+74,Solar Porto Indústria e Comércio Ltda,Automotivo,BA,2022-11-22
+75,Delta Max Trading Ltda,Eletrônico,DF,2020-07-31
+76,Pacífico Horizonte Trading Ltda,Eletrônico,SP,2021-09-13
+77,Atlas Federal Logística e Comércio Eireli,Industrial,DF,2018-05-23
+78,Porto Pacífico Tecnologia e Comércio Ltda,Varejo,AM,2022-09-24
+79,Corp Atlântico Comércio Exterior Ltda,Automotivo,MS,2019-06-19
+80,Nexus Trans Soluções Industriais S.A.,Automotivo,RJ,2021-05-06
+81,Real Pacífico Logística e Comércio Eireli,Varejo,CE,2020-11-13
+82,Sul Nacional Grupo Industrial S.A.,Eletrônico,PR,2018-04-01
+83,Real Alfa Tecnologia e Comércio Ltda,Eletrônico,SC,2020-06-02
+84,Prime Atlântico Grupo Industrial S.A.,Industrial,AM,2022-10-03
+85,Sul Horizonte Tecnologia e Comércio Ltda,Industrial,AM,2020-04-16
+86,Meridian Federal Soluções Industriais S.A.,Eletrônico,RS,2020-05-11
+87,Nacional Nexus Grupo Industrial S.A.,Industrial,BA,2021-01-27
+88,Alfa Horizonte Soluções Industriais S.A.,Eletrônico,BA,2022-05-29
+89,Trans Multi Logística e Comércio Eireli,Varejo,GO,2020-06-24
+90,Titan Tech Distribuidora Nacional S.A.,Eletrônico,AM,2018-06-23
+91,Âncora Tech Grupo Industrial S.A.,Industrial,RJ,2022-08-04
+92,Solar Horizonte Trading Ltda,Eletrônico,MG,2018-02-20
+93,Delta Solar Distribuidora Nacional S.A.,Automotivo,GO,2020-04-28
+94,Inter Atlas Exportações e Importações Ltda,Varejo,BA,2019-05-15
+95,Centro Alfa Importações S.A.,Varejo,RS,2018-12-27
+96,Net Pro Comércio Exterior Ltda,Eletrônico,MS,2022-10-04
+97,Sul Pro Indústria e Comércio Ltda,Varejo,AM,2020-12-23
+98,Group Multi Logística e Comércio Eireli,Varejo,CE,2022-07-28
+99,Tech Real Tecnologia e Comércio Ltda,Varejo,MS,2018-11-22
+100,Max Star Soluções Industriais S.A.,Eletrônico,DF,2021-07-29
+101,Porto Net Distribuidora Nacional S.A.,Eletrônico,PR,2020-06-19
+102,Prime Âncora Trading Ltda,Industrial,SC,2019-10-17
+103,Corp Global Indústria e Comércio Ltda,Eletrônico,RS,2020-02-24
+104,Centro Titan Importações S.A.,Varejo,BA,2019-11-09
+105,Corp Pro Exportações e Importações Ltda,Automotivo,RS,2022-09-02
+106,Capital Nacional Grupo Industrial S.A.,Automotivo,DF,2022-12-09
+107,Inter Nacional Distribuidora Nacional S.A.,Automotivo,SC,2019-09-04
+108,Nacional Capital Tecnologia e Comércio Ltda,Eletrônico,GO,2019-03-26
+109,Porto Real Distribuidora Nacional S.A.,Automotivo,BA,2019-11-20
+110,Federal Apex Distribuidora Nacional S.A.,Eletrônico,CE,2020-12-29
+111,Beta Federal Grupo Industrial S.A.,Automotivo,RJ,2021-08-09
+112,Real Norte Distribuidora Nacional S.A.,Eletrônico,SP,2019-06-17
+113,Nacional Meridian Trading Ltda,Varejo,SC,2019-11-23
+114,Nacional Porto Exportações e Importações Ltda,Industrial,DF,2018-06-17
+115,Max Beta Tecnologia e Comércio Ltda,Automotivo,SC,2019-04-05
+116,Prime Delta Comércio Exterior Ltda,Eletrônico,RS,2022-09-15
+117,Beta Uni Indústria e Comércio Ltda,Eletrônico,MG,2020-08-27
+118,Sul Inter Trading Ltda,Varejo,MT,2019-06-09
+119,Continental Apex Grupo Industrial S.A.,Automotivo,ES,2022-08-05
+120,Apex Horizonte Importações S.A.,Automotivo,MS,2019-10-01
+121,Inter Nacional Exportações e Importações Ltda,Eletrônico,RJ,2021-04-27
+122,Solar Brasil Soluções Industriais S.A.,Automotivo,ES,2021-03-05
+123,Delta Pacífico Tecnologia e Comércio Ltda,Varejo,AM,2020-01-29
+124,Prime Tech Logística e Comércio Eireli,Automotivo,DF,2020-05-10
+125,Plus Brasil Exportações e Importações Ltda,Industrial,AM,2022-12-31
+126,Pro Centro Exportações e Importações Ltda,Eletrônico,MT,2020-12-04
+127,Porto Uni Tecnologia e Comércio Ltda,Varejo,GO,2020-06-11
+128,Trans Porto Logística e Comércio Eireli,Eletrônico,DF,2018-06-27
+129,Porto Star Trading Ltda,Varejo,CE,2021-06-03
+130,Nacional Atlântico Comércio Exterior Ltda,Varejo,DF,2019-10-28
+131,Nexus Plus Trading Ltda,Industrial,ES,2019-06-14
+132,Atlântico Porto Grupo Industrial S.A.,Industrial,PE,2018-01-21
+133,Net Atlas Importações S.A.,Eletrônico,MT,2020-04-12
+134,Plus Group Trading Ltda,Varejo,AM,2021-12-28
+135,Plus Star Comércio Exterior Ltda,Automotivo,PR,2019-03-30
+136,Federal Solar Soluções Industriais S.A.,Industrial,GO,2021-02-07
+137,Net Pacífico Exportações e Importações Ltda,Industrial,SC,2021-12-10
+138,Pro Porto Soluções Industriais S.A.,Industrial,RS,2018-09-05
+139,Atlas Meridian Importações S.A.,Eletrônico,RS,2019-03-20
+140,Max Porto Grupo Industrial S.A.,Industrial,RJ,2022-09-02
+141,Atlas Âncora Trading Ltda,Industrial,MG,2019-09-12
+142,Alfa Corp Indústria e Comércio Ltda,Industrial,SP,2018-04-22
+143,Group Âncora Indústria e Comércio Ltda,Varejo,RJ,2022-11-23
+144,Alfa Inter Soluções Industriais S.A.,Varejo,GO,2020-06-21
+145,Atlântico Nexus Comércio Exterior Ltda,Industrial,DF,2020-09-05
+146,Sul Prime Exportações e Importações Ltda,Varejo,RJ,2021-03-27
+147,Ômega Centro Indústria e Comércio Ltda,Industrial,RJ,2019-05-24
+148,Sul Group Exportações e Importações Ltda,Eletrônico,ES,2020-12-06
+149,Nacional Star Distribuidora Nacional S.A.,Industrial,DF,2021-04-20
+150,Real Horizonte Grupo Industrial S.A.,Automotivo,CE,2022-02-24
+151,Brasil Titan Trading Ltda,Industrial,AM,2018-06-16
+152,Apex Solar Indústria e Comércio Ltda,Automotivo,MG,2018-01-06
+153,Capital Star Grupo Industrial S.A.,Varejo,PR,2018-03-08
+154,Vega Âncora Soluções Industriais S.A.,Varejo,RJ,2021-11-08
+155,Vega Terra Grupo Industrial S.A.,Eletrônico,BA,2018-08-24
+156,Corp Vega Indústria e Comércio Ltda,Industrial,DF,2018-10-19
+157,Prime Ômega Indústria e Comércio Ltda,Industrial,CE,2022-03-14
+158,Inter Âncora Distribuidora Nacional S.A.,Automotivo,GO,2021-11-11
+159,Horizonte Federal Soluções Industriais S.A.,Varejo,GO,2018-06-14
+160,Multi Delta Exportações e Importações Ltda,Industrial,CE,2019-05-28
+161,Beta Global Trading Ltda,Automotivo,ES,2021-10-08
+162,Porto Inter Comércio Exterior Ltda,Eletrônico,GO,2020-11-28
+163,Star Porto Indústria e Comércio Ltda,Varejo,AM,2022-07-26
+164,Plus Global Distribuidora Nacional S.A.,Industrial,BA,2019-11-14
+165,Meridian Brasil Indústria e Comércio Ltda,Industrial,BA,2021-11-21
+166,Plus Âncora Exportações e Importações Ltda,Automotivo,GO,2018-06-30
+167,Meridian Terra Logística e Comércio Eireli,Automotivo,ES,2020-04-07
+168,Tech Alfa Tecnologia e Comércio Ltda,Varejo,BA,2018-04-22
+169,Atlas Net Logística e Comércio Eireli,Varejo,AM,2020-06-24
+170,Ômega Titan Soluções Industriais S.A.,Eletrônico,MS,2019-08-13
+171,Star Plus Importações S.A.,Automotivo,AM,2021-05-31
+172,Solar Apex Soluções Industriais S.A.,Automotivo,PE,2020-04-15
+173,Global Vega Importações S.A.,Varejo,RJ,2021-08-19
+174,Centro Plus Soluções Industriais S.A.,Industrial,BA,2022-09-06
+175,Max Max Trading Ltda,Varejo,PE,2018-10-24
+176,Nacional Atlas Grupo Industrial S.A.,Eletrônico,DF,2018-05-23
+177,Porto Capital Logística e Comércio Eireli,Industrial,DF,2018-01-06
+178,Âncora Horizonte Grupo Industrial S.A.,Varejo,DF,2018-11-01
+179,Star Corp Distribuidora Nacional S.A.,Industrial,SC,2021-02-04
+180,Corp Nacional Distribuidora Nacional S.A.,Industrial,DF,2019-01-22
+181,Solar Inter Exportações e Importações Ltda,Eletrônico,DF,2022-05-08
+182,Capital Delta Logística e Comércio Eireli,Varejo,MT,2022-07-20
+183,Nacional Nacional Indústria e Comércio Ltda,Varejo,SP,2018-09-16
+184,Tech Trans Logística e Comércio Eireli,Automotivo,DF,2022-09-27
+185,Star Brasil Tecnologia e Comércio Ltda,Varejo,SP,2022-01-19
+186,Centro Capital Indústria e Comércio Ltda,Automotivo,GO,2022-05-20
+187,Terra Atlântico Grupo Industrial S.A.,Varejo,AM,2018-06-14
+188,Atlântico Corp Exportações e Importações Ltda,Industrial,AM,2022-01-11
+189,Plus Corp Comércio Exterior Ltda,Automotivo,RS,2021-07-16
+190,Âncora Vega Importações S.A.,Varejo,RJ,2022-04-07
+191,Brasil Star Indústria e Comércio Ltda,Industrial,MS,2018-03-01
+192,Delta Meridian Comércio Exterior Ltda,Industrial,SC,2020-02-07
+193,Real Centro Trading Ltda,Varejo,CE,2021-10-28
+194,Nexus Apex Indústria e Comércio Ltda,Automotivo,CE,2022-11-19
+195,Nacional Uni Trading Ltda,Varejo,MS,2021-04-09
+196,Centro Vega Distribuidora Nacional S.A.,Industrial,GO,2019-06-07
+197,Alfa Pro Soluções Industriais S.A.,Eletrônico,RJ,2020-06-23
+198,Pacífico Trans Soluções Industriais S.A.,Varejo,MT,2019-05-28
+199,Pro Horizonte Trading Ltda,Varejo,DF,2020-09-16
+200,Brasil Solar Exportações e Importações Ltda,Industrial,CE,2019-08-29

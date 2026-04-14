@@ -1,0 +1,41 @@
+﻿Tabela,Coluna,Tipo,Chave,Descrição,Valores Possíveis / Regras
+dim_clientes,id_cliente,INT,PK,Identificador único do cliente,Sequencial 1 a 200
+dim_clientes,nome_empresa,VARCHAR,,Razão social da empresa importadora,Nome composto gerado
+dim_clientes,segmento,VARCHAR,,"Setor de atuação: Automotivo, Eletrônico, Industrial, Varejo",Automotivo | Eletrônico | Industrial | Varejo
+dim_clientes,estado,CHAR(2),,Unidade federativa (estado) do cliente,"15 UFs brasileiras (SP, RJ, MG, ...)"
+dim_clientes,data_cadastro,DATE,,Data de cadastro no sistema,"YYYY-MM-DD, entre 2018 e 2022"
+dim_fornecedores,id_fornecedor,INT,PK,Identificador único do fornecedor,Sequencial 1 a 100
+dim_fornecedores,nome_empresa,VARCHAR,,Nome comercial do fornecedor internacional,Nome empresa real-like
+dim_fornecedores,pais,VARCHAR,,País de origem do fornecedor,"China, EUA, Alemanha, Índia, Japão..."
+dim_fornecedores,lead_time_medio_dias,INT,,Lead time médio histórico em dias (15 a 90),"15 a 90 dias (Alta=15-40, Média=30-60, Baixa=50-90)"
+dim_fornecedores,confiabilidade,VARCHAR,,"Nível de confiabilidade do fornecedor: Alta, Média, Baixa",Alta | Média | Baixa
+dim_produtos,id_produto,INT,PK,Identificador único do produto,Sequencial 1 a 500
+dim_produtos,descricao,VARCHAR,,Descrição técnica do produto importado,"Descrição técnica com variantes (OEM, Premium, etc.)"
+dim_produtos,ncm,CHAR(8),,Nomenclatura Comum do Mercosul - código de 8 dígitos,8 dígitos numéricos válidos (ex: 84212300)
+dim_produtos,categoria,VARCHAR,,Categoria do produto alinhada ao segmento de mercado,Automotivo | Eletrônico | Industrial | Varejo
+dim_produtos,peso_unitario_kg,"DECIMAL(8,3)",,Peso unitário do produto em quilogramas,0.05 a 185.0 kg
+dim_produtos,valor_unitario_usd,"DECIMAL(10,2)",,Valor unitário do produto em dólar americano (USD),5.00 a 3200.00 USD
+dim_tempo,data,DATE,PK,Data completa (PK da dimensão tempo),2022-01-01 a 2024-12-31
+dim_tempo,ano,INT,,Ano de referência,"2022, 2023, 2024"
+dim_tempo,mes,INT,,Mês de referência (1-12),1 a 12
+dim_tempo,dia,INT,,Dia do mês,1 a 31
+dim_tempo,trimestre,INT,,Trimestre (1-4),1 a 4
+fato_processos_importacao,id_processo,INT,PK,Identificador único do processo de importação,Sequencial 1 a 1000
+fato_processos_importacao,id_cliente,INT,FK→dim_clientes,Cliente responsável pelo processo (FK),1 a 200
+fato_processos_importacao,id_fornecedor,INT,FK→dim_fornecedores,Fornecedor do processo (FK),1 a 100
+fato_processos_importacao,incoterm,CHAR(3),,"Condição comercial internacional: FOB, CIF ou EXW",FOB | CIF | EXW
+fato_processos_importacao,modal,VARCHAR,,Modal de transporte utilizado: Marítimo ou Aéreo,Marítimo | Aéreo
+fato_processos_importacao,data_embarque,DATE,,Data de embarque da mercadoria no país de origem,Entre 2022-01-01 e 2024-11-30
+fato_processos_importacao,data_chegada_prevista,DATE,,Data prevista de chegada ao Brasil,data_embarque + lead_time (5 a 60 dias)
+fato_processos_importacao,data_chegada_real,DATE,,Data real de chegada ao Brasil (pode diferir da prevista),Pode ser até 20 dias após a prevista
+fato_processos_importacao,status,VARCHAR,,"Status atual: Em trânsito, Atrasado, Desembaraçado, Entregue",Em trânsito | Atrasado | Desembaraçado | Entregue
+fato_processos_importacao,taxa_cambio_usd_brl,"DECIMAL(6,4)",,Taxa de câmbio USD/BRL na data do embarque,Entre 4.8000 e 5.8000 BRL/USD
+fato_itens_processo,id_item,INT,PK,Identificador único do item do processo,Sequencial auto-incremento
+fato_itens_processo,id_processo,INT,FK→fato_processos,Processo ao qual o item pertence (FK),1 a 1000
+fato_itens_processo,id_produto,INT,FK→dim_produtos,Produto do item (FK),1 a 500
+fato_itens_processo,quantidade,INT,,Quantidade de unidades importadas,10 a 500 unidades
+fato_itens_processo,valor_total_usd,"DECIMAL(12,2)",,Valor total do item em USD (quantidade × valor unitário ± ajuste),Calculado: qtd × valor_unitario_usd × fator_desconto
+fato_custos,id_custo,INT,PK,Identificador único do registro de custo,Sequencial auto-incremento
+fato_custos,id_processo,INT,FK→fato_processos,Processo ao qual o custo está vinculado (FK),1 a 1000
+fato_custos,tipo_custo,VARCHAR,,"Tipo de custo: Frete Internacional, Seguro, Imposto Importação, ICMS, Armazenagem, Demurrage, Despachante",Frete Internacional | Seguro | Imposto Importação | ICMS | Armazenagem | Demurrage | Despachante
+fato_custos,valor_brl,"DECIMAL(12,2)",,Valor do custo em Reais Brasileiros (BRL),"Valor em BRL, impactado pela taxa de câmbio do processo"

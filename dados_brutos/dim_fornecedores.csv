@@ -1,0 +1,101 @@
+﻿id_fornecedor,nome_empresa,pais,lead_time_medio_dias,confiabilidade
+1,Shenzhen Tech Co.,Itália,64,Baixa
+2,Beijing Manufacturing Ltd,China,43,Média
+3,Shanghai Global Trade,EUA,40,Média
+4,Guangzhou Industrial Corp,Índia,29,Alta
+5,General Motors Supply,Índia,27,Alta
+6,Ford Components LLC,México,28,Alta
+7,American Industrial Parts,EUA,38,Alta
+8,US Tech Exports Inc,Índia,33,Média
+9,BMW Parts GmbH,China,25,Alta
+10,Siemens Components AG,EUA,77,Baixa
+11,Bosch Industrial GmbH,China,70,Baixa
+12,Mercedes Supply GmbH,EUA,51,Média
+13,Tata Motors Components,EUA,38,Média
+14,Mahindra Parts Ltd,México,41,Média
+15,Infosys Supply Chain,China,60,Média
+16,Wipro Industrial India,EUA,59,Baixa
+17,Toyota Parts Co.,EUA,80,Baixa
+18,Panasonic Supply Japan,México,32,Média
+19,Samsung Industrial Korea,Coreia do Sul,32,Média
+20,LG Components Co.,China,56,Média
+21,ACER Taiwan Supply,Índia,17,Alta
+22,Foxconn Manufacturing,EUA,32,Média
+23,Haier Global Trade,Taiwan,28,Alta
+24,Lenovo Supply Chain,EUA,33,Média
+25,Huawei Components Ltd,EUA,73,Baixa
+26,Xiaomi Industrial,China,40,Alta
+27,DJI Supply Co.,China,34,Média
+28,BYD Battery Systems,Coreia do Sul,32,Alta
+29,CATL Energy Components,EUA,16,Alta
+30,Midea Industrial,Alemanha,87,Baixa
+31,Vietnam Manufacturing Co.,Alemanha,60,Média
+32,Hanoi Parts Ltd,Alemanha,85,Baixa
+33,Ho Chi Minh Trade,China,32,Alta
+34,Italian Precision Parts,Japão,25,Alta
+35,Fiat Components Italy,China,36,Alta
+36,Ferrari Industrial,China,18,Alta
+37,Volkswagen Mexico Parts,Alemanha,43,Média
+38,Nissan Mexico Supply,China,26,Alta
+39,Honda Mexico Industrial,Japão,36,Alta
+40,Hyundai Global Parts,China,60,Média
+41,Kia Supply Chain Korea,China,39,Alta
+42,Daewoo Components,Coreia do Sul,77,Baixa
+43,GE Industrial USA,China,57,Média
+44,3M Supply Chain,China,38,Alta
+45,Honeywell Components,Itália,16,Alta
+46,Caterpillar Parts USA,China,24,Alta
+47,John Deere Supply,Coreia do Sul,34,Alta
+48,Parker Hannifin Corp,China,39,Média
+49,Emerson Electric Supply,China,72,Baixa
+50,Illinois Tool Works,China,18,Alta
+51,Eaton Corporation,China,33,Alta
+52,Schneider Electric France,Alemanha,31,Alta
+53,ABB Switzerland Supply,China,21,Alta
+54,Philips Industrial,China,34,Média
+55,BASF Chemical Germany,Japão,36,Alta
+56,Bayer Industrial AG,China,45,Média
+57,ThyssenKrupp Components,China,37,Média
+58,Michelin Tire Supply,China,18,Alta
+59,Valeo Automotive Parts,China,41,Média
+60,Faurecia Components,Índia,57,Média
+61,Continental Automotive,EUA,47,Média
+62,ZF Friedrichshafen AG,Índia,41,Média
+63,Schaeffler Group,EUA,18,Alta
+64,Mahle Industrial GmbH,Japão,67,Baixa
+65,Hella Automotive,EUA,48,Média
+66,Knorr-Bremse AG,China,22,Alta
+67,Webasto Group GmbH,EUA,40,Alta
+68,Mann+Hummel Group,México,43,Média
+69,Leoni Wire Systems,China,32,Alta
+70,Dräxlmaier Group,Japão,89,Baixa
+71,Brose Fahrzeugteile,Coreia do Sul,34,Alta
+72,Grammer AG Components,EUA,36,Alta
+73,Modine Manufacturing,EUA,35,Alta
+74,Gentex Corporation,México,32,Alta
+75,Dana Incorporated,China,30,Média
+76,BorgWarner Inc Supply,EUA,34,Alta
+77,Delphi Technologies,EUA,36,Alta
+78,Aptiv Components,Índia,37,Alta
+79,Lear Corporation Parts,EUA,23,Alta
+80,Sensata Technologies,Itália,15,Alta
+81,Methode Electronics,China,35,Média
+82,Stoneridge Components,China,23,Alta
+83,Superior Industries,Alemanha,52,Média
+84,Dorman Products,China,39,Alta
+85,Standard Motor Products,China,24,Alta
+86,Modine Thermal,Alemanha,71,Baixa
+87,Wabash National,EUA,26,Alta
+88,Traton Group Parts,China,15,Alta
+89,AGCO Supply Chain,Vietnã,35,Média
+90,Kubota Industrial,EUA,57,Média
+91,Yanmar Components,EUA,19,Alta
+92,Cummins Supply Chain,Alemanha,86,Baixa
+93,Perkins Engines Ltd,China,51,Média
+94,MTU Friedrichshafen,Índia,27,Alta
+95,MAN Industrial Parts,Coreia do Sul,17,Alta
+96,Rolls-Royce Components,Alemanha,34,Média
+97,GKN Aerospace Parts,Japão,53,Média
+98,Safran Supply Chain,Índia,35,Alta
+99,Honeywell Aerospace,China,15,Alta
+100,Raytheon Components,EUA,55,Baixa

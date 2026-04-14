@@ -1,0 +1,101 @@
+﻿id_fornecedor,nome_fornecedor,pais,confiabilidade,total_processos,lead_time_real_medio,lead_time_prev_medio,desvio_medio_dias,taxa_atraso_pct,processos_atrasados
+81,Methode Electronics,China,Média,3,19.33,20.67,-1.33,0.0,0
+78,Aptiv Components,Índia,Alta,6,20.17,21.33,-1.17,0.0,0
+80,Sensata Technologies,Itália,Alta,5,22.2,23.0,-0.8,0.0,0
+91,Yanmar Components,EUA,Alta,1,23.0,25.0,-2.0,0.0,0
+71,Brose Fahrzeugteile,Coreia do Sul,Alta,3,23.33,24.33,-1.0,0.0,0
+36,Ferrari Industrial,China,Alta,6,23.67,24.33,-0.67,0.0,0
+30,Midea Industrial,Alemanha,Baixa,8,24.0,21.25,2.75,25.0,2
+12,Mercedes Supply GmbH,EUA,Média,7,24.14,23.29,0.86,29.0,2
+14,Mahindra Parts Ltd,México,Média,3,25.33,20.0,5.33,67.0,2
+55,BASF Chemical Germany,Japão,Alta,5,25.6,26.4,-0.8,0.0,0
+16,Wipro Industrial India,EUA,Baixa,4,25.75,27.0,-1.25,0.0,0
+61,Continental Automotive,EUA,Média,8,26.25,26.25,0.0,12.0,1
+68,Mann+Hummel Group,México,Média,9,27.0,24.22,2.78,33.0,3
+50,Illinois Tool Works,China,Alta,5,27.2,28.6,-1.4,0.0,0
+74,Gentex Corporation,México,Alta,5,27.6,28.0,-0.4,0.0,0
+41,Kia Supply Chain Korea,China,Alta,11,27.91,29.09,-1.18,0.0,0
+77,Delphi Technologies,EUA,Alta,7,28.57,27.14,1.43,29.0,2
+27,DJI Supply Co.,China,Média,7,28.71,27.86,0.86,14.0,1
+44,3M Supply Chain,China,Alta,12,28.92,29.17,-0.25,8.0,1
+19,Samsung Industrial Korea,Coreia do Sul,Média,12,29.25,26.25,3.0,25.0,3
+85,Standard Motor Products,China,Alta,5,29.4,30.4,-1.0,0.0,0
+22,Foxconn Manufacturing,EUA,Média,5,29.6,29.0,0.6,20.0,1
+29,CATL Energy Components,EUA,Alta,8,30.0,29.12,0.88,12.0,1
+75,Dana Incorporated,China,Média,9,30.11,30.67,-0.56,33.0,3
+46,Caterpillar Parts USA,China,Alta,9,30.33,31.11,-0.78,0.0,0
+4,Guangzhou Industrial Corp,Índia,Alta,7,30.71,30.86,-0.14,14.0,1
+38,Nissan Mexico Supply,China,Alta,9,30.78,31.67,-0.89,0.0,0
+37,Volkswagen Mexico Parts,Alemanha,Média,5,30.8,32.0,-1.2,0.0,0
+28,BYD Battery Systems,Coreia do Sul,Alta,6,31.0,29.67,1.33,17.0,1
+5,General Motors Supply,Índia,Alta,8,31.38,32.38,-1.0,0.0,0
+52,Schneider Electric France,Alemanha,Alta,7,31.43,31.14,0.29,14.0,1
+62,ZF Friedrichshafen AG,Índia,Média,12,32.25,30.92,1.33,25.0,3
+34,Italian Precision Parts,Japão,Alta,5,32.4,33.8,-1.4,0.0,0
+89,AGCO Supply Chain,Vietnã,Média,6,32.67,34.33,-1.67,0.0,0
+18,Panasonic Supply Japan,México,Média,8,32.88,33.62,-0.75,12.0,1
+8,US Tech Exports Inc,Índia,Média,4,33.0,32.5,0.5,25.0,1
+96,Rolls-Royce Components,Alemanha,Média,5,33.2,32.6,0.6,20.0,1
+79,Lear Corporation Parts,EUA,Alta,7,33.57,32.86,0.71,14.0,1
+66,Knorr-Bremse AG,China,Alta,8,33.75,32.62,1.12,12.0,1
+73,Modine Manufacturing,EUA,Alta,5,33.8,27.6,6.2,40.0,2
+26,Xiaomi Industrial,China,Alta,6,34.0,35.33,-1.33,0.0,0
+90,Kubota Industrial,EUA,Média,7,34.14,34.86,-0.71,0.0,0
+20,LG Components Co.,China,Média,5,34.2,34.6,-0.4,20.0,1
+98,Safran Supply Chain,Índia,Alta,10,34.5,33.3,1.2,10.0,1
+31,Vietnam Manufacturing Co.,Alemanha,Média,5,34.6,33.2,1.4,20.0,1
+35,Fiat Components Italy,China,Alta,10,34.8,36.1,-1.3,10.0,1
+51,Eaton Corporation,China,Alta,3,35.0,36.67,-1.67,0.0,0
+88,Traton Group Parts,China,Alta,12,35.08,35.67,-0.58,0.0,0
+47,John Deere Supply,Coreia do Sul,Alta,8,35.38,36.12,-0.75,0.0,0
+23,Haier Global Trade,Taiwan,Alta,9,35.44,37.0,-1.56,0.0,0
+39,Honda Mexico Industrial,Japão,Alta,7,35.71,35.43,0.29,14.0,1
+43,GE Industrial USA,China,Média,3,36.33,35.33,1.0,33.0,1
+9,BMW Parts GmbH,China,Alta,7,36.43,36.86,-0.43,0.0,0
+6,Ford Components LLC,México,Alta,4,36.5,37.5,-1.0,0.0,0
+54,Philips Industrial,China,Média,9,36.78,36.0,0.78,11.0,1
+65,Hella Automotive,EUA,Média,5,36.8,37.4,-0.6,0.0,0
+95,MAN Industrial Parts,Coreia do Sul,Alta,9,37.0,36.56,0.44,11.0,1
+84,Dorman Products,China,Alta,5,37.0,38.0,-1.0,0.0,0
+69,Leoni Wire Systems,China,Alta,7,37.57,37.0,0.57,14.0,1
+7,American Industrial Parts,EUA,Alta,6,37.67,39.17,-1.5,0.0,0
+67,Webasto Group GmbH,EUA,Alta,5,38.2,39.6,-1.4,0.0,0
+11,Bosch Industrial GmbH,China,Baixa,7,38.29,34.43,3.86,43.0,3
+99,Honeywell Aerospace,China,Alta,10,38.5,38.0,0.5,20.0,2
+24,Lenovo Supply Chain,EUA,Média,5,38.6,39.8,-1.2,0.0,0
+87,Wabash National,EUA,Alta,12,38.67,39.5,-0.83,8.0,1
+63,Schaeffler Group,EUA,Alta,6,38.83,40.17,-1.33,0.0,0
+45,Honeywell Components,Itália,Alta,5,39.0,38.0,1.0,20.0,1
+33,Ho Chi Minh Trade,China,Alta,14,39.64,39.79,-0.14,14.0,2
+72,Grammer AG Components,EUA,Alta,5,40.2,41.2,-1.0,0.0,0
+15,Infosys Supply Chain,China,Média,8,40.25,32.75,7.5,50.0,4
+49,Emerson Electric Supply,China,Baixa,7,40.43,35.71,4.71,57.0,4
+2,Beijing Manufacturing Ltd,China,Média,4,40.5,38.0,2.5,25.0,1
+76,BorgWarner Inc Supply,EUA,Alta,6,40.5,39.67,0.83,17.0,1
+86,Modine Thermal,Alemanha,Baixa,8,41.0,32.62,8.38,75.0,6
+10,Siemens Components AG,EUA,Baixa,7,41.29,35.86,5.43,43.0,3
+100,Raytheon Components,EUA,Baixa,2,41.5,38.5,3.0,100.0,2
+42,Daewoo Components,Coreia do Sul,Baixa,6,42.0,32.17,9.83,83.0,5
+60,Faurecia Components,Índia,Média,7,42.0,40.57,1.43,14.0,1
+13,Tata Motors Components,EUA,Média,4,42.25,35.0,7.25,50.0,2
+70,Dräxlmaier Group,Japão,Baixa,8,42.62,34.5,8.12,75.0,6
+3,Shanghai Global Trade,EUA,Média,8,42.88,42.88,0.0,12.0,1
+17,Toyota Parts Co.,EUA,Baixa,8,43.0,39.12,3.88,50.0,4
+56,Bayer Industrial AG,China,Média,9,43.33,41.22,2.11,22.0,2
+53,ABB Switzerland Supply,China,Alta,6,43.5,41.0,2.5,33.0,2
+21,ACER Taiwan Supply,Índia,Alta,5,43.6,43.2,0.4,20.0,1
+1,Shenzhen Tech Co.,Itália,Baixa,3,43.67,38.0,5.67,67.0,2
+58,Michelin Tire Supply,China,Alta,11,43.91,44.27,-0.36,18.0,2
+93,Perkins Engines Ltd,China,Média,4,44.0,40.25,3.75,25.0,1
+40,Hyundai Global Parts,China,Média,5,44.4,38.6,5.8,60.0,3
+92,Cummins Supply Chain,Alemanha,Baixa,6,44.67,43.33,1.33,33.0,2
+59,Valeo Automotive Parts,China,Média,5,45.2,38.6,6.6,40.0,2
+97,GKN Aerospace Parts,Japão,Média,4,45.5,43.75,1.75,25.0,1
+32,Hanoi Parts Ltd,Alemanha,Baixa,13,45.69,37.92,7.77,69.0,9
+94,MTU Friedrichshafen,Índia,Alta,7,46.43,47.71,-1.29,0.0,0
+82,Stoneridge Components,China,Alta,7,46.71,45.29,1.43,29.0,2
+57,ThyssenKrupp Components,China,Média,3,47.33,46.33,1.0,33.0,1
+64,Mahle Industrial GmbH,Japão,Baixa,3,47.67,40.33,7.33,67.0,2
+48,Parker Hannifin Corp,China,Média,5,47.8,41.4,6.4,60.0,3
+25,Huawei Components Ltd,EUA,Baixa,4,50.75,45.25,5.5,75.0,3
+83,Superior Industries,Alemanha,Média,3,51.0,52.33,-1.33,0.0,0
